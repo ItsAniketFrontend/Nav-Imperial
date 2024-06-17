@@ -886,6 +886,22 @@ footer .foot h4 {
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
+footer .foot h6 {
+  color: #383838;
+  font-family: "Arimo", sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px; /* 150% */
+}
+footer .foot p {
+  color: #383838;
+  font-family: "Arimo", sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px; /* 150% */
+}
 footer .foot li a {
   text-decoration: none;
   color: #383838;
@@ -912,4 +928,587 @@ footer .sub-foot h6 {
   line-height: 24px;
   text-align: center;
   /* 150% */
+}
+
+.knee-replacement-banner {
+  background: url(../Images/knee-replacement-banner.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 538px;
+}
+.knee-replacement-banner .col-12 {
+  min-height: 538px;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.knee-replacement-banner .col-12 h6 {
+  margin: 0px;
+  color: #303030;
+  font-family: "Futura Md BT";
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.knee-replacement-banner .col-12 h1 {
+  font-family: "Arimo", sans-serif;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 56px;
+  /* 112% */
+  background: linear-gradient(224deg, #0E3F72 6.81%, #09956D 95.34%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin: 0px;
+}
+.knee-replacement-banner .col-12 button {
+  border-radius: 10.792px;
+  padding: 10px;
+  border: none;
+  background: linear-gradient(224deg, #0E3F72 6.81%, #09956D 95.34%), #FFF;
+  box-shadow: 0px 3.083px 3.083px 0px rgba(0, 0, 0, 0.25);
+}
+.knee-replacement-banner .col-12 button a {
+  color: #FFF;
+  text-align: center;
+  font-family: "Arimo", sans-serif;
+  text-decoration: none;
+  font-size: 24.306px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 23.495px;
+  /* 96.667% */
+}
+
+.knee-replacement-about {
+  padding-top: 100px;
+  padding-bottom: 80px;
+}
+.knee-replacement-about h6 {
+  font-family: "Futura Hv BT";
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 32px;
+  /* 128% */
+  background: linear-gradient(224deg, #0E3F72 6.81%, #09956D 95.34%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin: 0px;
+}
+.knee-replacement-about p {
+  color: #5A5A5A;
+  font-family: "Arimo", sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 25px;
+  /* 156.25% */
+  margin: 0px;
+}
+
+.knee-association {
+  background: url(../Images/home-orthopedic-bg.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 540px;
+}
+.knee-association .hei {
+  min-height: 540px;
+}
+.knee-association hr {
+  width: 100%;
+  border: 1px solid #fff;
+  rotate: 90deg;
+  margin: 0px;
+}
+.knee-association h6 {
+  color: #FFF;
+  text-align: center;
+  font-family: "Arimo", sans-serif;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 22px;
+  /* 88% */
+}
+.knee-association p {
+  color: #FFF;
+  text-align: center;
+  font-family: "Arimo", sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 22px;
+  /* 137.5% */
+}
+.knee-association h3 {
+  color: #FFF;
+  font-family: "Futura Hv BT";
+  font-size: 26.152px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 33.475px;
+  /* 128% */
+}
+.knee-association h4 {
+  color: #FFF;
+  font-family: "Arimo", sans-serif;
+  font-size: 14.645px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 20.922px;
+  /* 142.857% */
+}
+
+.knee-why-sachin {
+  padding-top: 80px;
+  padding-bottom: 60px;
+}
+.knee-why-sachin h2 {
+  color: #174779;
+  font-family: "Futura Md BT";
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 40px;
+  /* 133.333% */
+}
+.knee-why-sachin li {
+  color: #5A5A5A;
+  font-family: "Arimo", sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 25px;
+  /* 156.25% */
+}
+.knee-why-sachin p {
+  color: #5A5A5A;
+  font-family: "Arimo", sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 25px;
+  /* 156.25% */
+}
+
+.knee-area-specialisation {
+  padding: 60px 0px;
+}
+.knee-area-specialisation h2 {
+  color: #174779;
+  font-family: "Futura Md BT";
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 40px;
+  /* 114.286% */
+}
+.knee-area-specialisation .cover {
+  background: url(../Images/knee-specialisation.png);
+  background-position: center;
+  background-repeat: repeat;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 20px;
+  padding: 70px;
+}
+@media (max-width: 991px) {
+  .knee-area-specialisation .cover {
+    padding: 20px;
+  }
+}
+.knee-area-specialisation .cover h3 {
+  color: #FFF;
+  font-family: "Futura Md BT";
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 32px;
+  /* 128% */
+  margin: 0px;
+}
+.knee-area-specialisation .cover p {
+  color: #FFF;
+  font-family: "Arimo", sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 25px;
+  /* 156.25% */
+}
+.knee-area-specialisation .cover .hei {
+  padding: 20px;
+}
+.knee-area-specialisation .cover .svg-box {
+  padding: 20px;
+  border-radius: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid #fff;
+}
+@media (max-width: 991px) {
+  .knee-area-specialisation .cover .svg-box {
+    width: -moz-fit-content;
+    width: fit-content;
+  }
+}
+
+.knee-benefits {
+  padding-top: 60px;
+  padding-bottom: 80px;
+}
+.knee-benefits h2 {
+  text-align: center;
+  font-family: "Futura Md BT";
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 45px;
+  /* 128.571% */
+  background: linear-gradient(230deg, #0E3F72 9.66%, #09956D 101.42%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.knee-benefits .svg-box {
+  width: -moz-fit-content;
+  width: fit-content;
+  padding: 20px;
+  border-radius: 100px;
+  position: relative;
+  left: 0px;
+  top: 20px;
+  border: 1px solid #fff;
+  background: linear-gradient(230deg, #0E3F72 9.66%, #09956D 101.42%);
+}
+.knee-benefits .content-box {
+  border-radius: 32px;
+  border: 1px solid #002D55;
+  padding: 30px;
+}
+.knee-benefits h3 {
+  text-align: center;
+  font-family: "Futura Md BT";
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 30px;
+  /* 120% */
+  background: linear-gradient(230deg, #0E3F72 9.66%, #09956D 101.42%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.knee-looking {
+  padding-bottom: 60px;
+}
+.knee-looking .bg {
+  padding: 38px 0px;
+  border-radius: 25px;
+  background: linear-gradient(224deg, #0E3F72 39.54%, #09956D 117.77%), #002D55;
+}
+.knee-looking h2 {
+  color: #EEF6FF;
+  text-align: center;
+  font-family: "Futura Md BT";
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 45px;
+  /* 128.571% */
+  margin: 0px;
+}
+.knee-looking p {
+  color: #FFF;
+  text-align: center;
+  font-family: "Arimo", sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 22px;
+  /* 137.5% */
+  margin: 0px;
+}
+.knee-looking button {
+  border-radius: 5px;
+  background: #D9D9D9;
+  box-shadow: -8px 8px 11.8px 0px rgba(0, 0, 0, 0.25);
+  padding: 11px 50px;
+}
+.knee-looking button a {
+  text-align: center;
+  font-family: "Arimo", sans-serif;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 24px;
+  /* 96% */
+  background: linear-gradient(224deg, #174779 6.81%, #09956D 95.34%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.knee-3d {
+  padding: 65px 0px;
+}
+.knee-3d h2 {
+  font-family: "Futura Md BT";
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 45px;
+  /* 128.571% */
+  background: linear-gradient(230deg, #0E3F72 9.66%, #09956D 101.42%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin: 0px;
+}
+.knee-3d li {
+  color: #5A5A5A;
+  font-family: "Arimo", sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 35px;
+  /* 218.75% */
+}
+.knee-3d h3 {
+  font-family: "Futura Md BT";
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 32px;
+  /* 128% */
+  background: linear-gradient(230deg, #0E3F72 9.66%, #09956D 101.42%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin: 0px;
+}
+.knee-3d .bg {
+  margin-top: 50px;
+  border-radius: 15px;
+  background: #D9D9D9;
+  padding: 30px;
+}
+
+.highly-rated-knee {
+  padding: 60px 0px;
+}
+.highly-rated-knee h2 {
+  margin: 0px;
+  font-family: "Futura Md BT";
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 45px;
+  /* 128.571% */
+  background: linear-gradient(230deg, #0E3F72 9.66%, #09956D 101.42%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.highly-rated-knee p {
+  color: #5A5A5A;
+  font-family: "Arimo", sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 22px;
+  /* 137.5% */
+  margin: 0px;
+}
+.highly-rated-knee .bg {
+  border-radius: 20px;
+  background: #E3E3E3;
+  padding: 20px;
+}
+
+.knee-cost {
+  padding: 60px 0px;
+}
+.knee-cost h2 {
+  font-family: "Futura Md BT";
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 45px;
+  /* 128.571% */
+  background: linear-gradient(230deg, #0E3F72 9.66%, #09956D 101.42%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin: 0px;
+}
+.knee-cost p {
+  color: #5A5A5A;
+  font-family: "Arimo", sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 22px;
+  /* 137.5% */
+  margin: 0px;
+}
+
+.knee-youtube {
+  padding: 50px 0px;
+  background: linear-gradient(224deg, #0E3F72 39.54%, #09956D 117.77%), #002D55;
+}
+.knee-youtube h2 {
+  color: #EEF6FF;
+  text-align: center;
+  font-family: "Futura Md BT";
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 45px;
+  /* 128.571% */
+}
+
+.knee-why-choose {
+  padding: 60px 0px;
+}
+.knee-why-choose h2 {
+  text-align: center;
+  font-family: "Futura Md BT";
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 45px;
+  /* 128.571% */
+  background: linear-gradient(230deg, #0E3F72 9.66%, #09956D 101.42%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.knee-why-choose h6 {
+  background: linear-gradient(230deg, #0E3F72 9.66%, #09956D 101.42%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-family: "Futura Hv BT";
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  /* 109.091% */
+}
+.knee-why-choose p {
+  color: #5A5A5A;
+  font-family: "Arimo", sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 22px;
+  /* 137.5% */
+}
+.knee-why-choose .box {
+  border-radius: 20px;
+  border: 1px solid #000;
+  padding-top: 30px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.knee-are-you-pain .box {
+  border-radius: 30px;
+  padding: 30px 0px;
+  background: linear-gradient(224deg, #0E3F72 39.54%, #09956D 117.77%), #002D55;
+}
+.knee-are-you-pain h2 {
+  color: #EEF6FF;
+  text-align: center;
+  font-family: "Futura Md BT";
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 45px;
+  /* 128.571% */
+}
+.knee-are-you-pain p {
+  color: #FFF;
+  text-align: center;
+  font-family: "Arimo", sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 22px;
+  /* 137.5% */
+}
+.knee-are-you-pain button {
+  border-radius: 5px;
+  background: #D9D9D9;
+  box-shadow: -8px 8px 11.8px 0px rgba(0, 0, 0, 0.25);
+  padding: 10px 30px;
+}
+.knee-are-you-pain button a {
+  text-align: center;
+  font-family: "Arimo", sans-serif;
+  text-decoration: none;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 24px;
+  /* 96% */
+  background: linear-gradient(224deg, #174779 6.81%, #09956D 95.34%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.faq {
+  padding: 60px 0px;
+}
+.faq h2 {
+  font-family: "Futura Md BT";
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 45px;
+  /* 112.5% */
+  background: linear-gradient(171deg, #0E3F72 -44.2%, #09956D 111.61%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.faq .box {
+  border-radius: 20px;
+  background: #DEDEDE;
+  padding: 20px;
+}
+.faq .box h3 {
+  color: #002D55;
+  font-family: "Arimo", sans-serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 32px;
+  /* 160% */
+  margin: 0px;
+}
+.faq .box p {
+  color: #383838;
+  font-family: "Arimo", sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  /* 150% */
+  margin: 0px;
 }/*# sourceMappingURL=style.css.map */
