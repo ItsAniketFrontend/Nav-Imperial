@@ -15,7 +15,11 @@
 }
 
 main {
-    background: url(../Images/web-bg.png) lightgray -100.912px 0px / 125.68% 144.817% no-repeat;
+    background: url(../Images/web-bg.png);
+    background-size: auto;
+    background-repeat: repeat;
+    background-position: center;
+    mix-blend-mode: multiply;
 }
 
 .home-banner {
@@ -989,21 +993,25 @@ footer {
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
         }
-        h6{
+
+        h6 {
             color: #383838;
             font-family: "Arimo", sans-serif;
             font-size: 16px;
             font-style: normal;
             font-weight: 400;
-            line-height: 24px; /* 150% */
+            line-height: 24px;
+            /* 150% */
         }
-        p{
+
+        p {
             color: #383838;
             font-family: "Arimo", sans-serif;
             font-size: 16px;
             font-style: normal;
             font-weight: 400;
-            line-height: 24px; /* 150% */
+            line-height: 24px;
+            /* 150% */
         }
 
         li {
@@ -1672,6 +1680,610 @@ footer {
             line-height: 24px;
             /* 150% */
             margin: 0px;
+        }
+    }
+}
+
+.top-bariatic {
+    padding: 50px 0px;
+
+    h2 {
+        margin: 0px;
+        font-family: "Arimo", sans-serif;
+        font-size: 35px;
+        font-style: normal;
+        text-align: center;
+        font-weight: 700;
+        line-height: 40px;
+        /* 114.286% */
+        background: linear-gradient(224deg, #0E3F72 6.81%, #09956D 95.34%);
+        background-clip: text;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+
+    p {
+        color: #5A5A5A;
+        text-align: center;
+        font-family: "Arimo", sans-serif;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 25px;
+        /* 156.25% */
+    }
+}
+
+.what-bariatic {
+    padding: 70px 0px;
+
+    h3 {
+        font-family: "Arimo", sans-serif;
+        font-size: 35px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 40px;
+        /* 114.286% */
+        background: linear-gradient(224deg, #0E3F72 6.81%, #09956D 95.34%);
+        background-clip: text;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        margin: 0px;
+    }
+
+    p {
+        color: #5A5A5A;
+        font-family: "Arimo", sans-serif;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 25px;
+        /* 156.25% */
+    }
+}
+
+.bariatic-special {
+    background: url(../Images/home-orthopedic-bg.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 24px 0px;
+
+    h3 {
+        color: #FFF;
+        font-family: "Arimo", sans-serif;
+        font-size: 35px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 40px;
+        /* 114.286% */
+    }
+
+    li {
+        list-style: none;
+        color: #FFF;
+        font-family: "Arimo", sans-serif;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 25px;
+        /* 138.889% */
+    }
+
+    h4 {
+        margin: 0px;
+        color: #FFF;
+        font-family: "Futura Hv BT";
+        font-size: 26.217px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 32.079px;
+        /* 122.361% */
+    }
+
+    p {
+        margin: 0px;
+        color: #FFF;
+
+        font-family: "Arimo", sans-serif;
+        font-size: 14.681px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 20.973px;
+        /* 142.857% */
+    }
+
+    h5 {
+        margin: 0px;
+        color: #FFF;
+
+        font-family: "Arimo", sans-serif;
+        font-size: 16.779px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 23.071px;
+        /* 137.5% */
+    }
+
+    button {
+        width: fit-content;
+        padding: 10px 40px;
+        background: #fff;
+
+        a {
+            font-family: "Arimo", sans-serif;
+            font-size: 20.873px;
+            font-style: normal;
+            font-weight: 700;
+            line-height: normal;
+            background: linear-gradient(217deg, #104175 -6.15%, #078863 130.71%);
+            background-clip: text;
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+    }
+}
+
+.bariatic-services {
+    padding-top: 70px;
+    padding-bottom: 135px;
+
+    h2 {
+        font-family: "Futura Md BT";
+        font-size: 35px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 40px;
+        /* 114.286% */
+        background: linear-gradient(202deg, #0E3F72 37.38%, #09956D 121.58%);
+        background-clip: text;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+
+    h3 {
+        font-family: "Futura Md BT";
+        font-size: 25px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 25px;
+        /* 100% */
+        background: linear-gradient(230deg, #0E3F72 9.66%, #09956D 101.42%);
+        background-clip: text;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+
+    p {
+        color: #5A5A5A;
+        font-family: "Arimo", sans-serif;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 22px;
+        /* 137.5% */
+    }
+}
+
+.bariatic-potential {
+    padding-bottom: 60px;
+
+    h2 {
+        font-family: "Futura Md BT";
+        font-size: 35px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 40px;
+        /* 114.286% */
+        background: linear-gradient(202deg, #0E3F72 37.38%, #09956D 121.58%);
+        background-clip: text;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        padding-bottom: 40px;
+    }
+
+    h3 {
+        background: linear-gradient(230deg, #0E3F72 9.66%, #09956D 101.42%);
+        background-clip: text;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        margin: 0px;
+        font-family: "Futura Md BT";
+        font-size: 25px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 25px;
+        /* 100% */
+    }
+
+    p {
+        margin: 0px;
+        color: #5A5A5A;
+        font-family: "Arimo", sans-serif;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 22px;
+        /* 137.5% */
+    }
+}
+
+.bariatic-surgery-process {
+    padding: 60px 0px;
+    background: url(../Images/home-orthopedic-bg.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    h2 {
+        color: #FFF;
+        font-family: "Futura Md BT";
+        font-size: 35px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 40px;
+        /* 114.286% */
+        margin: 0px;
+        padding-bottom: 14px;
+    }
+
+    p {
+        color: #FFF;
+        font-family: "Arimo", sans-serif;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 22px;
+        /* 137.5% */
+        margin: 0px;
+        padding-top: 6px;
+        padding-bottom: 10px;
+    }
+
+    button {
+        margin-top: 25px;
+        background: #fff;
+        padding: 7px 30px;
+        width: fit-content;
+
+        a {
+            text-decoration: none;
+            color: #086349;
+            font-family: "Arimo", sans-serif;
+            font-size: 20.873px;
+            font-style: normal;
+            font-weight: 700;
+            line-height: normal;
+        }
+    }
+
+    .box {
+        border-radius: 17px;
+        border: 1px solid #FFF;
+        padding: 13px;
+
+        h3 {
+            margin: 0px;
+            color: #FFF;
+            font-family: "Futura Hv BT";
+            font-size: 25px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: 25px;
+            /* 100% */
+            margin: 0px;
+            padding-bottom: 7px;
+            padding-top: 6px;
+        }
+
+        hr {
+            border: 1px solid #fff;
+            width: 100%;
+            margin: 0px;
+        }
+    }
+}
+
+.bariatic-cost {
+    padding: 60px 0px;
+
+    h2 {
+        font-family: "Futura Md BT";
+        font-size: 35px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 40px;
+        /* 114.286% */
+        background: linear-gradient(178deg, #104175 8.19%, #078863 89.69%);
+        background-clip: text;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        margin: 0px;
+        padding-bottom: 15px;
+    }
+
+    p {
+        color: #5A5A5A;
+        text-align: center;
+        font-family: "Arimo", sans-serif;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 22px;
+        /* 137.5% */
+        margin: 0px;
+        padding-bottom: 10px;
+
+        span {
+            color: #5A5A5A;
+            text-align: center;
+            font-family: "Arimo", sans-serif;
+            font-size: 16px;
+            font-style: normal;
+            font-weight: 900;
+            line-height: 22px;
+            /* 137.5% */
+        }
+    }
+}
+
+.about-intro {
+    padding: 100px 0px;
+
+    h2 {
+        font-family: "Arimo", sans-serif;
+        font-size: 35px;
+        font-style: normal;
+        font-weight: 700;
+        margin: 0px;
+        padding-bottom: 9px;
+        line-height: 40px;
+        /* 114.286% */
+        background: linear-gradient(224deg, #0E3F72 6.81%, #09956D 95.34%);
+        background-clip: text;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+
+    p {
+        color: #5A5A5A;
+        font-family: "Arimo", sans-serif;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 23px;
+        /* 143.75% */
+        margin: 0px;
+    }
+}
+
+.about-mission {
+    .box {
+        padding: 60px 20px;
+        background: url(../Images/home-orthopedic-bg.png);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        border-radius: 20px;
+    }
+
+    h3 {
+        color: #FFF;
+        font-family: "Arimo", sans-serif;
+        font-size: 35px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 40px;
+        /* 114.286% */
+        margin: 0px;
+    }
+
+    p {
+        color: #FFF;
+        font-family: "Arimo", sans-serif;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 23px;
+        /* 143.75% */
+    }
+}
+
+.about-why-us {
+    padding: 70px 0px;
+
+    h2 {
+        font-family: "Arimo", sans-serif;
+        font-size: 35px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 40px;
+        /* 114.286% */
+        background: linear-gradient(224deg, #0E3F72 6.81%, #09956D 95.34%);
+        background-clip: text;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        margin: 0px;
+        padding-bottom: 30px;
+    }
+
+    .box {
+        border-radius: 16px;
+        background: #D9D9D9;
+        padding: 20px 40px;
+
+        h3 {
+            font-family: "Arimo", sans-serif;
+            font-size: 25px;
+            font-style: normal;
+            font-weight: 700;
+            line-height: 32px;
+            /* 128% */
+            background: linear-gradient(224deg, #0E3F72 6.81%, #09956D 95.34%);
+            background-clip: text;
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            margin: 0px;
+            padding-bottom: 10px;
+            padding-top: 8px;
+        }
+
+        p {
+            color: #202020;
+            text-align: center;
+            font-family: "Arimo", sans-serif;
+            font-size: 16px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: 18px;
+            /* 112.5% */
+        }
+    }
+}
+
+.about-usps {
+    background: url(../Images/home-orthopedic-bg.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 20px;
+    padding-bottom: 50px;
+
+    .svg-box {
+        padding-bottom: 19px;
+    }
+
+    h3 {
+        color: #FFF;
+        font-family: "Futura Md BT";
+        font-size: 35px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 40px;
+        /* 114.286% */
+        margin: 0px;
+        padding-bottom: 10px;
+    }
+
+    p {
+        color: #FFF;
+        font-family: "Arimo", sans-serif;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 18px;
+        /* 100% */
+    }
+}
+
+.contact-banner {
+    background: url(../Images/contact-banner.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 260px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+    h2 {
+        color: #FFF;
+        text-align: center;
+        text-shadow: -6px 7px 4.5px rgba(0, 0, 0, 0.25);
+        font-family: "Bebas Neue";
+        font-size: 78.429px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 80.88px;
+        /* 103.125% */
+    }
+}
+
+.contact-form {
+    padding: 100px 0px;
+
+    h1 {
+        font-family: "Futura Hv BT";
+        font-size: 30px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        background: linear-gradient(214deg, #104175 -7.08%, #078863 99.11%);
+        background-clip: text;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+
+    h6 {
+        color: #5A5A5A;
+        font-family: "Arimo", sans-serif;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 23px;
+        /* 143.75% */
+    }
+
+    h4 {
+        color: #282828;
+        font-family: "Arimo", sans-serif;
+        font-size: 23px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 23px;
+        /* 100% */
+    }
+
+    h2 {
+        font-family: "Futura Md BT";
+        font-size: 50px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 40px;
+        /* 80% */
+        background: linear-gradient(224deg, #0E3F72 6.81%, #09956D 95.34%);
+        background-clip: text;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+
+    input {
+        color: #1A1A1A;
+        font-family: "Arimo", sans-serif;
+        padding: 10px;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        width: 100%;
+    }
+
+    textarea {
+        color: #1A1A1A;
+        font-family: "Arimo" sans-serif;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        width: 100%;
+    }
+
+    button {
+        border-radius: 5px;
+        background: linear-gradient(217deg, #104175 -6.15%, #078863 130.71%), #002D55;
+        box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+        padding: 7px 27px;
+
+        a {
+            text-decoration: none;
+            color: #FFF;
+            font-family: "Futura Hv BT";
+            font-size: 25px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: 25px;
+            /* 100% */
         }
     }
 }
