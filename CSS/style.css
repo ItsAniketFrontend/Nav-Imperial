@@ -17,8 +17,30 @@
   font-family: "Futura Bk BT";
   src: url(../futura-bt/futura-bt/futura-book-bt.ttf);
 }
+header {
+  position: fixed;
+  width: 100%;
+}
 header .top-head {
   position: relative;
+  width: 100%;
+  background-color: #fff;
+}
+header .top-head h6 {
+  color: #002D55;
+  font-family: "Arimo", sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+header .top-head p {
+  color: #1E1E1E;
+  font-family: "Futura Bk BT";
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
 }
 header .navbar-brand {
   position: absolute;
@@ -28,6 +50,18 @@ header .navbar-brand {
   border-radius: 0px 0px 35px 0px;
   border: 2px solid #005097;
   background: #FFF;
+}
+header nav {
+  background: linear-gradient(92deg, #005CAD 15.68%, #002D55 102.47%);
+  box-shadow: 0px 4px 9.2px 0px rgba(0, 0, 0, 0.25);
+}
+header nav li a {
+  color: #FFF !important;
+  font-family: "Futura Md BT";
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
 }
 
 main {
