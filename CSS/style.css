@@ -20,6 +20,7 @@
 header {
   position: fixed;
   width: 100%;
+  z-index: 1000;
 }
 header .top-head {
   position: relative;
@@ -45,7 +46,7 @@ header .top-head p {
 header .navbar-brand {
   position: absolute;
   top: -70px;
-  padding: 40px;
+  padding: 30px;
   left: 0px;
   border-radius: 0px 0px 35px 0px;
   border: 2px solid #005097;
