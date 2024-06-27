@@ -34,6 +34,7 @@ header .top-head h6 {
   font-style: normal;
   font-weight: 700;
   line-height: normal;
+  margin: 0px;
 }
 header .top-head p {
   color: #1E1E1E;
@@ -42,6 +43,7 @@ header .top-head p {
   font-style: normal;
   font-weight: 400;
   line-height: normal;
+  margin: 0px;
 }
 header .navbar-brand {
   position: absolute;
@@ -63,6 +65,21 @@ header nav li a {
   font-style: normal;
   font-weight: 400;
   line-height: normal;
+}
+header nav button {
+  border-radius: 5px;
+  padding: 6px 27px;
+  border: none;
+  background: linear-gradient(224deg, #174779 6.81%, #09956D 95.34%), #D9D9D9;
+}
+header nav button a {
+  color: #FFF;
+  font-family: "Futura Md BT";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  text-decoration: none;
 }
 
 main {
@@ -202,6 +219,14 @@ main {
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
+.home-registerd p {
+  color: #000;
+  font-family: "Futura Md BT";
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 25px; /* 125% */
+}
 .home-registerd img {
   mix-blend-mode: multiply;
 }
@@ -226,7 +251,13 @@ main {
   line-height: 40px;
   /* 100% */
   text-align: center;
-  padding-bottom: 40px;
+  margin: 0px;
+  padding-bottom: 75px;
+}
+@media (min-width: 991px) {
+  .home-services .space {
+    margin-top: 100px;
+  }
 }
 .home-services .image-box {
   border-radius: 9.909px;
@@ -235,8 +266,12 @@ main {
   display: flex;
   justify-content: center;
   align-items: center;
+  transition: all 100ms ease-in-out;
   flex-direction: column;
   box-shadow: -2.727px 3.637px 5.182px 0px rgba(0, 0, 0, 0.25);
+}
+.home-services .image-box:hover {
+  margin-top: -30px;
 }
 .home-services .image-box img {
   position: relative;
