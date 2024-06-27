@@ -14,12 +14,32 @@
     src: url(../futura-bt/futura-bt/futura-heavy-bt.ttf);
 }
 
+@font-face {
+    font-family:  "Futura Bk BT";
+    src: url(../futura-bt/futura-bt/futura-book-bt.ttf);
+}
+
+
+header{
+    .top-head{
+        position: relative;
+    }
+    .navbar-brand{
+        position: absolute;
+        top: -70px;
+        padding: 40px;
+        left: 0px;
+        border-radius: 0px 0px 35px 0px;
+        border: 2px solid #005097;
+        background: #FFF;
+    }
+}
+
 main {
     background: url(../Images/web-bg.png);
     background-size: auto;
     background-repeat: repeat;
     background-position: center;
-    mix-blend-mode: multiply;
 }
 
 .home-banner {
@@ -91,6 +111,10 @@ main {
 .home-about {
     padding-top: 100px;
     padding-bottom: 60px;
+    background: url(../Images/web-bg.png);
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
 
     h2 {
         font-family: "Arimo", sans-serif;
@@ -144,6 +168,10 @@ main {
 
 .home-registerd {
     padding: 65px 0px;
+    background: url(../Images/web-bg.png);
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
 
     h2 {
         font-family: "Futura Md BT";
@@ -166,6 +194,10 @@ main {
 .home-services {
     padding-top: 60px;
     padding-bottom: 100px;
+    background: url(../Images/web-bg.png);
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
 
     h2 {
         background: linear-gradient(202deg, #0E3F72 37.38%, #09956D 121.58%);
@@ -303,6 +335,10 @@ main {
 .home-treatment {
     padding-top: 70px;
     padding-bottom: 60px;
+    background: url(../Images/web-bg.png);
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
 
     h2 {
         text-align: center;
@@ -390,6 +426,10 @@ main {
 
 .home-quality {
     padding: 60px 0px;
+    background: url(../Images/web-bg.png);
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
 
     h2 {
         font-family: "Futura Md BT";
@@ -440,6 +480,10 @@ main {
 
 .home-doctors {
     padding: 60px 0px;
+    background: url(../Images/web-bg.png);
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
 
     h2 {
         font-family: "Futura Md BT";
@@ -632,6 +676,10 @@ main {
 
 .home-blog {
     padding: 60px 0px;
+    background: url(../Images/web-bg.png);
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
 
     h2 {
         font-family: "Futura Md BT";
@@ -780,6 +828,10 @@ main {
 
 .home-faq {
     padding-top: 60px;
+    background: url(../Images/web-bg.png);
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
 
     h2 {
         font-family: "Futura Md BT";
@@ -838,6 +890,10 @@ main {
 
 .home-testimonial {
     padding: 60px 0px;
+    background: url(../Images/web-bg.png);
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
 
     .post-slide {
         flex-shrink: 0;
