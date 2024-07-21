@@ -3,6 +3,9 @@
     padding: 0px;
     box-sizing: border-box;
 }
+button{
+    border: none;
+}
 
 @font-face {
     font-family: "Futura Md BT";
@@ -15,152 +18,151 @@
 }
 
 @font-face {
-    font-family:  "Futura Bk BT";
+    font-family: "Futura Bk BT";
     src: url(../futura-bt/futura-bt/futura-book-bt.ttf);
 }
 
+ @font-face {
+    font-family: "HelveticaNeueBold";
+    src: url(../head/HelveticaNeueBold.otf);
+ }
 
-header{
+ @font-face {
+    font-family: "HelveticaNeueHeavy";
+    src: url(../head/HelveticaNeueHeavy.otf);
+ }
+
+ @font-face {
+    font-family: "HelveticaNeueMedium";
+    src: url(../head/HelveticaNeueMedium.otf);
+ }
+
+ @font-face {
+    font-family: "HelveticaNeueRoman";
+    src: url(../head/HelveticaNeueRoman.otf);
+ }
+
+
+header {
     position: fixed;
     width: 100%;
     z-index: 1000;
     top: 0px;
-    .top-head{
-        padding: 15px;
-        position: relative;
-        width: 100%;
-        background-color: #fff;
-        h6{
-            color: #002D55;
-            font-family: "Arimo", sans-serif;
-            font-size: 16px;
-            font-style: normal;
-            font-weight: 700;
-            line-height: normal;
-            margin: 0px;
-        }
-        p{
-            color: #1E1E1E;
-            font-family: "Futura Bk BT";
-            font-size: 12px;
-            font-style: normal;
-            font-weight: 400;
-            line-height: normal;
-            margin: 0px;
-        }
-    }
-    .navbar-brand{
-        position: absolute;
-        top: -77px;
-        padding: 35px;
-        left: 0px;
-        border-radius: 0px 0px 35px 0px;
-        border: 2px solid #005097;
-        background: #FFF;
-    }
-    nav{
-        background: linear-gradient(92deg, #005CAD 15.68%, #002D55 102.47%);
-        box-shadow: 0px 4px 9.2px 0px rgba(0, 0, 0, 0.25);
-        
-        li{
-            a{
-                color: #FFF !important;
-                font-family: "Futura Md BT";
-                font-size: 18px;
+
+    .large-screen{
+        .top-head {
+            padding: 15px;
+            position: relative;
+            width: 100%;
+            background-color: #fff;
+    
+            h6 {
+                color: #002D55;
+                font-family: "Arimo", sans-serif;
+                font-size: 16px;
+                font-style: normal;
+                font-weight: 700;
+                line-height: normal;
+                margin: 0px;
+                padding-bottom: 4px;
+            }
+    
+            p {
+                color: #1E1E1E;
+                font-family: "Futura Bk BT";
+                font-size: 12px;
                 font-style: normal;
                 font-weight: 400;
                 line-height: normal;
+                margin: 0px;
+            }
+            .right{
+                @media (min-width:991px) {
+                    border-left: 1px solid #000;
+                    padding-left: 30px;
+                } 
             }
         }
-        button{
-            border-radius: 5px;
-            padding: 6px 27px;
-            border: none;
-            background: linear-gradient(224deg, #174779 6.81%, #09956D 95.34%), #D9D9D9;
-            a{
-                color: #FFF;
-font-family: "Futura Md BT";
-font-size: 16px;
-font-style: normal;
-font-weight: 400;
-line-height: normal;
-text-decoration: none;
+    
+        .navbar-brand {
+            position: absolute;
+            top: -77px;
+            padding: 35px;
+            left: 0px;
+            border-radius: 0px 0px 35px 0px;
+            border: 2px solid #005097;
+            background: #FFF;
+            @media (max-width:1310px) {
+                padding: 10px;
+            }
+        }
+    
+        nav {
+            background: linear-gradient(92deg, #005CAD 15.68%, #002D55 102.47%);
+            box-shadow: 0px 4px 9.2px 0px rgba(0, 0, 0, 0.25);
+    
+            li {
+                a {
+                    color: #FFF !important;
+                    font-family: "Futura Md BT";
+                    font-size: 18px;
+                    font-style: normal;
+                    font-weight: 400;
+                    line-height: normal;
+                }
+            }
+    
+            button {
+                border-radius: 5px;
+                padding: 6px 27px;
+                border: none;
+                background: linear-gradient(224deg, #174779 6.81%, #09956D 95.34%), #D9D9D9;
+    
+                a {
+                    color: #FFF;
+                    font-family: "Futura Md BT";
+                    font-size: 16px;
+                    font-style: normal;
+                    font-weight: 400;
+                    line-height: normal;
+                    text-decoration: none;
+                }
             }
         }
     }
-}
 
-main {
-    background: url(../Images/web-bg.png);
-    background-size: auto;
-    background-repeat: repeat;
-    background-position: center;
-}
-
-.home-banner {
-    margin-top: 130px;
-    min-height: 538px;
-    background: url(../Images/home-banner.png);
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-
-    .col-lg-12 {
-        min-height: 538px;
-        display: flex;
-        justify-content: center;
-        align-items: flex-start;
-        flex-direction: column;
-
-        h6 {
-            color: #FFF;
-            font-family: "Futura Md BT";
-            font-size: 30px;
-            font-style: normal;
-            font-weight: 400;
-            line-height: normal;
-        }
-
-        h1 {
-            color: #FFF;
-            text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-            font-family: "Arimo", sans-serif;
-            font-size: 50px;
-            font-style: normal;
-            font-weight: 800;
-            line-height: 56px;
-            /* 112% */
-        }
-
-        button {
-            border-radius: 10.792px;
-            background: #FFF;
-            box-shadow: 0px 3.083px 3.083px 0px rgba(0, 0, 0, 0.25);
-            padding: 7px 6px;
-            border: none;
-
-            a {
-                text-decoration: none;
-
-                span {
-                    color: #002D55;
-                    text-align: center;
-                    font-family: "Arimo", sans-serif;
-                    font-size: 24.306px;
-                    font-style: normal;
-                    font-weight: 800;
-                    line-height: 23.495px;
-                    /* 96.667% */
-                }
-
-                color: #333;
-                font-family: "Futura Md BT";
-                font-size: 16.204px;
-                font-style: normal;
-                font-weight: 400;
-                line-height: 23.495px;
+    .small-screen{
+        nav{
+            background: #FAFAFA;
+            .navbar-toggler-icon {
+                display: inline-block;
+                width: 1.5em;
+                height: 1.5em;
+                vertical-align: middle;
+                background-image: url(../Images/phone-tab.png);
+                background-repeat: no-repeat;
+                background-position: center;
+                background-size: 100%;
+            }
+            .navbar-toggler{
+                border: 0px;
             }
         }
+    }
+    
+}
+
+// main {
+//     background: url(../Images/web-bg.png);
+//     background-size: auto;
+//     background-repeat: repeat;
+//     background-position: center;
+// }
+
+.home-banner{
+    margin-top: 7.8rem;
+    @media (max-width:991px) {
+        margin-top: 3.8rem;
     }
 }
 
@@ -187,7 +189,7 @@ main {
 
     p {
         color: #5A5A5A;
-        font-family: "Arimo", sans-serif;
+        font-family:  "HelveticaNeueRoman";
         font-size: 16px;
         font-style: normal;
         font-weight: 400;
@@ -241,14 +243,17 @@ main {
         -webkit-background-clip: text;
         -webkit-text-fill-color: transparent;
     }
-    p{
+
+    p {
         color: #000;
         font-family: "Futura Md BT";
         font-size: 20px;
         font-style: normal;
         font-weight: 400;
         line-height: 25px; /* 125% */
+        margin-bottom: 0px;
     }
+
     img {
         mix-blend-mode: multiply;
     }
@@ -278,11 +283,12 @@ main {
         padding-bottom: 75px;
     }
 
-    .space{
+    .space {
         @media (min-width:991px) {
             margin-top: 100px;
         }
     }
+
     .image-box {
         border-radius: 9.909px;
         background: #002D55;
@@ -293,9 +299,11 @@ main {
         transition: all 100ms ease-in-out;
         flex-direction: column;
         box-shadow: -2.727px 3.637px 5.182px 0px rgba(0, 0, 0, 0.25);
-        &:hover{
+
+        &:hover {
             margin-top: -30px;
         }
+
         img {
             position: relative;
             top: -30px;
@@ -303,7 +311,6 @@ main {
         }
 
         h3 {
-            margin-top: -10px;
             color: #FFF;
             text-align: center;
             font-family: "Futura Hv BT";
@@ -312,6 +319,7 @@ main {
             font-weight: 400;
             line-height: 20.892px;
             /* 104.545% */
+            margin: 0px;
         }
 
         hr {
@@ -377,7 +385,7 @@ main {
 
     p {
         color: #FFF;
-        font-family: "Arimo", sans-serif;
+        font-family:  "HelveticaNeueRoman";
         font-size: 16px;
         font-style: normal;
         font-weight: 400;
@@ -424,12 +432,14 @@ main {
         background-clip: text;
         -webkit-background-clip: text;
         -webkit-text-fill-color: transparent;
+        margin: 0px;
+        padding-bottom: 20px;
     }
 
     p {
         color: #5F5F5F;
         text-align: center;
-        font-family: "Arimo", sans-serif;
+        font-family: "HelveticaNeueMedium";
         font-size: 16px;
         font-style: normal;
         font-weight: 500;
@@ -458,7 +468,7 @@ main {
 
     h6 {
         color: #585858;
-        font-family: "Arimo", sans-serif;
+        font-family: "HelveticaNeueRoman";
         font-size: 16px;
         font-style: normal;
         font-weight: 400;
@@ -518,7 +528,7 @@ main {
 
     p {
         color: #5F5F5F;
-        font-family: "Arimo", sans-serif;
+        font-family: "HelveticaNeueRoman";
         font-size: 16px;
         font-style: normal;
         font-weight: 400;
@@ -528,7 +538,7 @@ main {
 
     h6 {
         color: #3D3D3D;
-        font-family: "Arimo", sans-serif;
+        font-family: "HelveticaNeueMedium";
         font-size: 18px;
         font-style: normal;
         font-weight: 500;
@@ -541,7 +551,7 @@ main {
 
     li {
         color: #3D3D3D;
-        font-family: "Arimo", sans-serif;
+        font-family: "HelveticaNeueMedium";
         font-size: 18px;
         font-style: normal;
         font-weight: 500;
@@ -570,29 +580,34 @@ main {
         -webkit-background-clip: text;
         -webkit-text-fill-color: transparent;
         padding-bottom: 50px;
+
         @media (min-width:991px) {
             padding-bottom: 157px;
         }
-        
+
     }
 
     .doctor-box {
         border-radius: 20px;
         background: #D9D9D9;
         padding: 23px;
+
         @media (max-width:991px) {
             margin: 20px 0px;
         }
+
         .box {
             @media (min-width:991px) {
                 margin-top: -120px;
             }
+
             position: relative;
             display: flex;
             justify-content: center;
             align-items: center;
             flex-direction: column;
         }
+
         h3 {
             font-family: "Futura Hv BT";
             font-size: 28px;
@@ -608,7 +623,7 @@ main {
 
         h4 {
             color: #202020;
-            font-family: "Arimo", sans-serif;
+            font-family: "HelveticaNeueMedium";
             font-size: 18px;
             font-style: normal;
             font-weight: 500;
@@ -619,7 +634,7 @@ main {
         h5 {
             color: #202020;
             text-align: center;
-            font-family: "Arimo", sans-serif;
+            font-family: "HelveticaNeueRoman";
             font-size: 14px;
             font-style: normal;
             font-weight: 400;
@@ -629,7 +644,7 @@ main {
 
         p {
             color: #202020;
-            font-family: "Arimo", sans-serif;
+            font-family: "HelveticaNeueRoman";
             font-size: 14px;
             font-style: normal;
             font-weight: 400;
@@ -661,7 +676,7 @@ main {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    padding: 24px 0px;
+    padding: 60px 0px;
 
     h2 {
         color: #FFF;
@@ -729,7 +744,28 @@ main {
         justify-content: center;
         flex-direction: column;
         align-items: center;
+         
     }
+
+    .one{
+        @media (min-width:99px) {
+            border-bottom: 1px solid #fff;
+        }
+    }
+
+    .two{
+        @media (min-width:991px) {
+            border-bottom: 1px solid #fff;
+            border-left: 1px solid #fff;
+        }
+    }
+
+    .four{
+        @media (min-width:991px) {
+            border-left: 1px solid #fff;
+        }
+    }
+
 
     h3 {
         color: #FFF;
@@ -2384,36 +2420,57 @@ footer {
         -webkit-text-fill-color: transparent;
     }
 
+    .form-box {
+        border-radius: 27px;
+        background: #D3D3D3;
+        padding: 50px 20px;
+    }
+
     input {
+        border-radius: 5px;
+        border: 1px solid #1A1A1A;
         color: #1A1A1A;
         font-family: "Arimo", sans-serif;
-        padding: 10px;
         font-size: 16px;
         font-style: normal;
         font-weight: 400;
         line-height: normal;
+        background-color: transparent;
+        padding: 10px;
         width: 100%;
     }
 
     textarea {
         color: #1A1A1A;
-        font-family: "Arimo" sans-serif;
+        font-family: "Arimo", sans-serif;
         font-size: 16px;
         font-style: normal;
         font-weight: 400;
         line-height: normal;
         width: 100%;
+        border-radius: 5px;
+        border: 1px solid #1A1A1A;
+        background-color: transparent;
+        height: 100px;
+        padding: 10px;
     }
 
     button {
         border-radius: 5px;
         background: linear-gradient(217deg, #104175 -6.15%, #078863 130.71%), #002D55;
-        box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+        border: none;
         padding: 7px 27px;
+        color: #FFF;
+        font-family: "Futura Hv BT";
+        font-size: 25px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 25px;
+        /* 100% */
+        margin-top: 21px;
 
         a {
-            text-decoration: none;
-            color: #FFF;
+            color: #FFF !important;
             font-family: "Futura Hv BT";
             font-size: 25px;
             font-style: normal;
@@ -2422,4 +2479,198 @@ footer {
             /* 100% */
         }
     }
+}
+
+.map-bg {
+    background: linear-gradient(224deg, #0E3F72 6.81%, #09956D 95.34%), #D9D9D9;
+    padding: 22px 50px;
+
+    iframe {
+        border-radius: 22px;
+        box-shadow: -7px 8px 9.3px 0px rgba(0, 0, 0, 0.25);
+    }
+}
+
+.doctor-banner {
+    margin-top: 100px;
+
+    @media (max-width:991px) {
+        margin-top: 50px;
+    }
+
+}
+
+.our-doctor-intro {
+    padding-top: 138px;
+    padding-bottom: 58px;
+
+    .doctor-box {
+        border-radius: 20px;
+        background: #D9D9D9;
+        padding: 23px;
+        height: 100%;
+        @media (max-width:991px) {
+            margin: 20px 0px;
+        }
+
+        .box {
+            @media (min-width:991px) {
+                margin-top: -120px;
+            }
+
+            position: relative;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+        }
+
+        h3 {
+            font-family: "Futura Hv BT";
+            font-size: 28px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: 32px;
+            /* 114.286% */
+            background: linear-gradient(237deg, #0E3F72 30.97%, #09956D 91.26%);
+            background-clip: text;
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            margin: 0px;
+        }
+
+        h4 {
+            color: #202020;
+            font-family: "Arimo", sans-serif;
+            font-size: 18px;
+            font-style: normal;
+            font-weight: 500;
+            line-height: 25px;
+            /* 138.889% */
+            margin: 0px;
+        }
+        hr{
+            margin-top: 10px;
+            margin-bottom: 10px;
+            border: 1px solid #000;
+            width: 100%;
+        }
+        h5 {
+            color: #202020;
+            text-align: center;
+            font-family: "Arimo", sans-serif;
+            font-size: 14px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: 20px;
+            /* 142.857% */
+            margin: 0px;
+        }
+
+        p {
+            color: #202020;
+            font-family: "Arimo", sans-serif;
+            font-size: 14px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: 21px;
+            /* 150% */
+            margin: 0px;
+        }
+    }
+
+    .one-row {
+        padding-top: 150px;
+
+        @media (max-width:991px) {
+            padding-top: 0px;
+        }
+    }
+}
+
+.team-management {
+    padding-bottom: 60px;
+
+    h2 {
+        font-family: "Futura Md BT";
+        font-size: 35px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 40px;
+        /* 114.286% */
+        background: linear-gradient(202deg, #0E3F72 37.38%, #09956D 121.58%);
+        background-clip: text;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+
+    p {
+        color: #5A5A5A;
+        text-align: center;
+        font-family: "Arimo", sans-serif;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 25px;
+        /* 156.25% */
+    }
+
+    .doctor-box {
+        border-radius: 20px;
+        background: #D9D9D9;
+        padding: 18px;
+        height: 100%;
+        img{
+            text-align: center;
+        }
+        h3 {
+            font-family: "Futura Hv BT";
+            font-size: 28px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: 32px;
+            /* 114.286% */
+            background: linear-gradient(237deg, #0E3F72 30.97%, #09956D 91.26%);
+            background-clip: text;
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            text-align: center;
+            margin: 0px;
+            padding-bottom: 10px;
+        }
+
+        h4 {
+            color: #202020;
+            font-family: "Arimo", sans-serif;
+            font-size: 18px;
+            font-style: normal;
+            font-weight: 500;
+            line-height: 25px;
+            /* 138.889% */
+            text-align: center;
+            margin: 0px;
+            padding-bottom: 18px;
+        }
+        hr{
+            margin: 0px;
+        }
+
+        p {
+            color: #202020;
+            font-family: "Arimo", sans-serif;
+            font-size: 14px;
+            font-style: normal;
+            padding-top: 18px;
+            font-weight: 400;
+            line-height: 21px;
+            /* 150% */
+            text-align: justify;
+            margin: 0px;
+        }
+    }
+
+}
+
+.about-banner{
+    margin-top: 120px;
 }
