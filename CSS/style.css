@@ -100,6 +100,9 @@ header .large-screen nav li a {
   font-weight: 400;
   line-height: normal;
 }
+header .large-screen nav .dropdown-item {
+  color: #000 !important;
+}
 header .large-screen nav button {
   border-radius: 5px;
   padding: 6px 27px;
@@ -1007,7 +1010,7 @@ footer .foot {
 }
 footer .foot h3 {
   color: #383838;
-  font-family: "Arimo", sans-serif;
+  font-family: "HelveticaNeueRoman";
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -1987,8 +1990,13 @@ footer .sub-foot h6 {
 .about-intro {
   padding: 100px 0px;
 }
+@media (max-width: 991px) {
+  .about-intro {
+    padding: 60px 0px;
+  }
+}
 .about-intro h2 {
-  font-family: "Arimo", sans-serif;
+  font-family: "Futura Md BT";
   font-size: 35px;
   font-style: normal;
   font-weight: 700;
@@ -2001,15 +2009,27 @@ footer .sub-foot h6 {
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
+@media (max-width: 991px) {
+  .about-intro h2 {
+    font-size: 28px;
+    line-height: normal;
+  }
+}
 .about-intro p {
   color: #5A5A5A;
-  font-family: "Arimo", sans-serif;
+  font-family: "HelveticaNeueRoman";
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
   line-height: 23px;
   /* 143.75% */
   margin: 0px;
+}
+@media (max-width: 991px) {
+  .about-intro p {
+    font-size: 14px;
+    line-height: normal;
+  }
 }
 
 .about-mission .box {
@@ -2022,7 +2042,7 @@ footer .sub-foot h6 {
 }
 .about-mission h3 {
   color: #FFF;
-  font-family: "Arimo", sans-serif;
+  font-family: "HelveticaNeueBold";
   font-size: 35px;
   font-style: normal;
   font-weight: 700;
@@ -2032,19 +2052,24 @@ footer .sub-foot h6 {
 }
 .about-mission p {
   color: #FFF;
-  font-family: "Arimo", sans-serif;
+  font-family: "HelveticaNeueRoman";
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
   line-height: 23px;
   /* 143.75% */
 }
+@media (min-width: 991px) {
+  .about-mission .right {
+    border-right: 1px solid #fff;
+  }
+}
 
 .about-why-us {
   padding: 70px 0px;
 }
 .about-why-us h2 {
-  font-family: "Arimo", sans-serif;
+  font-family: "HelveticaNeueBold";
   font-size: 35px;
   font-style: normal;
   font-weight: 700;
@@ -2063,7 +2088,7 @@ footer .sub-foot h6 {
   padding: 20px 40px;
 }
 .about-why-us .box h3 {
-  font-family: "Arimo", sans-serif;
+  font-family: "HelveticaNeueBold";
   font-size: 25px;
   font-style: normal;
   font-weight: 700;
@@ -2077,15 +2102,27 @@ footer .sub-foot h6 {
   padding-bottom: 10px;
   padding-top: 8px;
 }
+@media (max-width: 991px) {
+  .about-why-us .box h3 {
+    font-size: 22px;
+    line-height: normal;
+  }
+}
 .about-why-us .box p {
   color: #202020;
   text-align: center;
-  font-family: "Arimo", sans-serif;
+  font-family: "HelveticaNeueRoman";
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
   line-height: 18px;
   /* 112.5% */
+}
+@media (max-width: 991px) {
+  .about-why-us .box p {
+    font-size: 14px;
+    line-height: normal;
+  }
 }
 
 .about-usps {
@@ -2110,41 +2147,61 @@ footer .sub-foot h6 {
   margin: 0px;
   padding-bottom: 10px;
 }
+@media (max-width: 991px) {
+  .about-usps h3 {
+    font-size: 28px;
+    line-height: normal;
+  }
+}
 .about-usps p {
   color: #FFF;
-  font-family: "Arimo", sans-serif;
+  font-family: "HelveticaNeueBold";
   font-size: 18px;
   font-style: normal;
   font-weight: 700;
   line-height: 18px;
   /* 100% */
 }
+@media (max-width: 991px) {
+  .about-usps p {
+    font-size: 14px;
+    line-height: normal;
+  }
+}
 
 .contact-banner {
-  background: url(../Images/contact-banner.png);
+  margin-top: 4rem;
+  background: url(../Images/contact-bg.png);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
-  min-height: 260px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
-}
-.contact-banner h2 {
-  color: #FFF;
-  text-align: center;
-  text-shadow: -6px 7px 4.5px rgba(0, 0, 0, 0.25);
-  font-family: "Bebas Neue";
-  font-size: 78.429px;
-  font-style: normal;
-  font-weight: 700;
-  line-height: 80.88px;
-  /* 103.125% */
 }
 
 .contact-form {
   padding: 100px 0px;
+  background: url(../Images/contact-bg.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+@media (max-width: 991px) {
+  .contact-form {
+    padding: 50px 0px;
+  }
+}
+.contact-form p {
+  font-family: "HelveticaNeueRoman";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23px; /* 143.75% */
+  color: #5A5A5A;
+}
+@media (max-width: 991px) {
+  .contact-form p {
+    font-size: 14px;
+    line-height: normal;
+  }
 }
 .contact-form h1 {
   font-family: "Futura Hv BT";
@@ -2159,7 +2216,7 @@ footer .sub-foot h6 {
 }
 .contact-form h6 {
   color: #5A5A5A;
-  font-family: "Arimo", sans-serif;
+  font-family: "HelveticaNeueRoman";
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -2168,7 +2225,7 @@ footer .sub-foot h6 {
 }
 .contact-form h4 {
   color: #282828;
-  font-family: "Arimo", sans-serif;
+  font-family: "HelveticaNeueMedium";
   font-size: 23px;
   font-style: normal;
   font-weight: 500;
@@ -2196,7 +2253,7 @@ footer .sub-foot h6 {
   border-radius: 5px;
   border: 1px solid #1A1A1A;
   color: #1A1A1A;
-  font-family: "Arimo", sans-serif;
+  font-family: "HelveticaNeueMedium";
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -2207,7 +2264,7 @@ footer .sub-foot h6 {
 }
 .contact-form textarea {
   color: #1A1A1A;
-  font-family: "Arimo", sans-serif;
+  font-family: "HelveticaNeueMedium";
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -2247,6 +2304,11 @@ footer .sub-foot h6 {
   background: linear-gradient(224deg, #0E3F72 6.81%, #09956D 95.34%), #D9D9D9;
   padding: 22px 50px;
 }
+@media (max-width: 991px) {
+  .map-bg {
+    padding: 20px;
+  }
+}
 .map-bg iframe {
   border-radius: 22px;
   box-shadow: -7px 8px 9.3px 0px rgba(0, 0, 0, 0.25);
@@ -2264,6 +2326,11 @@ footer .sub-foot h6 {
 .our-doctor-intro {
   padding-top: 138px;
   padding-bottom: 58px;
+}
+@media (max-width: 991px) {
+  .our-doctor-intro {
+    padding-top: 30px;
+  }
 }
 .our-doctor-intro .doctor-box {
   border-radius: 20px;
@@ -2422,8 +2489,4 @@ footer .sub-foot h6 {
   /* 150% */
   text-align: justify;
   margin: 0px;
-}
-
-.about-banner {
-  margin-top: 120px;
 }/*# sourceMappingURL=style.css.map */

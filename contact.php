@@ -4,7 +4,8 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Nav-Imperial</title>
+    <title>Nav Imperial Hospital | Contact Us</title>
+    <meta name="description" content="Contact Nav Imperial Hospital for any healthcare needs you can call at 9549006777 and visit Nav Imperial Hospital Kawatiya Circle Shastri Nagar, Jaipur, Rajasthan 302016">
     <link rel="stylesheet" href="CSS/style.css">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
@@ -17,19 +18,20 @@
 
 <body>
 
-    <header>
-    </header>
+    <?php
+    include ('header.php');
+    ?>
 
     <main>
         
         <section class="contact-banner">
-            <h2>CONTACT US</h2>
+            <img src="Images/contact-banner.png" width="100%" height="auto" alt="">
         </section>
 
         <section class="contact-form">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-6 col-12">
+                    <div class="col-lg-6 col-12 my-lg-0 my-2">
                         <h2>Contact Us</h2>
                         <p>Eimall call or complete the form to learn  <br> how Snappy can Solve your messaging <br> problem</p>
                         <div class="row">
@@ -95,7 +97,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-6 col-12">
+                    <div class="col-lg-6 col-12 my-lg-0 my-2">
                         <div class="form-box">
                             <h1>APPOINTMENT FORM</h1>
                             <form action="">
@@ -134,63 +136,9 @@
     </main>
 
 
-    <footer>
-        <div class="foot">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-4">
-                        <div class="d-flex gap-1">
-                            <img src="Images/foot-logo-1.png" alt="">
-                            <img src="Images/foot-logo-2.png" alt="">
-                        </div>
-                        <h3 class="pb-4">NAV Imperial Hospital and Research Centre is one of the leading orthopedic
-                            hospital in Jaipur, Rajasthan</h3>
-                        <button>Reach Us</button>
-                        <h6><img src="Images/location.png" alt="">Nav Imperial Hospital, Kawatiya Circle Shastri Nagar,
-                            Jaipur (India)</h6>
-                        <h6><img src="Images/call.png" alt="">+91-7891010000</h6>
-                        <p>coo@navimperialhospital.com</p>
-                    </div>
-                    <div class="col-lg-4">
-                        <div class="row">
-                            <div class="col-5">
-                                <h4>LINKS</h4>
-                                <li><a href="">Home</a></li>
-                                <li><a href="">About</a></li>
-                                <li><a href="">Doctors</a></li>
-                                <li><a href="">Blog</a></li>
-                                <li><a href="">Contact</a></li>
-                            </div>
-                            <div class="col-7">
-                                <h4>Services</h4>
-                                <li><a href="">Joint Replacement</a></li>
-                                <li><a href="">Knee Replacement</a></li>
-                                <li><a href="">Bariatric Surgery</a></li>
-                                <li><a href="">General Surgery</a></li>
-                                <li><a href="">Obstetrics & Gynaecology</a></li>
-                                <li><a href="">Humanoid Robotics Surgery</a></li>
-                                <li><a href="">Urology</a></li>
-                                <li><a href="">Intensive care/ Critical Care</a></li>
-                                <li><a href="">Gastroenterology</a></li>
-                                <li><a href="">Neurology/Neurosurgery</a></li>
-                                <li><a href="">ENT</a></li>
-                                <li><a href="">Paediatrics</a></li>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4">
-                        <h4>Our Location</h4>
-                        <img src="Images/foot-map.png" class="img-fluid" alt="">
-                    </div>
-                </div>
-            </div>
-        </div>
-        <hr>
-        <div class="sub-foot">
-            <h6>Copyright © 2024 Nav Imperial Hospital | All Rights Reserved | Powered by Digital Marketing Company in
-                Jaipur.</h6>
-        </div>
-    </footer>
+    <?php
+    include ('footer.php');
+    ?>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"

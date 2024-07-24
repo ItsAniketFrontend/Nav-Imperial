@@ -111,6 +111,10 @@ header {
                     line-height: normal;
                 }
             }
+
+            .dropdown-item{
+                color: #000 !important;
+            }
     
             button {
                 border-radius: 5px;
@@ -1132,7 +1136,7 @@ footer {
 
         h3 {
             color: #383838;
-            font-family: "Arimo", sans-serif;
+            font-family: "HelveticaNeueRoman";
             font-size: 16px;
             font-style: normal;
             font-weight: 400;
@@ -2202,9 +2206,11 @@ footer {
 
 .about-intro {
     padding: 100px 0px;
-
+    @media (max-width:991px) {
+        padding: 60px 0px;
+    }
     h2 {
-        font-family: "Arimo", sans-serif;
+        font-family:  "Futura Md BT";
         font-size: 35px;
         font-style: normal;
         font-weight: 700;
@@ -2216,17 +2222,25 @@ footer {
         background-clip: text;
         -webkit-background-clip: text;
         -webkit-text-fill-color: transparent;
+        @media (max-width:991px) {
+            font-size: 28px;
+            line-height: normal;
+        }
     }
 
     p {
         color: #5A5A5A;
-        font-family: "Arimo", sans-serif;
+        font-family: "HelveticaNeueRoman";
         font-size: 16px;
         font-style: normal;
         font-weight: 400;
         line-height: 23px;
         /* 143.75% */
         margin: 0px;
+        @media (max-width:991px) {
+            font-size: 14px;
+            line-height: normal;
+        }
     }
 }
 
@@ -2242,7 +2256,7 @@ footer {
 
     h3 {
         color: #FFF;
-        font-family: "Arimo", sans-serif;
+        font-family: "HelveticaNeueBold";
         font-size: 35px;
         font-style: normal;
         font-weight: 700;
@@ -2253,20 +2267,25 @@ footer {
 
     p {
         color: #FFF;
-        font-family: "Arimo", sans-serif;
+        font-family: "HelveticaNeueRoman";
         font-size: 16px;
         font-style: normal;
         font-weight: 400;
         line-height: 23px;
         /* 143.75% */
     }
+    @media (min-width:991px) {
+        .right{
+            border-right: 1px solid #fff;
+        }
+    }   
 }
 
 .about-why-us {
     padding: 70px 0px;
 
     h2 {
-        font-family: "Arimo", sans-serif;
+        font-family: "HelveticaNeueBold";
         font-size: 35px;
         font-style: normal;
         font-weight: 700;
@@ -2286,7 +2305,7 @@ footer {
         padding: 20px 40px;
 
         h3 {
-            font-family: "Arimo", sans-serif;
+            font-family: "HelveticaNeueBold";
             font-size: 25px;
             font-style: normal;
             font-weight: 700;
@@ -2299,17 +2318,26 @@ footer {
             margin: 0px;
             padding-bottom: 10px;
             padding-top: 8px;
+            @media (max-width:991px) {
+                font-size: 22px;
+                line-height: normal;
+            }
         }
+    
 
         p {
             color: #202020;
             text-align: center;
-            font-family: "Arimo", sans-serif;
+            font-family:  "HelveticaNeueRoman";
             font-size: 16px;
             font-style: normal;
             font-weight: 400;
             line-height: 18px;
             /* 112.5% */
+            @media (max-width:991px) {
+                font-size: 14px;
+                line-height: normal;
+            }
         }
     }
 }
@@ -2336,45 +2364,56 @@ footer {
         /* 114.286% */
         margin: 0px;
         padding-bottom: 10px;
+        @media (max-width:991px) {
+            font-size: 28px;
+            line-height: normal;
+        }
     }
 
     p {
         color: #FFF;
-        font-family: "Arimo", sans-serif;
+        font-family: "HelveticaNeueBold";
         font-size: 18px;
         font-style: normal;
         font-weight: 700;
         line-height: 18px;
         /* 100% */
+        @media (max-width:991px) {
+            font-size: 14px;
+            line-height: normal;
+        }
     }
 }
 
-.contact-banner {
-    background: url(../Images/contact-banner.png);
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-    min-height: 260px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-
-    h2 {
-        color: #FFF;
-        text-align: center;
-        text-shadow: -6px 7px 4.5px rgba(0, 0, 0, 0.25);
-        font-family: "Bebas Neue";
-        font-size: 78.429px;
-        font-style: normal;
-        font-weight: 700;
-        line-height: 80.88px;
-        /* 103.125% */
-    }
+.contact-banner{
+margin-top: 4rem;
+background: url(../Images/contact-bg.png);
+background-position: center;
+background-size: cover;
+background-repeat: no-repeat;
 }
 
 .contact-form {
     padding: 100px 0px;
+    background: url(../Images/contact-bg.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    @media (max-width:991px) {
+        padding: 50px 0px;
+    }
+    p{
+       font-family: "HelveticaNeueRoman";
+       font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 23px; /* 143.75% */
+color: #5A5A5A;
+@media (max-width:991px) {
+    font-size: 14px;
+    line-height: normal;
+}
+    }
 
     h1 {
         font-family: "Futura Hv BT";
@@ -2390,7 +2429,7 @@ footer {
 
     h6 {
         color: #5A5A5A;
-        font-family: "Arimo", sans-serif;
+        font-family: "HelveticaNeueRoman";
         font-size: 16px;
         font-style: normal;
         font-weight: 400;
@@ -2400,7 +2439,7 @@ footer {
 
     h4 {
         color: #282828;
-        font-family: "Arimo", sans-serif;
+        font-family: "HelveticaNeueMedium";
         font-size: 23px;
         font-style: normal;
         font-weight: 500;
@@ -2431,7 +2470,7 @@ footer {
         border-radius: 5px;
         border: 1px solid #1A1A1A;
         color: #1A1A1A;
-        font-family: "Arimo", sans-serif;
+        font-family: "HelveticaNeueMedium";
         font-size: 16px;
         font-style: normal;
         font-weight: 400;
@@ -2443,7 +2482,7 @@ footer {
 
     textarea {
         color: #1A1A1A;
-        font-family: "Arimo", sans-serif;
+        font-family: "HelveticaNeueMedium";
         font-size: 16px;
         font-style: normal;
         font-weight: 400;
@@ -2485,7 +2524,9 @@ footer {
 .map-bg {
     background: linear-gradient(224deg, #0E3F72 6.81%, #09956D 95.34%), #D9D9D9;
     padding: 22px 50px;
-
+    @media (max-width:991px) {
+        padding: 20px;
+    }
     iframe {
         border-radius: 22px;
         box-shadow: -7px 8px 9.3px 0px rgba(0, 0, 0, 0.25);
@@ -2504,7 +2545,9 @@ footer {
 .our-doctor-intro {
     padding-top: 138px;
     padding-bottom: 58px;
-
+    @media (max-width:991px) {
+        padding-top: 30px;
+    }
     .doctor-box {
         border-radius: 20px;
         background: #D9D9D9;
@@ -2670,8 +2713,4 @@ footer {
         }
     }
 
-}
-
-.about-banner{
-    margin-top: 120px;
 }

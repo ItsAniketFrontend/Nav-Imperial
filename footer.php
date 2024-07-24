@@ -1,4 +1,5 @@
-<div class="foot">
+<footer>
+        <div class="foot">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-4">
@@ -6,9 +7,11 @@
                             <img src="Images/foot-logo-1.png" alt="">
                             <img src="Images/foot-logo-2.png" alt="">
                         </div>
-                        <h3 class="pb-4">NAV Imperial Hospital and Research Centre is one of the leading orthopedic hospital in Jaipur, Rajasthan</h3>
+                        <h3 class="pb-4">NAV Imperial Hospital and Research Centre is one of the leading orthopedic
+                            hospital in Jaipur, Rajasthan</h3>
                         <button>Reach Us</button>
-                        <h6><img src="Images/location.png" alt="">Nav Imperial Hospital, Kawatiya Circle Shastri Nagar, Jaipur (India)</h6>
+                        <h6><img src="Images/location.png" alt="">Nav Imperial Hospital, Kawatiya Circle Shastri Nagar,
+                            Jaipur (India)</h6>
                         <h6><img src="Images/call.png" alt="">+91-7891010000</h6>
                         <p>coo@navimperialhospital.com</p>
                     </div>
@@ -48,5 +51,7 @@
         </div>
         <hr>
         <div class="sub-foot">
-            <h6>Copyright © 2024 Nav Imperial Hospital | All Rights Reserved | Powered by Digital Marketing Company in Jaipur.</h6>
+            <h6>Copyright © 2024 Nav Imperial Hospital | All Rights Reserved | Powered by Digital Marketing Company in
+                Jaipur.</h6>
         </div>
+    </footer>
