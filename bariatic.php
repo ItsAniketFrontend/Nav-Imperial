@@ -76,13 +76,16 @@
         <section class="bariatic-special">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-6">
+                    <div class="col-lg-6 d-flex justify-content-center align-items-center flex-column">
                         <img src="Images/bariatic-special.png" class="img-fluid" alt="">
-                        <h4>Dr Mahesh Jangid</h4>
-                        <p>Bariatric Surgeon</p>
-                        <h5>Director of Nav Imperial hospital</h5>
+                        <div class="border-box">
+                            <h4>Dr Mahesh Jangid</h4>
+                            <p>Bariatric Surgeon</p>
+                            <h5>Director of Nav Imperial hospital</h5>
+                        </div>
+                        
                     </div>
-                    <div class="col-lg-6 d-flex justify-content-center flex-column">
+                    <div class="col-lg-6 d-flex justify-content-center right flex-column">
                         <h3>Specialisation of Dr Mahesh Jangid</h3>
                         <li>
                             <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18"
@@ -170,39 +173,39 @@
         <section class="bariatic-services">
             <div class="container">
                 <div class="row">
-                    <div class="col-12">
+                    <div class="col-12 text-center">
                         <h2>Services provided by Dr Mahesh Jangid</h2>
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-lg-4 col-12">
+                    <div class="col-lg-4 col-12 my-3">
                         <h3>Bariatric Surgery</h3>
                         <p>Bariatric or weight loss surgery for high blood pressure, type 2 diabetes, sleep apnea
                             (sleeping sickness), heart disease, Knee pain, and more.</p>
                     </div>
-                    <div class="col-lg-4 col-12">
+                    <div class="col-lg-4 col-12 my-3">
                         <h3>Hernia</h3>
                         <p>A hernia is a bulge or swelling that occurs when the inside of the body pushes through a weak
                             spot in the wall of muscle or tissue.</p>
                     </div>
-                    <div class="col-lg-4 col-12">
+                    <div class="col-lg-4 col-12 my-3">
                         <h3>Gallbladder and stone surgery</h3>
                         <p>The gallbladder is a pear-shaped organ that stores bile, a fluid that aids in digestion. If
                             it doesn't work as it should (or if the bile gets out of balance), hard deposits, also known
                             as stones, begin to form.</p>
                     </div>
-                    <div class="col-lg-4 col-12">
+                    <div class="col-lg-4 col-12 my-3">
                         <h3>Achalasia Cardia</h3>
                         <p>Cardiac achalasia (cardiac spasm) is a chronic disease of the esophageal neuromuscular
                             system, which is characterized by the impaired opening of the lower esophageal sphincter at
                             the entrance of the stomach during swallowing.</p>
                     </div>
-                    <div class="col-lg-4 col-12">
+                    <div class="col-lg-4 col-12 my-3">
                         <h3>Diagnostic laparoscopy</h3>
                         <p>A laparoscope is a telescope designed for medical use. Connects to high-intensity lights and
                             high-resolution monitors.</p>
                     </div>
-                    <div class="col-lg-4 col-12">
+                    <div class="col-lg-4 col-12 my-3">
                         <h3>Acidity surgery</h3>
                         <p>Acid reflux occurs when stomach acid backs up into the esophagus. This causes heartburn and
                             other symptoms. Chronic or severe acid reflux is known as gastroesophageal reflux disease
@@ -211,6 +214,10 @@
                 </div>
             </div>
         </section>
+
+        <div class="line-hr container">
+            <hr>
+        </div>
 
         <section class="bariatic-potential">
             <div class="container">
@@ -408,6 +415,93 @@
         <div class="line-hr container">
             <hr>
         </div>
+
+        <section class="home-testimonial">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <div id="news-slider" class="owl-carousel">
+                            <div class="post-slide">
+                                <div class="d-flex gap-2 align-items-center justify-content-center flex-column">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="21" viewBox="0 0 24 21"
+                                        fill="none">
+                                        <path
+                                            d="M8.82 0L8.89 0.699999C5.90333 2.98666 4.41 5.6 4.41 8.54L4.55 10.36L5.53 10.15C6.97667 10.15 8.21333 10.64 9.24 11.62C10.2667 12.6 10.78 13.8133 10.78 15.26C10.78 16.66 10.2433 17.8733 9.17 18.9C8.14333 19.88 6.95333 20.37 5.6 20.37C3.92 20.37 2.56667 19.74 1.54 18.48C0.513333 17.22 0 15.54 0 13.44C0 7.88666 2.94 3.40666 8.82 0ZM21.21 0L21.28 0.699999C18.2933 2.98666 16.8 5.6 16.8 8.54L17.01 10.36L18.06 10.15C19.46 10.15 20.65 10.6633 21.63 11.69C22.6567 12.67 23.17 13.86 23.17 15.26C23.17 16.6133 22.6567 17.8033 21.63 18.83C20.6033 19.8567 19.4133 20.37 18.06 20.37C16.38 20.37 15.0267 19.74 14 18.48C12.9733 17.1733 12.46 15.4933 12.46 13.44C12.46 7.84 15.3767 3.36 21.21 0Z"
+                                            fill="#1E1E1E" />
+                                    </svg>
+                                    <h3>Our People Are Saying</h3>
+                                    <p> It Was Great Pleasure To Use Self Drive Service. I Hired Mercedes E Class <br>
+                                        From Delhi To Alwar And It Was Awesome Experienced. The Car Condition <br> Of
+                                        Self Drive Were Excellent And I Will Use Self Drive Service Again <br> Because
+                                        The Rate Given On Reasonable Price.</p>
+                                    <img src="Images/testimonial-img.png" alt="">
+                                    <h4>Deep Nainiwal</h4>
+                                    <img src="Images/testimonial-star.png" alt="">
+                                </div>
+                            </div>
+
+                            <div class="post-slide">
+                                <div class="d-flex gap-2 align-items-center justify-content-center flex-column">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="21" viewBox="0 0 24 21"
+                                        fill="none">
+                                        <path
+                                            d="M8.82 0L8.89 0.699999C5.90333 2.98666 4.41 5.6 4.41 8.54L4.55 10.36L5.53 10.15C6.97667 10.15 8.21333 10.64 9.24 11.62C10.2667 12.6 10.78 13.8133 10.78 15.26C10.78 16.66 10.2433 17.8733 9.17 18.9C8.14333 19.88 6.95333 20.37 5.6 20.37C3.92 20.37 2.56667 19.74 1.54 18.48C0.513333 17.22 0 15.54 0 13.44C0 7.88666 2.94 3.40666 8.82 0ZM21.21 0L21.28 0.699999C18.2933 2.98666 16.8 5.6 16.8 8.54L17.01 10.36L18.06 10.15C19.46 10.15 20.65 10.6633 21.63 11.69C22.6567 12.67 23.17 13.86 23.17 15.26C23.17 16.6133 22.6567 17.8033 21.63 18.83C20.6033 19.8567 19.4133 20.37 18.06 20.37C16.38 20.37 15.0267 19.74 14 18.48C12.9733 17.1733 12.46 15.4933 12.46 13.44C12.46 7.84 15.3767 3.36 21.21 0Z"
+                                            fill="#1E1E1E" />
+                                    </svg>
+                                    <h3>Our People Are Saying</h3>
+                                    <p> It Was Great Pleasure To Use Self Drive Service. I Hired Mercedes E Class <br>
+                                        From Delhi To Alwar And It Was Awesome Experienced. The Car Condition <br> Of
+                                        Self Drive Were Excellent And I Will Use Self Drive Service Again <br> Because
+                                        The Rate Given On Reasonable Price.</p>
+                                    <img src="Images/testimonial-img.png" alt="">
+                                    <h4>Deep Nainiwal</h4>
+                                    <img src="Images/testimonial-star.png" alt="">
+                                </div>
+                            </div>
+
+                            <div class="post-slide">
+                                <div class="d-flex gap-2 align-items-center justify-content-center flex-column">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="21" viewBox="0 0 24 21"
+                                        fill="none">
+                                        <path
+                                            d="M8.82 0L8.89 0.699999C5.90333 2.98666 4.41 5.6 4.41 8.54L4.55 10.36L5.53 10.15C6.97667 10.15 8.21333 10.64 9.24 11.62C10.2667 12.6 10.78 13.8133 10.78 15.26C10.78 16.66 10.2433 17.8733 9.17 18.9C8.14333 19.88 6.95333 20.37 5.6 20.37C3.92 20.37 2.56667 19.74 1.54 18.48C0.513333 17.22 0 15.54 0 13.44C0 7.88666 2.94 3.40666 8.82 0ZM21.21 0L21.28 0.699999C18.2933 2.98666 16.8 5.6 16.8 8.54L17.01 10.36L18.06 10.15C19.46 10.15 20.65 10.6633 21.63 11.69C22.6567 12.67 23.17 13.86 23.17 15.26C23.17 16.6133 22.6567 17.8033 21.63 18.83C20.6033 19.8567 19.4133 20.37 18.06 20.37C16.38 20.37 15.0267 19.74 14 18.48C12.9733 17.1733 12.46 15.4933 12.46 13.44C12.46 7.84 15.3767 3.36 21.21 0Z"
+                                            fill="#1E1E1E" />
+                                    </svg>
+                                    <h3>Our People Are Saying</h3>
+                                    <p> It Was Great Pleasure To Use Self Drive Service. I Hired Mercedes E Class <br>
+                                        From Delhi To Alwar And It Was Awesome Experienced. The Car Condition <br> Of
+                                        Self Drive Were Excellent And I Will Use Self Drive Service Again <br> Because
+                                        The Rate Given On Reasonable Price.</p>
+                                    <img src="Images/testimonial-img.png" alt="">
+                                    <h4>Deep Nainiwal</h4>
+                                    <img src="Images/testimonial-star.png" alt="">
+                                </div>
+                            </div>
+
+                            <div class="post-slide">
+                                <div class="d-flex gap-2 align-items-center justify-content-center flex-column">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="21" viewBox="0 0 24 21"
+                                        fill="none">
+                                        <path
+                                            d="M8.82 0L8.89 0.699999C5.90333 2.98666 4.41 5.6 4.41 8.54L4.55 10.36L5.53 10.15C6.97667 10.15 8.21333 10.64 9.24 11.62C10.2667 12.6 10.78 13.8133 10.78 15.26C10.78 16.66 10.2433 17.8733 9.17 18.9C8.14333 19.88 6.95333 20.37 5.6 20.37C3.92 20.37 2.56667 19.74 1.54 18.48C0.513333 17.22 0 15.54 0 13.44C0 7.88666 2.94 3.40666 8.82 0ZM21.21 0L21.28 0.699999C18.2933 2.98666 16.8 5.6 16.8 8.54L17.01 10.36L18.06 10.15C19.46 10.15 20.65 10.6633 21.63 11.69C22.6567 12.67 23.17 13.86 23.17 15.26C23.17 16.6133 22.6567 17.8033 21.63 18.83C20.6033 19.8567 19.4133 20.37 18.06 20.37C16.38 20.37 15.0267 19.74 14 18.48C12.9733 17.1733 12.46 15.4933 12.46 13.44C12.46 7.84 15.3767 3.36 21.21 0Z"
+                                            fill="#1E1E1E" />
+                                    </svg>
+                                    <h3>Our People Are Saying</h3>
+                                    <p> It Was Great Pleasure To Use Self Drive Service. I Hired Mercedes E Class <br>
+                                        From Delhi To Alwar And It Was Awesome Experienced. The Car Condition <br> Of
+                                        Self Drive Were Excellent And I Will Use Self Drive Service Again <br> Because
+                                        The Rate Given On Reasonable Price.</p>
+                                    <img src="Images/testimonial-img.png" alt="">
+                                    <h4>Deep Nainiwal</h4>
+                                    <img src="Images/testimonial-star.png" alt="">
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
 
 
     </main>

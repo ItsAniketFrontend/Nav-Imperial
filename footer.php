@@ -19,17 +19,17 @@
                         <div class="row">
                             <div class="col-5">
                                 <h4>LINKS</h4>
-                                <li><a href="">Home</a></li>
-                                <li><a href="">About</a></li>
-                                <li><a href="">Doctors</a></li>
+                                <li><a href="index.php">Home</a></li>
+                                <li><a href="about-us.php">About</a></li>
+                                <li><a href="doctors.php">Doctors</a></li>
                                 <li><a href="">Blog</a></li>
-                                <li><a href="">Contact</a></li>
+                                <li><a href="contact.php">Contact</a></li>
                             </div>
                             <div class="col-7">
                                 <h4>Services</h4>
-                                <li><a href="">Joint Replacement</a></li>
-                                <li><a href="">Knee Replacement</a></li>
-                                <li><a href="">Bariatric Surgery</a></li>
+                                <li><a href="knee-replacement.php">Joint Replacement</a></li>
+                                <li><a href="knee-replacement">Knee Replacement</a></li>
+                                <li><a href="bariatic.php">Bariatric Surgery</a></li>
                                 <li><a href="">General Surgery</a></li>
                                 <li><a href="">Obstetrics & Gynaecology</a></li>
                                 <li><a href="">Humanoid Robotics Surgery</a></li>

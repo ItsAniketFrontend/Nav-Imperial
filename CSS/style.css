@@ -1776,6 +1776,10 @@ footer .sub-foot h6 {
 
 .what-bariatic {
   padding: 70px 0px;
+  background: url(../Images/web-bg.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 .what-bariatic h3 {
   font-family: "HelveticaNeueBold";
@@ -1819,22 +1823,25 @@ footer .sub-foot h6 {
 }
 .bariatic-special h3 {
   color: #FFF;
-  font-family: "Arimo", sans-serif;
+  font-family: "HelveticaNeueBold";
   font-size: 35px;
   font-style: normal;
   font-weight: 700;
   line-height: 40px;
   /* 114.286% */
+  margin-bottom: 0px;
+  padding-bottom: 20px;
 }
 .bariatic-special li {
   list-style: none;
   color: #FFF;
-  font-family: "Arimo", sans-serif;
+  font-family: "HelveticaNeueRoman";
   font-size: 18px;
   font-style: normal;
   font-weight: 400;
   line-height: 25px;
   /* 138.889% */
+  padding-bottom: 8px;
 }
 .bariatic-special h4 {
   margin: 0px;
@@ -1844,26 +1851,42 @@ footer .sub-foot h6 {
   font-style: normal;
   font-weight: 400;
   line-height: 32.079px;
+  text-align: center;
   /* 122.361% */
 }
 .bariatic-special p {
   margin: 0px;
   color: #FFF;
-  font-family: "Arimo", sans-serif;
+  font-family: "HelveticaNeueRoman";
   font-size: 14.681px;
   font-style: normal;
   font-weight: 400;
   line-height: 20.973px;
+  text-align: center;
   /* 142.857% */
+}
+@media (min-width: 991px) {
+  .bariatic-special .right {
+    border-left: 1px solid #fff;
+  }
+}
+.bariatic-special .right button {
+  margin-top: 30px;
+}
+.bariatic-special .border-box {
+  border: 1px solid #fff;
+  padding: 10px;
+  border-radius: 20px;
 }
 .bariatic-special h5 {
   margin: 0px;
   color: #FFF;
-  font-family: "Arimo", sans-serif;
+  font-family: "HelveticaNeueBold";
   font-size: 16.779px;
   font-style: normal;
   font-weight: 700;
   line-height: 23.071px;
+  text-align: center;
   /* 137.5% */
 }
 .bariatic-special button {
@@ -1873,7 +1896,7 @@ footer .sub-foot h6 {
   background: #fff;
 }
 .bariatic-special button a {
-  font-family: "Arimo", sans-serif;
+  font-family: "HelveticaNeueBold";
   font-size: 20.873px;
   font-style: normal;
   font-weight: 700;
@@ -1886,7 +1909,11 @@ footer .sub-foot h6 {
 
 .bariatic-services {
   padding-top: 70px;
-  padding-bottom: 135px;
+  padding-bottom: 60px;
+  background: url(../Images/web-bg.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 .bariatic-services h2 {
   font-family: "Futura Md BT";
@@ -1899,6 +1926,8 @@ footer .sub-foot h6 {
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+  margin-bottom: 0px;
+  padding-bottom: 30px;
 }
 .bariatic-services h3 {
   font-family: "Futura Md BT";
@@ -1914,16 +1943,23 @@ footer .sub-foot h6 {
 }
 .bariatic-services p {
   color: #5A5A5A;
-  font-family: "Arimo", sans-serif;
+  font-family: "HelveticaNeueRoman";
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
   line-height: 22px;
   /* 137.5% */
+  margin-bottom: 0px;
+  padding-top: 17px;
 }
 
 .bariatic-potential {
   padding-bottom: 60px;
+  padding-top: 60px;
+  background: url(../Images/web-bg.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 .bariatic-potential h2 {
   font-family: "Futura Md BT";
@@ -1954,8 +1990,10 @@ footer .sub-foot h6 {
 .bariatic-potential p {
   margin: 0px;
   color: #5A5A5A;
-  font-family: "Arimo", sans-serif;
+  font-family: "HelveticaNeueRoman";
   font-size: 16px;
+  margin-bottom: 0px;
+  padding-top: 10px;
   font-style: normal;
   font-weight: 400;
   line-height: 22px;
@@ -2034,6 +2072,10 @@ footer .sub-foot h6 {
 
 .bariatic-cost {
   padding: 60px 0px;
+  background: url(../Images/web-bg.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 .bariatic-cost h2 {
   font-family: "Futura Md BT";

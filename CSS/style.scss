@@ -1969,7 +1969,10 @@ footer {
 
 .what-bariatic {
     padding: 70px 0px;
-
+    background: url(../Images/web-bg.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
     h3 {
         font-family: "HelveticaNeueBold";
         font-size: 35px;
@@ -2012,23 +2015,26 @@ footer {
 
     h3 {
         color: #FFF;
-        font-family: "Arimo", sans-serif;
+        font-family: "HelveticaNeueBold";
         font-size: 35px;
         font-style: normal;
         font-weight: 700;
         line-height: 40px;
         /* 114.286% */
+        margin-bottom: 0px;
+        padding-bottom: 20px;
     }
 
     li {
         list-style: none;
         color: #FFF;
-        font-family: "Arimo", sans-serif;
+        font-family: "HelveticaNeueRoman";
         font-size: 18px;
         font-style: normal;
         font-weight: 400;
         line-height: 25px;
         /* 138.889% */
+        padding-bottom: 8px;
     }
 
     h4 {
@@ -2039,6 +2045,7 @@ footer {
         font-style: normal;
         font-weight: 400;
         line-height: 32.079px;
+        text-align: center;
         /* 122.361% */
     }
 
@@ -2046,23 +2053,39 @@ footer {
         margin: 0px;
         color: #FFF;
 
-        font-family: "Arimo", sans-serif;
+        font-family: "HelveticaNeueRoman";
         font-size: 14.681px;
         font-style: normal;
         font-weight: 400;
         line-height: 20.973px;
+        text-align: center;
         /* 142.857% */
+    }
+
+    .right{
+        @media (min-width:991px) {
+            border-left: 1px solid #fff;
+        }
+        button{
+            margin-top: 30px;
+        }
+    }
+
+    .border-box{
+        border: 1px solid #fff;
+        padding: 10px;
+        border-radius: 20px;
     }
 
     h5 {
         margin: 0px;
         color: #FFF;
-
-        font-family: "Arimo", sans-serif;
+        font-family: "HelveticaNeueBold";
         font-size: 16.779px;
         font-style: normal;
         font-weight: 700;
         line-height: 23.071px;
+        text-align: center;
         /* 137.5% */
     }
 
@@ -2072,7 +2095,7 @@ footer {
         background: #fff;
 
         a {
-            font-family: "Arimo", sans-serif;
+            font-family: "HelveticaNeueBold";
             font-size: 20.873px;
             font-style: normal;
             font-weight: 700;
@@ -2087,8 +2110,11 @@ footer {
 
 .bariatic-services {
     padding-top: 70px;
-    padding-bottom: 135px;
-
+    padding-bottom: 60px;
+    background: url(../Images/web-bg.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
     h2 {
         font-family: "Futura Md BT";
         font-size: 35px;
@@ -2100,6 +2126,8 @@ footer {
         background-clip: text;
         -webkit-background-clip: text;
         -webkit-text-fill-color: transparent;
+        margin-bottom: 0px;
+        padding-bottom: 30px;
     }
 
     h3 {
@@ -2117,18 +2145,24 @@ footer {
 
     p {
         color: #5A5A5A;
-        font-family: "Arimo", sans-serif;
+        font-family: "HelveticaNeueRoman";
         font-size: 16px;
         font-style: normal;
         font-weight: 400;
         line-height: 22px;
         /* 137.5% */
+        margin-bottom: 0px;
+        padding-top: 17px;
     }
 }
 
 .bariatic-potential {
     padding-bottom: 60px;
-
+    padding-top: 60px;
+    background: url(../Images/web-bg.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
     h2 {
         font-family: "Futura Md BT";
         font-size: 35px;
@@ -2160,8 +2194,10 @@ footer {
     p {
         margin: 0px;
         color: #5A5A5A;
-        font-family: "Arimo", sans-serif;
+        font-family: "HelveticaNeueRoman";
         font-size: 16px;
+        margin-bottom: 0px;
+        padding-top: 10px;
         font-style: normal;
         font-weight: 400;
         line-height: 22px;
@@ -2247,7 +2283,10 @@ footer {
 
 .bariatic-cost {
     padding: 60px 0px;
-
+    background: url(../Images/web-bg.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
     h2 {
         font-family: "Futura Md BT";
         font-size: 35px;
