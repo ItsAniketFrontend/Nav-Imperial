@@ -221,7 +221,8 @@ header .small-screen nav .navbar-toggler {
   font-size: 20px;
   font-style: normal;
   font-weight: 400;
-  line-height: 25px; /* 125% */
+  line-height: 25px;
+  /* 125% */
   margin-bottom: 0px;
 }
 .home-registerd img {
@@ -874,11 +875,14 @@ header .small-screen nav .navbar-toggler {
   background: #DEDEDE;
   padding: 40px;
 }
+@media (max-width: 991px) {
+  .home-faq .content-box {
+    padding: 20px;
+  }
+}
 .home-faq .content-box h3 {
   overflow: hidden;
   color: #002D55;
-  text-overflow: ellipsis;
-  white-space: nowrap;
   font-family: "Arimo", sans-serif;
   font-size: 20px;
   font-style: normal;
@@ -886,12 +890,12 @@ header .small-screen nav .navbar-toggler {
   line-height: 32px;
   /* 160% */
   margin: 0px;
+  padding-bottom: 10px;
 }
 .home-faq .content-box p {
   overflow: hidden;
   color: #383838;
-  text-overflow: ellipsis;
-  white-space: nowrap;
+  margin: 0px;
   font-family: "Arimo", sans-serif;
   font-size: 16px;
   font-style: normal;
@@ -922,32 +926,50 @@ header .small-screen nav .navbar-toggler {
 }
 .home-testimonial .post-slide h3 {
   color: #1E1E1E;
-  font-family: "Arimo", sans-serif;
+  font-family: "HelveticaNeueBold";
   font-size: 35px;
   font-style: normal;
   font-weight: 700;
   line-height: 32px;
   /* 91.429% */
 }
+@media (max-width: 991px) {
+  .home-testimonial .post-slide h3 {
+    font-size: 28px;
+    text-align: center;
+  }
+}
 .home-testimonial .post-slide p {
   color: #1E1E1E;
   text-align: center;
-  font-family: "Arimo", sans-serif;
+  font-family: "HelveticaNeueRoman";
   font-size: 20px;
   font-style: normal;
   font-weight: 400;
   line-height: 26px;
   /* 130% */
 }
+@media (max-width: 991px) {
+  .home-testimonial .post-slide p {
+    font-size: 14px;
+    line-height: normal;
+  }
+}
 .home-testimonial .post-slide h4 {
   color: #1E1E1E;
   text-align: center;
-  font-family: "Arimo", sans-serif;
+  font-family: "HelveticaNeueRoman";
   font-size: 25px;
   font-style: normal;
   font-weight: 700;
   line-height: 25px;
   /* 100% */
+}
+@media (max-width: 991px) {
+  .home-testimonial .post-slide h4 {
+    font-size: 18px;
+    line-height: normal;
+  }
 }
 .home-testimonial .owl-controls .owl-buttons {
   text-align: center;
@@ -1089,11 +1111,7 @@ footer .sub-foot h6 {
 }
 
 .knee-replacement-banner {
-  background: url(../Images/knee-replacement-banner.png);
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  min-height: 538px;
+  margin-top: 4.4rem;
 }
 .knee-replacement-banner .col-12 {
   min-height: 538px;
@@ -1147,6 +1165,12 @@ footer .sub-foot h6 {
   padding-top: 100px;
   padding-bottom: 80px;
 }
+@media (max-width: 991px) {
+  .knee-replacement-about {
+    padding-top: 50px;
+    padding-bottom: 40px;
+  }
+}
 .knee-replacement-about h6 {
   font-family: "Futura Hv BT";
   font-size: 25px;
@@ -1160,15 +1184,27 @@ footer .sub-foot h6 {
   -webkit-text-fill-color: transparent;
   margin: 0px;
 }
+@media (max-width: 991px) {
+  .knee-replacement-about h6 {
+    font-size: 21px;
+    line-height: none;
+  }
+}
 .knee-replacement-about p {
   color: #5A5A5A;
-  font-family: "Arimo", sans-serif;
+  font-family: "HelveticaNeueRoman";
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
   line-height: 25px;
   /* 156.25% */
   margin: 0px;
+}
+@media (max-width: 991px) {
+  .knee-replacement-about p {
+    font-size: 14px;
+    line-height: none;
+  }
 }
 
 .knee-association {
@@ -1178,8 +1214,10 @@ footer .sub-foot h6 {
   background-size: cover;
   min-height: 540px;
 }
-.knee-association .hei {
-  min-height: 540px;
+@media (min-width: 991px) {
+  .knee-association .hei {
+    min-height: 540px;
+  }
 }
 .knee-association hr {
   width: 100%;
@@ -1200,7 +1238,7 @@ footer .sub-foot h6 {
 .knee-association p {
   color: #FFF;
   text-align: center;
-  font-family: "Arimo", sans-serif;
+  font-family: "HelveticaNeueBold";
   font-size: 16px;
   font-style: normal;
   font-weight: 700;
@@ -1218,12 +1256,19 @@ footer .sub-foot h6 {
 }
 .knee-association h4 {
   color: #FFF;
-  font-family: "Arimo", sans-serif;
+  font-family: "HelveticaNeueRoman";
   font-size: 14.645px;
   font-style: normal;
   font-weight: 400;
   line-height: 20.922px;
   /* 142.857% */
+}
+.knee-association .knee-box {
+  border: 1px solid #fff;
+  border-radius: 30px;
+  width: -moz-fit-content;
+  width: fit-content;
+  padding: 15px;
 }
 
 .knee-why-sachin {
@@ -1241,7 +1286,7 @@ footer .sub-foot h6 {
 }
 .knee-why-sachin li {
   color: #5A5A5A;
-  font-family: "Arimo", sans-serif;
+  font-family: "HelveticaNeueRoman";
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -1250,7 +1295,7 @@ footer .sub-foot h6 {
 }
 .knee-why-sachin p {
   color: #5A5A5A;
-  font-family: "Arimo", sans-serif;
+  font-family: "HelveticaNeueRoman";
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -1298,7 +1343,7 @@ footer .sub-foot h6 {
 }
 .knee-area-specialisation .cover p {
   color: #FFF;
-  font-family: "Arimo", sans-serif;
+  font-family: "HelveticaNeueRoman";
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -1340,14 +1385,17 @@ footer .sub-foot h6 {
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
+.knee-benefits .col-lg-4 {
+  height: 100%;
+}
 .knee-benefits .svg-box {
   width: -moz-fit-content;
   width: fit-content;
   padding: 20px;
   border-radius: 100px;
   position: relative;
-  left: 0px;
-  top: 20px;
+  left: -30px;
+  top: 30px;
   border: 1px solid #fff;
   background: linear-gradient(230deg, #0E3F72 9.66%, #09956D 101.42%);
 }
@@ -1368,6 +1416,14 @@ footer .sub-foot h6 {
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+}
+.knee-benefits p {
+  font-family: "HelveticaNeueRoman";
+  color: #5A5A5A;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 22px; /* 137.5% */
 }
 
 .knee-looking {
@@ -1392,7 +1448,9 @@ footer .sub-foot h6 {
 .knee-looking p {
   color: #FFF;
   text-align: center;
-  font-family: "Arimo", sans-serif;
+  font-family: "HelveticaNeueRoman";
+  padding-top: 15px;
+  padding-bottom: 30px;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -1408,7 +1466,7 @@ footer .sub-foot h6 {
 }
 .knee-looking button a {
   text-align: center;
-  font-family: "Arimo", sans-serif;
+  font-family: "HelveticaNeueBold";
   font-size: 25px;
   font-style: normal;
   font-weight: 700;
@@ -1438,7 +1496,7 @@ footer .sub-foot h6 {
 }
 .knee-3d li {
   color: #5A5A5A;
-  font-family: "Arimo", sans-serif;
+  font-family: "HelveticaNeueRoman";
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -1483,13 +1541,14 @@ footer .sub-foot h6 {
 }
 .highly-rated-knee p {
   color: #5A5A5A;
-  font-family: "Arimo", sans-serif;
+  font-family: "HelveticaNeueRoman";
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
   line-height: 22px;
   /* 137.5% */
   margin: 0px;
+  padding-top: 20px;
 }
 .highly-rated-knee .bg {
   border-radius: 20px;
@@ -1515,13 +1574,14 @@ footer .sub-foot h6 {
 }
 .knee-cost p {
   color: #5A5A5A;
-  font-family: "Arimo", sans-serif;
+  font-family: "HelveticaNeueRoman";
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
   line-height: 22px;
   /* 137.5% */
   margin: 0px;
+  padding-top: 15px;
 }
 
 .knee-youtube {
@@ -1554,6 +1614,8 @@ footer .sub-foot h6 {
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+  margin-bottom: 0px;
+  padding-bottom: 30px;
 }
 .knee-why-choose h6 {
   background: linear-gradient(230deg, #0E3F72 9.66%, #09956D 101.42%);
@@ -1569,7 +1631,7 @@ footer .sub-foot h6 {
 }
 .knee-why-choose p {
   color: #5A5A5A;
-  font-family: "Arimo", sans-serif;
+  font-family: "HelveticaNeueRoman";
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -1602,12 +1664,15 @@ footer .sub-foot h6 {
 .knee-are-you-pain p {
   color: #FFF;
   text-align: center;
-  font-family: "Arimo", sans-serif;
+  font-family: "HelveticaNeueRoman";
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
   line-height: 22px;
   /* 137.5% */
+  margin-bottom: 0px;
+  padding-top: 15px;
+  padding-bottom: 30px;
 }
 .knee-are-you-pain button {
   border-radius: 5px;
@@ -1632,6 +1697,10 @@ footer .sub-foot h6 {
 
 .faq {
   padding: 60px 0px;
+  background: url(../Images/web-bg.png);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 .faq h2 {
   font-family: "Futura Md BT";
@@ -1673,10 +1742,14 @@ footer .sub-foot h6 {
 
 .top-bariatic {
   padding: 50px 0px;
+  background: url(../Images/web-bg.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 .top-bariatic h2 {
   margin: 0px;
-  font-family: "Arimo", sans-serif;
+  font-family: "HelveticaNeueBold";
   font-size: 35px;
   font-style: normal;
   text-align: center;
@@ -1687,11 +1760,13 @@ footer .sub-foot h6 {
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+  margin-bottom: 0px;
+  padding-bottom: 11px;
 }
 .top-bariatic p {
   color: #5A5A5A;
   text-align: center;
-  font-family: "Arimo", sans-serif;
+  font-family: "HelveticaNeueRoman";
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -1703,7 +1778,7 @@ footer .sub-foot h6 {
   padding: 70px 0px;
 }
 .what-bariatic h3 {
-  font-family: "Arimo", sans-serif;
+  font-family: "HelveticaNeueBold";
   font-size: 35px;
   font-style: normal;
   font-weight: 700;
@@ -1714,6 +1789,7 @@ footer .sub-foot h6 {
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   margin: 0px;
+  padding-bottom: 15px;
 }
 .what-bariatic p {
   color: #5A5A5A;
@@ -1723,6 +1799,15 @@ footer .sub-foot h6 {
   font-weight: 400;
   line-height: 25px;
   /* 156.25% */
+}
+
+.bariatic-banner {
+  margin-top: 7rem;
+}
+@media (max-width: 991px) {
+  .bariatic-banner {
+    margin-top: 4rem;
+  }
 }
 
 .bariatic-special {
@@ -2194,7 +2279,8 @@ footer .sub-foot h6 {
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
-  line-height: 23px; /* 143.75% */
+  line-height: 23px;
+  /* 143.75% */
   color: #5A5A5A;
 }
 @media (max-width: 991px) {

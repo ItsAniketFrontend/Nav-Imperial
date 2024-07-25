@@ -50,8 +50,27 @@
                 <li><a class="dropdown-item" href="doctors.php">Our Doctors</a></li>
               </ul>
             </li>
-            <li class="nav-item px-2">
-              <a class="nav-link" href="#">Services</a>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
+                aria-expanded="false">
+                Services
+              </a>
+              <ul class="dropdown-menu">
+                <li><a class="dropdown-item" href="about-us.php">Joint Replacement</a></li>
+                <li><a class="dropdown-item" href="knee-replacement.php">Knee Replacement</a></li>
+                <li><a class="dropdown-item" href="bariatic.php">Bariatic Surgery</a></li>
+                <li><a class="dropdown-item" href="doctors.php">Humanoid Robotics Surgery</a></li>
+                <li><a class="dropdown-item" href="about-us.php">General Surgery</a></li>
+                <li><a class="dropdown-item" href="doctors.php">Gynaecologist</a></li>
+                <li><a class="dropdown-item" href="about-us.php">Paediatrics</a></li>
+                <li><a class="dropdown-item" href="doctors.php">Urology</a></li>
+                <li><a class="dropdown-item" href="about-us.php">Critical Care</a></li>
+                <li><a class="dropdown-item" href="doctors.php">GI-Bariatic</a></li>
+                <li><a class="dropdown-item" href="about-us.php">Neurosurgery</a></li>
+                <li><a class="dropdown-item" href="doctors.php">Dietetics Department</a></li>
+                <li><a class="dropdown-item" href="about-us.php">ENT</a></li>
+                <li><a class="dropdown-item" href="doctors.php">Orthopedics</a></li>
+              </ul>
             </li>
             <li class="nav-item px-2">
               <a class="nav-link">Blog</a>

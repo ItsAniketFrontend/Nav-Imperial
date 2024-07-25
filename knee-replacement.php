@@ -18,26 +18,14 @@
 
 <body>
 
-    <header>
-    </header>
+    <?php
+    include ('header.php');
+    ?>
 
     <main>
 
         <section class="knee-replacement-banner">
-            <div class="container">
-                <div class="row">
-                    <div class="col-12">
-                        <h6>Rajasthan’s First Hospital with</h6>
-                        <h1>Humanoid Robotics <br> Surgery</h1>
-                        <div class="d-flex gap-2">
-                            <button><a href="">23+ <br>
-                            Years of Experience</a></button>
-                            <button><a href="">13,500+ <br>
-                            Successful Surgeries</a></button>
-                        </div>
-                    </div>
-                </div>
-            </div>
+            <img src="Images/knee-banner.png" width="100%" height="auto" alt="">
         </section>
 
         <section class="knee-replacement-about">
@@ -71,14 +59,16 @@
         <section class="knee-association">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-5 hei text-center">
+                    <div class="col-lg-5 hei text-center d-flex justify-content-center flex-column align-items-center my-lg-0 my-3">
                         <img src="Images/association-sachin.png" class="img-fluid" alt="">
-                        <h3>Dr Sachin Gupta</h3>
-                        <h4>M.B.B.S., M.S, M. Ch. (USA), F.I.A.S (PUNE), <br> F.J.R.S (AHMADABAD)</h4>
-                        <p>Director of Nav Imperial hospital Senior Joint <br> Replacement Surgeon</p>
+                        <div class="knee-box">
+                            <h3>Dr Sachin Gupta</h3>
+                            <h4>M.B.B.S., M.S, M. Ch. (USA), F.I.A.S (PUNE), <br> F.J.R.S (AHMADABAD)</h4>
+                            <p>Director of Nav Imperial hospital Senior Joint <br> Replacement Surgeon</p>
+                        </div>
                     </div>
-                    <div class="col-lg-2 hei d-flex justify-content-evenly align-items-center flex-column">
-                        <hr>
+                    <div class="col-lg-2 hei d-flex justify-content-lg-evenly align-items-center flex-column my-lg-0 my-3">
+                        <hr class="d-none d-sm-none d-md-none d-lg-block d-xl-block">
                         <div class="svg-box text-center">
                             <svg xmlns="http://www.w3.org/2000/svg" width="83" height="83" viewBox="0 0 83 83" fill="none">
                                 <g clip-path="url(#clip0_200_773)">
@@ -96,11 +86,11 @@
                             </svg>
                             <h6>Associated With</h6>
                         </div>
-                        <hr>
+                        <hr class="d-none d-sm-none d-md-none d-lg-block d-xl-block">
                     </div>
-                    <div class="col-lg-5 hei text-center">
+                    <div class="col-lg-5 hei text-center d-flex justify-content-center align-items-center flex-column my-lg-0 my-3">
                         <img src="Images/association-nav-logo.png" class="img-fluid" alt="">
-                        <img src="Images/association-nav.png" class="img-fluid" alt="">
+                        <img src="Images/association-nav.png" class="img-fluid py-3" alt="">
                         <p>Dr Sachin Gupta is one of the trusted knee replacement surgeon in Jaipur. he has performed over 6000 Knee replacement surgeries. Dr Sachin Gupta's procedures have had a high success rate and 100% client satisfaction.</p>
                     </div>
                 </div>
@@ -840,60 +830,9 @@
     </main>
 
 
-    <footer>
-        <div class="foot">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-4">
-                        <div class="d-flex gap-1">
-                            <img src="Images/foot-logo-1.png" alt="">
-                            <img src="Images/foot-logo-2.png" alt="">
-                        </div>
-                        <h3 class="pb-4">NAV Imperial Hospital and Research Centre is one of the leading orthopedic hospital in Jaipur, Rajasthan</h3>
-                        <button>Reach Us</button>
-                        <h6><img src="Images/location.png" alt="">Nav Imperial Hospital, Kawatiya Circle Shastri Nagar, Jaipur (India)</h6>
-                        <h6><img src="Images/call.png" alt="">+91-7891010000</h6>
-                        <p>coo@navimperialhospital.com</p>
-                    </div>
-                    <div class="col-lg-4">
-                        <div class="row">
-                            <div class="col-5">
-                                <h4>LINKS</h4>
-                                <li><a href="">Home</a></li>
-                                <li><a href="">About</a></li>
-                                <li><a href="">Doctors</a></li>
-                                <li><a href="">Blog</a></li>
-                                <li><a href="">Contact</a></li>
-                            </div>
-                            <div class="col-7">
-                                <h4>Services</h4>
-                                <li><a href="">Joint Replacement</a></li>
-                                <li><a href="">Knee Replacement</a></li>
-                                <li><a href="">Bariatric Surgery</a></li>
-                                <li><a href="">General Surgery</a></li>
-                                <li><a href="">Obstetrics & Gynaecology</a></li>
-                                <li><a href="">Humanoid Robotics Surgery</a></li>
-                                <li><a href="">Urology</a></li>
-                                <li><a href="">Intensive care/ Critical Care</a></li>
-                                <li><a href="">Gastroenterology</a></li>
-                                <li><a href="">Neurology/Neurosurgery</a></li>
-                                <li><a href="">ENT</a></li>
-                                <li><a href="">Paediatrics</a></li>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4">
-                        <h4>Our Location</h4>
-                        <img src="Images/foot-map.png" class="img-fluid" alt="">
-                    </div>
-                </div>
-            </div>
-        </div>
-        <hr>
-        <div class="sub-foot">
-            <h6>Copyright © 2024 Nav Imperial Hospital | All Rights Reserved | Powered by Digital Marketing Company in Jaipur.</h6>
-        </div>
-    </footer>
+    <?php
+    include ('footer.php');
+    ?>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
