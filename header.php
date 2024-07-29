@@ -59,7 +59,7 @@
                 <li><a class="dropdown-item" href="about-us.php">Joint Replacement</a></li>
                 <li><a class="dropdown-item" href="knee-replacement.php">Knee Replacement</a></li>
                 <li><a class="dropdown-item" href="bariatic.php">Bariatic Surgery</a></li>
-                <li><a class="dropdown-item" href="doctors.php">Humanoid Robotics Surgery</a></li>
+                <li><a class="dropdown-item" href="humanoid-robotics-surgery-in-jaipur.php">Humanoid Robotics Surgery</a></li>
                 <li><a class="dropdown-item" href="about-us.php">General Surgery</a></li>
                 <li><a class="dropdown-item" href="doctors.php">Gynaecologist</a></li>
                 <li><a class="dropdown-item" href="about-us.php">Paediatrics</a></li>

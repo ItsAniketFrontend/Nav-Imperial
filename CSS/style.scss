@@ -2860,3 +2860,103 @@ footer {
     }
 
 }
+
+.humanoid-surgery-banner{
+    margin-top: 5rem;
+}
+
+.humanoid-about{
+    padding: 80px 0px;
+    h2{
+        color: #174779;
+        font-family: "Futura Md BT";
+        font-size: 30px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 40px; /* 133.333% */
+        background: linear-gradient(224deg, #0E3F72 6.81%, #09956D 95.34%);
+        background-clip: text;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        margin-bottom: 0px;
+        padding-bottom: 28px;
+    }
+    h3{
+        color: #174779;
+        font-family: "Futura Hv BT";
+        font-size: 25px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 32px; /* 128% */
+        background: linear-gradient(224deg, #0E3F72 6.81%, #09956D 95.34%);
+        background-clip: text;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+    p{
+        color: #5A5A5A;
+        font-family: "HelveticaNeueRoman";
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 25px; /* 156.25% */
+    }
+}
+
+.benefits{
+    padding-bottom: 80px;
+    h2{
+        color: #174779;
+        font-family: "Futura Md BT";
+        font-size: 30px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 40px; /* 133.333% */
+        background: linear-gradient(224deg, #0E3F72 6.81%, #09956D 95.34%);
+        background-clip: text;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        margin-bottom: 0px;
+        padding-bottom: 28px;
+    }
+    li{
+        color: #5A5A5A;
+        font-family: "HelveticaNeueRoman";
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 25px; /* 156.25% */
+        span{
+            font-weight: bold;
+        }
+    }
+}
+
+.expertise{
+    padding-bottom: 80px;
+    h2{
+        color: #174779;
+        font-family: "Futura Md BT";
+        font-size: 30px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 40px; /* 133.333% */
+        background: linear-gradient(224deg, #0E3F72 6.81%, #09956D 95.34%);
+        background-clip: text;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        margin-bottom: 0px;
+        padding-bottom: 12px;
+    }
+    p{
+        color: #5A5A5A;
+        font-family: "HelveticaNeueRoman";
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 25px; /* 156.25% */
+        span{
+            font-weight: bold;
+        }
+    }
+}
