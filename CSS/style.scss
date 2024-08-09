@@ -1544,7 +1544,7 @@ footer {
         -webkit-text-fill-color: transparent;
     }
 
-    .col-lg-4{
+    .col-lg-4 {
         height: 100%;
     }
 
@@ -1579,13 +1579,14 @@ footer {
         -webkit-text-fill-color: transparent;
     }
 
-    p{
+    p {
         font-family: "HelveticaNeueRoman";
         color: #5A5A5A;
         font-size: 16px;
         font-style: normal;
         font-weight: 400;
-        line-height: 22px; /* 137.5% */
+        line-height: 22px;
+        /* 137.5% */
     }
 
 }
@@ -1890,6 +1891,7 @@ footer {
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
+
     h2 {
         font-family: "Futura Md BT";
         font-size: 40px;
@@ -1938,6 +1940,7 @@ footer {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+
     h2 {
         margin: 0px;
         font-family: "HelveticaNeueBold";
@@ -1973,6 +1976,7 @@ footer {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+
     h3 {
         font-family: "HelveticaNeueBold";
         font-size: 35px;
@@ -1999,8 +2003,9 @@ footer {
     }
 }
 
-.bariatic-banner{
+.bariatic-banner {
     margin-top: 7rem;
+
     @media (max-width:991px) {
         margin-top: 4rem;
     }
@@ -2062,16 +2067,17 @@ footer {
         /* 142.857% */
     }
 
-    .right{
+    .right {
         @media (min-width:991px) {
             border-left: 1px solid #fff;
         }
-        button{
+
+        button {
             margin-top: 30px;
         }
     }
 
-    .border-box{
+    .border-box {
         border: 1px solid #fff;
         padding: 10px;
         border-radius: 20px;
@@ -2115,6 +2121,7 @@ footer {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+
     h2 {
         font-family: "Futura Md BT";
         font-size: 35px;
@@ -2163,6 +2170,7 @@ footer {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+
     h2 {
         font-family: "Futura Md BT";
         font-size: 35px;
@@ -2287,6 +2295,7 @@ footer {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+
     h2 {
         font-family: "Futura Md BT";
         font-size: 35px;
@@ -2861,19 +2870,21 @@ footer {
 
 }
 
-.humanoid-surgery-banner{
+.humanoid-surgery-banner {
     margin-top: 5rem;
 }
 
-.humanoid-about{
+.humanoid-about {
     padding: 80px 0px;
-    h2{
+
+    h2 {
         color: #174779;
         font-family: "Futura Md BT";
         font-size: 30px;
         font-style: normal;
         font-weight: 700;
-        line-height: 40px; /* 133.333% */
+        line-height: 40px;
+        /* 133.333% */
         background: linear-gradient(224deg, #0E3F72 6.81%, #09956D 95.34%);
         background-clip: text;
         -webkit-background-clip: text;
@@ -2881,37 +2892,43 @@ footer {
         margin-bottom: 0px;
         padding-bottom: 28px;
     }
-    h3{
+
+    h3 {
         color: #174779;
         font-family: "Futura Hv BT";
         font-size: 25px;
         font-style: normal;
         font-weight: 400;
-        line-height: 32px; /* 128% */
+        line-height: 32px;
+        /* 128% */
         background: linear-gradient(224deg, #0E3F72 6.81%, #09956D 95.34%);
         background-clip: text;
         -webkit-background-clip: text;
         -webkit-text-fill-color: transparent;
     }
-    p{
+
+    p {
         color: #5A5A5A;
         font-family: "HelveticaNeueRoman";
         font-size: 16px;
         font-style: normal;
         font-weight: 400;
-        line-height: 25px; /* 156.25% */
+        line-height: 25px;
+        /* 156.25% */
     }
 }
 
-.benefits{
+.benefits {
     padding-bottom: 80px;
-    h2{
+
+    h2 {
         color: #174779;
         font-family: "Futura Md BT";
         font-size: 30px;
         font-style: normal;
         font-weight: 700;
-        line-height: 40px; /* 133.333% */
+        line-height: 40px;
+        /* 133.333% */
         background: linear-gradient(224deg, #0E3F72 6.81%, #09956D 95.34%);
         background-clip: text;
         -webkit-background-clip: text;
@@ -2919,28 +2936,33 @@ footer {
         margin-bottom: 0px;
         padding-bottom: 28px;
     }
-    li{
+
+    li {
         color: #5A5A5A;
         font-family: "HelveticaNeueRoman";
         font-size: 16px;
         font-style: normal;
         font-weight: 400;
-        line-height: 25px; /* 156.25% */
-        span{
+        line-height: 25px;
+
+        /* 156.25% */
+        span {
             font-weight: bold;
         }
     }
 }
 
-.expertise{
+.expertise {
     padding-bottom: 80px;
-    h2{
+
+    h2 {
         color: #174779;
         font-family: "Futura Md BT";
         font-size: 30px;
         font-style: normal;
         font-weight: 700;
-        line-height: 40px; /* 133.333% */
+        line-height: 40px;
+        /* 133.333% */
         background: linear-gradient(224deg, #0E3F72 6.81%, #09956D 95.34%);
         background-clip: text;
         -webkit-background-clip: text;
@@ -2948,6 +2970,814 @@ footer {
         margin-bottom: 0px;
         padding-bottom: 12px;
     }
+
+    p {
+        color: #5A5A5A;
+        font-family: "HelveticaNeueRoman";
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 25px;
+
+        /* 156.25% */
+        span {
+            font-weight: bold;
+        }
+    }
+}
+
+.general-surgery {
+    margin-top: 160px;
+
+    h1 {
+        font-family: "Futura Md BT";
+        font-size: 35px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 40px;
+        /* 133.333% */
+        background: linear-gradient(202deg, #0E3F72 37.38%, #09956D 121.58%);
+        background-clip: text;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+
+    h2 {
+        color: #000;
+        font-family: "Futura Md BT";
+        font-size: 25px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 30px;
+        /* 120% */
+    }
+
+    p {
+        color: #5A5A5A;
+        font-family: "HelveticaNeueRoman";
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 25px;
+        /* 156.25% */
+    }
+}
+
+.when-general {
+    padding: 80px 0px;
+    background: url(../Images/knee-specialisation.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    h2 {
+        color: #fff;
+        font-family: "Futura Md BT";
+        font-size: 35px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 40px;
+        /* 114.286% */
+        margin-bottom: 0px;
+        padding-bottom: 20px;
+    }
+
+    p {
+        color: #fff;
+        font-family: "HelveticaNeueRoman";
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 25px;
+        /* 156.25% */
+    }
+
+    li {
+        color: #FFF;
+        font-family: "HelveticaNeueRoman";
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 25px;
+        /* 156.25% */
+    }
+
+    h3 {
+        color: #fff;
+        font-family: "Futura Md BT";
+        font-size: 25px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 30px;
+        /* 120% */
+    }
+}
+
+.paediatrics {
+    margin-top: 180px;
+
+    @media (max-width:991px) {
+        margin-top: 80px;
+    }
+
+    h2 {
+        font-family: "HelveticaNeueBold";
+        font-size: 35px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 40px;
+        /* 114.286% */
+        margin-bottom: 0px;
+        padding-bottom: 11px;
+        background: linear-gradient(224deg, #0E3F72 6.81%, #09956D 95.34%);
+        background-clip: text;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+
+    p {
+        color: #5A5A5A;
+        text-align: center;
+        font-family: "HelveticaNeueRoman";
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 25px;
+        /* 156.25% */
+    }
+}
+
+.neontal {
+    padding: 40px 0px;
+
+    p {
+        color: #5A5A5A;
+        font-family: "HelveticaNeueRoman";
+        font-size: 17px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 25px;
+
+        /* 156.25% */
+        span {
+            font-weight: 700;
+            background: linear-gradient(224deg, #0E3F72 6.81%, #09956D 95.34%);
+            background-clip: text;
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+    }
+}
+
+.paed-form {
+    padding-bottom: 50px;
+
+    .form-box {
+        border-radius: 27px;
+        background: #D3D3D3;
+        padding: 50px 20px;
+
+        h1 {
+            font-family: "Futura Hv BT";
+            font-size: 30px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: normal;
+            background: linear-gradient(214deg, #104175 -7.08%, #078863 99.11%);
+            background-clip: text;
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        input {
+            border-radius: 5px;
+            border: 1px solid #1A1A1A;
+            color: #1A1A1A;
+            font-family: "HelveticaNeueMedium";
+            font-size: 16px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: normal;
+            background-color: transparent;
+            padding: 10px;
+            width: 100%;
+        }
+
+        textarea {
+            color: #1A1A1A;
+            font-family: "HelveticaNeueMedium";
+            font-size: 16px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: normal;
+            width: 100%;
+            border-radius: 5px;
+            border: 1px solid #1A1A1A;
+            background-color: transparent;
+            height: 100px;
+            padding: 10px;
+        }
+
+        button {
+            border-radius: 5px;
+            background: linear-gradient(217deg, #104175 -6.15%, #078863 130.71%), #002D55;
+            border: none;
+            padding: 7px 27px;
+            color: #FFF;
+            font-family: "Futura Hv BT";
+            font-size: 25px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: 25px;
+            /* 100% */
+            margin-top: 21px;
+
+            a {
+                color: #FFF !important;
+                font-family: "Futura Hv BT";
+                font-size: 25px;
+                font-style: normal;
+                font-weight: 400;
+                line-height: 25px;
+                /* 100% */
+            }
+        }
+    }
+}
+
+.urology {
+    margin-top: 180px;
+
+    @media (max-width:991px) {
+        margin-top: 50px;
+    }
+
+    h2 {
+        font-family: "HelveticaNeueMedium";
+        font-size: 35px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 40px;
+        /* 114.286% */
+        background: linear-gradient(224deg, #0E3F72 6.81%, #09956D 95.34%);
+        background-clip: text;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        margin-bottom: 0px;
+        padding-bottom: 11px;
+    }
+
+    p {
+        color: #5A5A5A;
+        font-family: "HelveticaNeueRoman";
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 25px;
+
+        /* 156.25% */
+        span {
+            font-weight: 700;
+            background: linear-gradient(224deg, #0E3F72 6.81%, #09956D 95.34%);
+            background-clip: text;
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+    }
+}
+
+.uro-form {
+    padding-bottom: 50px;
+    padding-top: 50px;
+
+    .form-box {
+        border-radius: 27px;
+        background: #D3D3D3;
+        padding: 50px 20px;
+
+        h1 {
+            font-family: "Futura Hv BT";
+            font-size: 30px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: normal;
+            background: linear-gradient(214deg, #104175 -7.08%, #078863 99.11%);
+            background-clip: text;
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        input {
+            border-radius: 5px;
+            border: 1px solid #1A1A1A;
+            color: #1A1A1A;
+            font-family: "HelveticaNeueMedium";
+            font-size: 16px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: normal;
+            background-color: transparent;
+            padding: 10px;
+            width: 100%;
+        }
+
+        textarea {
+            color: #1A1A1A;
+            font-family: "HelveticaNeueMedium";
+            font-size: 16px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: normal;
+            width: 100%;
+            border-radius: 5px;
+            border: 1px solid #1A1A1A;
+            background-color: transparent;
+            height: 100px;
+            padding: 10px;
+        }
+
+        button {
+            border-radius: 5px;
+            background: linear-gradient(217deg, #104175 -6.15%, #078863 130.71%), #002D55;
+            border: none;
+            padding: 7px 27px;
+            color: #FFF;
+            font-family: "Futura Hv BT";
+            font-size: 25px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: 25px;
+            /* 100% */
+            margin-top: 21px;
+
+            a {
+                color: #FFF !important;
+                font-family: "Futura Hv BT";
+                font-size: 25px;
+                font-style: normal;
+                font-weight: 400;
+                line-height: 25px;
+                /* 100% */
+            }
+        }
+    }
+}
+
+.intensive {
+    margin-top: 180px;
+
+    @media (max-width:991px) {
+        margin-top: 50px;
+    }
+
+    h2 {
+        font-family: "HelveticaNeueMedium";
+        font-size: 35px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 40px;
+        /* 114.286% */
+        background: linear-gradient(224deg, #0E3F72 6.81%, #09956D 95.34%);
+        background-clip: text;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        margin-bottom: 0px;
+        padding-bottom: 11px;
+    }
+
+    p {
+        color: #5A5A5A;
+        font-family: "HelveticaNeueRoman";
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 25px;
+
+        /* 156.25% */
+        span {
+            font-weight: 700;
+            background: linear-gradient(224deg, #0E3F72 6.81%, #09956D 95.34%);
+            background-clip: text;
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+    }
+}
+
+.intensive-form {
+    padding-bottom: 50px;
+    padding-top: 50px;
+
+    .form-box {
+        border-radius: 27px;
+        background: #D3D3D3;
+        padding: 50px 20px;
+
+        h1 {
+            font-family: "Futura Hv BT";
+            font-size: 30px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: normal;
+            background: linear-gradient(214deg, #104175 -7.08%, #078863 99.11%);
+            background-clip: text;
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        input {
+            border-radius: 5px;
+            border: 1px solid #1A1A1A;
+            color: #1A1A1A;
+            font-family: "HelveticaNeueMedium";
+            font-size: 16px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: normal;
+            background-color: transparent;
+            padding: 10px;
+            width: 100%;
+        }
+
+        textarea {
+            color: #1A1A1A;
+            font-family: "HelveticaNeueMedium";
+            font-size: 16px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: normal;
+            width: 100%;
+            border-radius: 5px;
+            border: 1px solid #1A1A1A;
+            background-color: transparent;
+            height: 100px;
+            padding: 10px;
+        }
+
+        button {
+            border-radius: 5px;
+            background: linear-gradient(217deg, #104175 -6.15%, #078863 130.71%), #002D55;
+            border: none;
+            padding: 7px 27px;
+            color: #FFF;
+            font-family: "Futura Hv BT";
+            font-size: 25px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: 25px;
+            /* 100% */
+            margin-top: 21px;
+
+            a {
+                color: #FFF !important;
+                font-family: "Futura Hv BT";
+                font-size: 25px;
+                font-style: normal;
+                font-weight: 400;
+                line-height: 25px;
+                /* 100% */
+            }
+        }
+    }
+}
+
+.gastro {
+    margin-top: 180px;
+
+    @media (max-width:991px) {
+        margin-top: 50px;
+    }
+
+    h2 {
+        font-family: "HelveticaNeueMedium";
+        font-size: 35px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 40px;
+        /* 114.286% */
+        background: linear-gradient(224deg, #0E3F72 6.81%, #09956D 95.34%);
+        background-clip: text;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        margin-bottom: 0px;
+        padding-bottom: 11px;
+    }
+
+    p {
+        color: #5A5A5A;
+        font-family: "HelveticaNeueRoman";
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 25px;
+
+        /* 156.25% */
+        span {
+            font-weight: 700;
+            background: linear-gradient(224deg, #0E3F72 6.81%, #09956D 95.34%);
+            background-clip: text;
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+    }
+
+    li {
+        color: #5A5A5A;
+        font-family: "HelveticaNeueRoman";
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 25px;
+
+        /* 156.25% */
+        span {
+            font-weight: 700;
+            background: linear-gradient(224deg, #0E3F72 6.81%, #09956D 95.34%);
+            background-clip: text;
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+    }
+}
+
+.gaste {
+    padding: 80px 0px;
+
+    h2 {
+        font-family: "HelveticaNeueMedium";
+        font-size: 35px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 40px;
+        /* 114.286% */
+        background: linear-gradient(224deg, #0E3F72 6.81%, #09956D 95.34%);
+        background-clip: text;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        margin-bottom: 0px;
+        padding-bottom: 11px;
+    }
+
+    p {
+        color: #5A5A5A;
+        font-family: "HelveticaNeueRoman";
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 25px;
+
+        /* 156.25% */
+        span {
+            font-weight: 700;
+            background: linear-gradient(224deg, #0E3F72 6.81%, #09956D 95.34%);
+            background-clip: text;
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+    }
+
+    li {
+        color: #5A5A5A;
+        font-family: "HelveticaNeueRoman";
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 25px;
+
+        /* 156.25% */
+        span {
+            font-weight: 700;
+            background: linear-gradient(224deg, #0E3F72 6.81%, #09956D 95.34%);
+            background-clip: text;
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+    }
+}
+
+.gastro-form {
+    padding-bottom: 50px;
+    padding-top: 50px;
+
+    .form-box {
+        border-radius: 27px;
+        background: #D3D3D3;
+        padding: 50px 20px;
+
+        h1 {
+            font-family: "Futura Hv BT";
+            font-size: 30px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: normal;
+            background: linear-gradient(214deg, #104175 -7.08%, #078863 99.11%);
+            background-clip: text;
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        input {
+            border-radius: 5px;
+            border: 1px solid #1A1A1A;
+            color: #1A1A1A;
+            font-family: "HelveticaNeueMedium";
+            font-size: 16px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: normal;
+            background-color: transparent;
+            padding: 10px;
+            width: 100%;
+        }
+
+        textarea {
+            color: #1A1A1A;
+            font-family: "HelveticaNeueMedium";
+            font-size: 16px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: normal;
+            width: 100%;
+            border-radius: 5px;
+            border: 1px solid #1A1A1A;
+            background-color: transparent;
+            height: 100px;
+            padding: 10px;
+        }
+
+        button {
+            border-radius: 5px;
+            background: linear-gradient(217deg, #104175 -6.15%, #078863 130.71%), #002D55;
+            border: none;
+            padding: 7px 27px;
+            color: #FFF;
+            font-family: "Futura Hv BT";
+            font-size: 25px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: 25px;
+            /* 100% */
+            margin-top: 21px;
+
+            a {
+                color: #FFF !important;
+                font-family: "Futura Hv BT";
+                font-size: 25px;
+                font-style: normal;
+                font-weight: 400;
+                line-height: 25px;
+                /* 100% */
+            }
+        }
+    }
+}
+
+.banner-diet {
+    margin-top: 100px;
+
+    @media (max-width:991px) {
+        margin-top: 60px;
+    }
+}
+
+.diet-department {
+    padding: 80px 0px;
+
+    h2 {
+        font-family: "HelveticaNeueMedium";
+        font-size: 35px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 40px;
+        /* 114.286% */
+        background: linear-gradient(224deg, #0E3F72 6.81%, #09956D 95.34%);
+        background-clip: text;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        margin-bottom: 0px;
+        padding-bottom: 11px;
+    }
+
+    p {
+        color: #5A5A5A;
+        font-family: "HelveticaNeueRoman";
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 25px;
+
+        /* 156.25% */
+        span {
+            font-weight: 700;
+            background: linear-gradient(224deg, #0E3F72 6.81%, #09956D 95.34%);
+            background-clip: text;
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+    }
+
+    li {
+        color: #5A5A5A;
+        font-family: "HelveticaNeueRoman";
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 25px;
+
+        /* 156.25% */
+        span {
+            font-weight: 700;
+            background: linear-gradient(224deg, #0E3F72 6.81%, #09956D 95.34%);
+            background-clip: text;
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+    }
+}
+
+.best-ent {
+    margin-top: 180px;
+
+    @media (max-width:991px) {
+        margin-top: 60px;
+    }
+
+    h1 {
+        font-family: "Futura Md BT";
+        font-size: 35px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 40px;
+        /* 114.286% */
+        background: linear-gradient(224deg, #0E3F72 6.81%, #09956D 95.34%);
+        background-clip: text;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+
+    p {
+        color: #5A5A5A;
+        font-family: "HelveticaNeueRoman";
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 25px;
+        /* 156.25% */
+    }
+}
+
+.ent-disease {
+    padding: 70px 0px;
+
+    h3 {
+        font-family: "Futura Md BT";
+        font-size: 40px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 40px;
+        /* 100% */
+        background: linear-gradient(202deg, #0E3F72 37.38%, #09956D 121.58%);
+        background-clip: text;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+
+    p {
+        color: #5A5A5A;
+        font-family: "HelveticaNeueRoman";
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 25px;
+        /* 156.25% */
+    }
+    li{
+        color: #5A5A5A;
+        font-family: "HelveticaNeueRoman";
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 25px;
+        /* 156.25% */
+    }
+}
+
+.obstetrics{
+    margin-top: 180px;
+    @media (max-width:991px) {
+        margin-top: 50px;
+    }
+    h1{
+        font-family: "Futura Md BT";
+        font-size: 35px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 40px; /* 114.286% */
+        background: linear-gradient(224deg, #0E3F72 6.81%, #09956D 95.34%);
+        background-clip: text;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
     p{
         color: #5A5A5A;
         font-family: "HelveticaNeueRoman";
@@ -2955,8 +3785,38 @@ footer {
         font-style: normal;
         font-weight: 400;
         line-height: 25px; /* 156.25% */
-        span{
-            font-weight: bold;
-        }
+    }
+    h3{
+        font-family: "Futura Md BT";
+        font-size: 24px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 40px; /* 100% */
+        background: linear-gradient(202deg, #0E3F72 37.38%, #09956D 121.58%);
+        background-clip: text;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+}
+
+.gynac{
+    p{
+        color: #5A5A5A;
+        font-family: "HelveticaNeueRoman";
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 25px; /* 156.25% */
+    }
+    h3{
+        font-family: "Futura Md BT";
+        font-size: 24px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 40px; /* 100% */
+        background: linear-gradient(202deg, #0E3F72 37.38%, #09956D 121.58%);
+        background-clip: text;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
     }
 }

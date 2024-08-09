@@ -1423,7 +1423,8 @@ footer .sub-foot h6 {
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
-  line-height: 22px; /* 137.5% */
+  line-height: 22px;
+  /* 137.5% */
 }
 
 .knee-looking {
@@ -2632,7 +2633,8 @@ footer .sub-foot h6 {
   font-size: 30px;
   font-style: normal;
   font-weight: 700;
-  line-height: 40px; /* 133.333% */
+  line-height: 40px;
+  /* 133.333% */
   background: linear-gradient(224deg, #0E3F72 6.81%, #09956D 95.34%);
   background-clip: text;
   -webkit-background-clip: text;
@@ -2646,7 +2648,8 @@ footer .sub-foot h6 {
   font-size: 25px;
   font-style: normal;
   font-weight: 400;
-  line-height: 32px; /* 128% */
+  line-height: 32px;
+  /* 128% */
   background: linear-gradient(224deg, #0E3F72 6.81%, #09956D 95.34%);
   background-clip: text;
   -webkit-background-clip: text;
@@ -2658,7 +2661,8 @@ footer .sub-foot h6 {
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
-  line-height: 25px; /* 156.25% */
+  line-height: 25px;
+  /* 156.25% */
 }
 
 .benefits {
@@ -2670,7 +2674,8 @@ footer .sub-foot h6 {
   font-size: 30px;
   font-style: normal;
   font-weight: 700;
-  line-height: 40px; /* 133.333% */
+  line-height: 40px;
+  /* 133.333% */
   background: linear-gradient(224deg, #0E3F72 6.81%, #09956D 95.34%);
   background-clip: text;
   -webkit-background-clip: text;
@@ -2684,7 +2689,8 @@ footer .sub-foot h6 {
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
-  line-height: 25px; /* 156.25% */
+  line-height: 25px;
+  /* 156.25% */
 }
 .benefits li span {
   font-weight: bold;
@@ -2699,7 +2705,8 @@ footer .sub-foot h6 {
   font-size: 30px;
   font-style: normal;
   font-weight: 700;
-  line-height: 40px; /* 133.333% */
+  line-height: 40px;
+  /* 133.333% */
   background: linear-gradient(224deg, #0E3F72 6.81%, #09956D 95.34%);
   background-clip: text;
   -webkit-background-clip: text;
@@ -2713,8 +2720,790 @@ footer .sub-foot h6 {
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
-  line-height: 25px; /* 156.25% */
+  line-height: 25px;
+  /* 156.25% */
 }
 .expertise p span {
   font-weight: bold;
+}
+
+.general-surgery {
+  margin-top: 160px;
+}
+.general-surgery h1 {
+  font-family: "Futura Md BT";
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 40px;
+  /* 133.333% */
+  background: linear-gradient(202deg, #0E3F72 37.38%, #09956D 121.58%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.general-surgery h2 {
+  color: #000;
+  font-family: "Futura Md BT";
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 30px;
+  /* 120% */
+}
+.general-surgery p {
+  color: #5A5A5A;
+  font-family: "HelveticaNeueRoman";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 25px;
+  /* 156.25% */
+}
+
+.when-general {
+  padding: 80px 0px;
+  background: url(../Images/knee-specialisation.png);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.when-general h2 {
+  color: #fff;
+  font-family: "Futura Md BT";
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 40px;
+  /* 114.286% */
+  margin-bottom: 0px;
+  padding-bottom: 20px;
+}
+.when-general p {
+  color: #fff;
+  font-family: "HelveticaNeueRoman";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 25px;
+  /* 156.25% */
+}
+.when-general li {
+  color: #FFF;
+  font-family: "HelveticaNeueRoman";
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 25px;
+  /* 156.25% */
+}
+.when-general h3 {
+  color: #fff;
+  font-family: "Futura Md BT";
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 30px;
+  /* 120% */
+}
+
+.paediatrics {
+  margin-top: 180px;
+}
+@media (max-width: 991px) {
+  .paediatrics {
+    margin-top: 80px;
+  }
+}
+.paediatrics h2 {
+  font-family: "HelveticaNeueBold";
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 40px;
+  /* 114.286% */
+  margin-bottom: 0px;
+  padding-bottom: 11px;
+  background: linear-gradient(224deg, #0E3F72 6.81%, #09956D 95.34%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.paediatrics p {
+  color: #5A5A5A;
+  text-align: center;
+  font-family: "HelveticaNeueRoman";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 25px;
+  /* 156.25% */
+}
+
+.neontal {
+  padding: 40px 0px;
+}
+.neontal p {
+  color: #5A5A5A;
+  font-family: "HelveticaNeueRoman";
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 25px;
+  /* 156.25% */
+}
+.neontal p span {
+  font-weight: 700;
+  background: linear-gradient(224deg, #0E3F72 6.81%, #09956D 95.34%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.paed-form {
+  padding-bottom: 50px;
+}
+.paed-form .form-box {
+  border-radius: 27px;
+  background: #D3D3D3;
+  padding: 50px 20px;
+}
+.paed-form .form-box h1 {
+  font-family: "Futura Hv BT";
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  background: linear-gradient(214deg, #104175 -7.08%, #078863 99.11%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.paed-form .form-box input {
+  border-radius: 5px;
+  border: 1px solid #1A1A1A;
+  color: #1A1A1A;
+  font-family: "HelveticaNeueMedium";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  background-color: transparent;
+  padding: 10px;
+  width: 100%;
+}
+.paed-form .form-box textarea {
+  color: #1A1A1A;
+  font-family: "HelveticaNeueMedium";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  width: 100%;
+  border-radius: 5px;
+  border: 1px solid #1A1A1A;
+  background-color: transparent;
+  height: 100px;
+  padding: 10px;
+}
+.paed-form .form-box button {
+  border-radius: 5px;
+  background: linear-gradient(217deg, #104175 -6.15%, #078863 130.71%), #002D55;
+  border: none;
+  padding: 7px 27px;
+  color: #FFF;
+  font-family: "Futura Hv BT";
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 25px;
+  /* 100% */
+  margin-top: 21px;
+}
+.paed-form .form-box button a {
+  color: #FFF !important;
+  font-family: "Futura Hv BT";
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 25px;
+  /* 100% */
+}
+
+.urology {
+  margin-top: 180px;
+}
+@media (max-width: 991px) {
+  .urology {
+    margin-top: 50px;
+  }
+}
+.urology h2 {
+  font-family: "HelveticaNeueMedium";
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 40px;
+  /* 114.286% */
+  background: linear-gradient(224deg, #0E3F72 6.81%, #09956D 95.34%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin-bottom: 0px;
+  padding-bottom: 11px;
+}
+.urology p {
+  color: #5A5A5A;
+  font-family: "HelveticaNeueRoman";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 25px;
+  /* 156.25% */
+}
+.urology p span {
+  font-weight: 700;
+  background: linear-gradient(224deg, #0E3F72 6.81%, #09956D 95.34%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.uro-form {
+  padding-bottom: 50px;
+  padding-top: 50px;
+}
+.uro-form .form-box {
+  border-radius: 27px;
+  background: #D3D3D3;
+  padding: 50px 20px;
+}
+.uro-form .form-box h1 {
+  font-family: "Futura Hv BT";
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  background: linear-gradient(214deg, #104175 -7.08%, #078863 99.11%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.uro-form .form-box input {
+  border-radius: 5px;
+  border: 1px solid #1A1A1A;
+  color: #1A1A1A;
+  font-family: "HelveticaNeueMedium";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  background-color: transparent;
+  padding: 10px;
+  width: 100%;
+}
+.uro-form .form-box textarea {
+  color: #1A1A1A;
+  font-family: "HelveticaNeueMedium";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  width: 100%;
+  border-radius: 5px;
+  border: 1px solid #1A1A1A;
+  background-color: transparent;
+  height: 100px;
+  padding: 10px;
+}
+.uro-form .form-box button {
+  border-radius: 5px;
+  background: linear-gradient(217deg, #104175 -6.15%, #078863 130.71%), #002D55;
+  border: none;
+  padding: 7px 27px;
+  color: #FFF;
+  font-family: "Futura Hv BT";
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 25px;
+  /* 100% */
+  margin-top: 21px;
+}
+.uro-form .form-box button a {
+  color: #FFF !important;
+  font-family: "Futura Hv BT";
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 25px;
+  /* 100% */
+}
+
+.intensive {
+  margin-top: 180px;
+}
+@media (max-width: 991px) {
+  .intensive {
+    margin-top: 50px;
+  }
+}
+.intensive h2 {
+  font-family: "HelveticaNeueMedium";
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 40px;
+  /* 114.286% */
+  background: linear-gradient(224deg, #0E3F72 6.81%, #09956D 95.34%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin-bottom: 0px;
+  padding-bottom: 11px;
+}
+.intensive p {
+  color: #5A5A5A;
+  font-family: "HelveticaNeueRoman";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 25px;
+  /* 156.25% */
+}
+.intensive p span {
+  font-weight: 700;
+  background: linear-gradient(224deg, #0E3F72 6.81%, #09956D 95.34%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.intensive-form {
+  padding-bottom: 50px;
+  padding-top: 50px;
+}
+.intensive-form .form-box {
+  border-radius: 27px;
+  background: #D3D3D3;
+  padding: 50px 20px;
+}
+.intensive-form .form-box h1 {
+  font-family: "Futura Hv BT";
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  background: linear-gradient(214deg, #104175 -7.08%, #078863 99.11%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.intensive-form .form-box input {
+  border-radius: 5px;
+  border: 1px solid #1A1A1A;
+  color: #1A1A1A;
+  font-family: "HelveticaNeueMedium";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  background-color: transparent;
+  padding: 10px;
+  width: 100%;
+}
+.intensive-form .form-box textarea {
+  color: #1A1A1A;
+  font-family: "HelveticaNeueMedium";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  width: 100%;
+  border-radius: 5px;
+  border: 1px solid #1A1A1A;
+  background-color: transparent;
+  height: 100px;
+  padding: 10px;
+}
+.intensive-form .form-box button {
+  border-radius: 5px;
+  background: linear-gradient(217deg, #104175 -6.15%, #078863 130.71%), #002D55;
+  border: none;
+  padding: 7px 27px;
+  color: #FFF;
+  font-family: "Futura Hv BT";
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 25px;
+  /* 100% */
+  margin-top: 21px;
+}
+.intensive-form .form-box button a {
+  color: #FFF !important;
+  font-family: "Futura Hv BT";
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 25px;
+  /* 100% */
+}
+
+.gastro {
+  margin-top: 180px;
+}
+@media (max-width: 991px) {
+  .gastro {
+    margin-top: 50px;
+  }
+}
+.gastro h2 {
+  font-family: "HelveticaNeueMedium";
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 40px;
+  /* 114.286% */
+  background: linear-gradient(224deg, #0E3F72 6.81%, #09956D 95.34%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin-bottom: 0px;
+  padding-bottom: 11px;
+}
+.gastro p {
+  color: #5A5A5A;
+  font-family: "HelveticaNeueRoman";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 25px;
+  /* 156.25% */
+}
+.gastro p span {
+  font-weight: 700;
+  background: linear-gradient(224deg, #0E3F72 6.81%, #09956D 95.34%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.gastro li {
+  color: #5A5A5A;
+  font-family: "HelveticaNeueRoman";
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 25px;
+  /* 156.25% */
+}
+.gastro li span {
+  font-weight: 700;
+  background: linear-gradient(224deg, #0E3F72 6.81%, #09956D 95.34%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.gaste {
+  padding: 80px 0px;
+}
+.gaste h2 {
+  font-family: "HelveticaNeueMedium";
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 40px;
+  /* 114.286% */
+  background: linear-gradient(224deg, #0E3F72 6.81%, #09956D 95.34%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin-bottom: 0px;
+  padding-bottom: 11px;
+}
+.gaste p {
+  color: #5A5A5A;
+  font-family: "HelveticaNeueRoman";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 25px;
+  /* 156.25% */
+}
+.gaste p span {
+  font-weight: 700;
+  background: linear-gradient(224deg, #0E3F72 6.81%, #09956D 95.34%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.gaste li {
+  color: #5A5A5A;
+  font-family: "HelveticaNeueRoman";
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 25px;
+  /* 156.25% */
+}
+.gaste li span {
+  font-weight: 700;
+  background: linear-gradient(224deg, #0E3F72 6.81%, #09956D 95.34%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.gastro-form {
+  padding-bottom: 50px;
+  padding-top: 50px;
+}
+.gastro-form .form-box {
+  border-radius: 27px;
+  background: #D3D3D3;
+  padding: 50px 20px;
+}
+.gastro-form .form-box h1 {
+  font-family: "Futura Hv BT";
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  background: linear-gradient(214deg, #104175 -7.08%, #078863 99.11%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.gastro-form .form-box input {
+  border-radius: 5px;
+  border: 1px solid #1A1A1A;
+  color: #1A1A1A;
+  font-family: "HelveticaNeueMedium";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  background-color: transparent;
+  padding: 10px;
+  width: 100%;
+}
+.gastro-form .form-box textarea {
+  color: #1A1A1A;
+  font-family: "HelveticaNeueMedium";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  width: 100%;
+  border-radius: 5px;
+  border: 1px solid #1A1A1A;
+  background-color: transparent;
+  height: 100px;
+  padding: 10px;
+}
+.gastro-form .form-box button {
+  border-radius: 5px;
+  background: linear-gradient(217deg, #104175 -6.15%, #078863 130.71%), #002D55;
+  border: none;
+  padding: 7px 27px;
+  color: #FFF;
+  font-family: "Futura Hv BT";
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 25px;
+  /* 100% */
+  margin-top: 21px;
+}
+.gastro-form .form-box button a {
+  color: #FFF !important;
+  font-family: "Futura Hv BT";
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 25px;
+  /* 100% */
+}
+
+.banner-diet {
+  margin-top: 100px;
+}
+@media (max-width: 991px) {
+  .banner-diet {
+    margin-top: 60px;
+  }
+}
+
+.diet-department {
+  padding: 80px 0px;
+}
+.diet-department h2 {
+  font-family: "HelveticaNeueMedium";
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 40px;
+  /* 114.286% */
+  background: linear-gradient(224deg, #0E3F72 6.81%, #09956D 95.34%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin-bottom: 0px;
+  padding-bottom: 11px;
+}
+.diet-department p {
+  color: #5A5A5A;
+  font-family: "HelveticaNeueRoman";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 25px;
+  /* 156.25% */
+}
+.diet-department p span {
+  font-weight: 700;
+  background: linear-gradient(224deg, #0E3F72 6.81%, #09956D 95.34%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.diet-department li {
+  color: #5A5A5A;
+  font-family: "HelveticaNeueRoman";
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 25px;
+  /* 156.25% */
+}
+.diet-department li span {
+  font-weight: 700;
+  background: linear-gradient(224deg, #0E3F72 6.81%, #09956D 95.34%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.best-ent {
+  margin-top: 180px;
+}
+@media (max-width: 991px) {
+  .best-ent {
+    margin-top: 60px;
+  }
+}
+.best-ent h1 {
+  font-family: "Futura Md BT";
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 40px;
+  /* 114.286% */
+  background: linear-gradient(224deg, #0E3F72 6.81%, #09956D 95.34%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.best-ent p {
+  color: #5A5A5A;
+  font-family: "HelveticaNeueRoman";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 25px;
+  /* 156.25% */
+}
+
+.ent-disease {
+  padding: 70px 0px;
+}
+.ent-disease h3 {
+  font-family: "Futura Md BT";
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 40px;
+  /* 100% */
+  background: linear-gradient(202deg, #0E3F72 37.38%, #09956D 121.58%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.ent-disease p {
+  color: #5A5A5A;
+  font-family: "HelveticaNeueRoman";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 25px;
+  /* 156.25% */
+}
+.ent-disease li {
+  color: #5A5A5A;
+  font-family: "HelveticaNeueRoman";
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 25px;
+  /* 156.25% */
+}
+
+.obstetrics {
+  margin-top: 180px;
+}
+@media (max-width: 991px) {
+  .obstetrics {
+    margin-top: 50px;
+  }
+}
+.obstetrics h1 {
+  font-family: "Futura Md BT";
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 40px; /* 114.286% */
+  background: linear-gradient(224deg, #0E3F72 6.81%, #09956D 95.34%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.obstetrics p {
+  color: #5A5A5A;
+  font-family: "HelveticaNeueRoman";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 25px; /* 156.25% */
+}
+.obstetrics h3 {
+  font-family: "Futura Md BT";
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 40px; /* 100% */
+  background: linear-gradient(202deg, #0E3F72 37.38%, #09956D 121.58%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.gynac p {
+  color: #5A5A5A;
+  font-family: "HelveticaNeueRoman";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 25px; /* 156.25% */
+}
+.gynac h3 {
+  font-family: "Futura Md BT";
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 40px; /* 100% */
+  background: linear-gradient(202deg, #0E3F72 37.38%, #09956D 121.58%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }/*# sourceMappingURL=style.css.map */

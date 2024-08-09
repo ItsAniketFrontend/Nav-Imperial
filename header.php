@@ -56,19 +56,19 @@
                 Services
               </a>
               <ul class="dropdown-menu">
-                <li><a class="dropdown-item" href="about-us.php">Joint Replacement</a></li>
+                <li><a class="dropdown-item" href="knee-replacement.php">Joint Replacement</a></li>
                 <li><a class="dropdown-item" href="knee-replacement.php">Knee Replacement</a></li>
                 <li><a class="dropdown-item" href="bariatic.php">Bariatic Surgery</a></li>
                 <li><a class="dropdown-item" href="humanoid-robotics-surgery-in-jaipur.php">Humanoid Robotics Surgery</a></li>
-                <li><a class="dropdown-item" href="about-us.php">General Surgery</a></li>
-                <li><a class="dropdown-item" href="doctors.php">Gynaecologist</a></li>
-                <li><a class="dropdown-item" href="about-us.php">Paediatrics</a></li>
-                <li><a class="dropdown-item" href="doctors.php">Urology</a></li>
-                <li><a class="dropdown-item" href="about-us.php">Critical Care</a></li>
-                <li><a class="dropdown-item" href="doctors.php">GI-Bariatic</a></li>
+                <li><a class="dropdown-item" href="general-surgeon-in-jaipur.php">General Surgery</a></li>
+                <li><a class="dropdown-item" href="gynaecologist-obstetrician-doctor-in-jaipur.php">Gynaecologist</a></li>
+                <li><a class="dropdown-item" href="pediatrician-doctor-in-jaipur.php">Paediatrics</a></li>
+                <li><a class="dropdown-item" href="urologist-doctor-in-jaipur.php">Urology</a></li>
+                <li><a class="dropdown-item" href="icu-critical-care-emergency-hospital-in-jaipur.php">Critical Care</a></li>
+                <li><a class="dropdown-item" href="gastroenterology-gi-hospital-in-jaipur.php">GI-Bariatic</a></li>
                 <li><a class="dropdown-item" href="about-us.php">Neurosurgery</a></li>
-                <li><a class="dropdown-item" href="doctors.php">Dietetics Department</a></li>
-                <li><a class="dropdown-item" href="about-us.php">ENT</a></li>
+                <li><a class="dropdown-item" href="dietetics-department.php">Dietetics Department</a></li>
+                <li><a class="dropdown-item" href="best-ent-hospital-in-jaipur.php">ENT</a></li>
                 <li><a class="dropdown-item" href="doctors.php">Orthopedics</a></li>
               </ul>
             </li>
