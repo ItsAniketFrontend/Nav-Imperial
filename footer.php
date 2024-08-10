@@ -30,15 +30,15 @@
                             <li><a href="knee-replacement.php">Joint Replacement</a></li>
                             <li><a href="knee-replacement">Knee Replacement</a></li>
                             <li><a href="bariatic.php">Bariatric Surgery</a></li>
-                            <li><a href="">General Surgery</a></li>
-                            <li><a href="">Obstetrics & Gynaecology</a></li>
-                            <li><a href="">Humanoid Robotics Surgery</a></li>
-                            <li><a href="">Urology</a></li>
-                            <li><a href="">Intensive care/ Critical Care</a></li>
-                            <li><a href="">Gastroenterology</a></li>
-                            <li><a href="">Neurology/Neurosurgery</a></li>
-                            <li><a href="">ENT</a></li>
-                            <li><a href="">Paediatrics</a></li>
+                            <li><a href="general-surgeon-in-jaipur.php">General Surgery</a></li>
+                            <li><a href="gynaecologist-obstetrician-doctor-in-jaipur.php">Obstetrics & Gynaecology</a></li>
+                            <li><a href="humanoid-robotics-surgery-in-jaipur.php">Humanoid Robotics Surgery</a></li>
+                            <li><a href="urologist-doctor-in-jaipur.php">Urology</a></li>
+                            <li><a href="icu-critical-care-emergency-hospital-in-jaipur.php">Intensive care/ Critical Care</a></li>
+                            <li><a href="gastroenterology-gi-hospital-in-jaipur.php">Gastroenterology</a></li>
+                            <li><a href="neurology-and-neurosurgery-hospital-in-jaipur.php">Neurology/Neurosurgery</a></li>
+                            <li><a href="best-ent-hospital-in-jaipur.php">ENT</a></li>
+                            <li><a href="pediatrician-doctor-in-jaipur.php">Paediatrics</a></li>
                         </div>
                     </div>
                 </div>
