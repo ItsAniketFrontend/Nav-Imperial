@@ -524,54 +524,65 @@
         <section class="faq">
             <div class="container">
                 <div class="row">
-                    <div class="col-12">
+                    <div class="col-12 text-center pb-3">
                         <h2>Frequently Asked Questions</h2>
                         <h3>Frequently asked questions about Bariatic Surgery</h3>
                     </div>
                     <div class="col-12">
                         <div class="accordion" id="accordionExample">
                             <div class="accordion-item">
-                                <h2 class="accordion-header">
+                                <h6 class="accordion-header">
                                     <button class="accordion-button" type="button" data-bs-toggle="collapse"
                                         data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
                                         Q.1 According to the bariatric surgeon in Jaipur, When can I start exercising
                                         after surgery?
                                     </button>
-                                </h2>
+                                </h6>
                                 <div id="collapseOne" class="accordion-collapse collapse show"
                                     data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
-                                        • Start with small movements.<br>
-                                        • Increase your physical activity slowly.<br>
-                                        • Avoid balance exercises.
+                                        <p>
+                                            • Start with small movements.<br>
+                                            • Increase your physical activity slowly.<br>
+                                            • Avoid balance exercises.
+
+                                        </p>
+
                                     </div>
                                 </div>
                             </div>
                             <div class="accordion-item">
-                                <h2 class="accordion-header">
+                                <h6 class="accordion-header">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                         data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
 
                                         Q.2 Will I lose my hair after surgery?
 
                                     </button>
-                                </h2>
+                                </h6>
                                 <div id="collapseTwo" class="accordion-collapse collapse"
                                     data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
 
-                                        According to the bariatric surgeon in Jaipur, In the months following bariatric
-                                        surgery, you may notice that you lose more hair than usual Not all hairs fall
-                                        out, but they may be more noticeable when brushing or washing. In most cases,
-                                        this hair loss gradually subsides after a few months and the body begins to grow
-                                        more hair.
+                                        <p>
+                                            According to the bariatric surgeon in Jaipur, In the months following
+                                            bariatric
+                                            surgery, you may notice that you lose more hair than usual Not all hairs
+                                            fall
+                                            out, but they may be more noticeable when brushing or washing. In most
+                                            cases,
+                                            this hair loss gradually subsides after a few months and the body begins to
+                                            grow
+                                            more hair.
+                                        </p>
+
 
 
                                     </div>
                                 </div>
                             </div>
                             <div class="accordion-item">
-                                <h2 class="accordion-header">
+                                <h6 class="accordion-header">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                         data-bs-target="#collapseThree" aria-expanded="false"
                                         aria-controls="collapseThree">
@@ -579,21 +590,27 @@
                                         Q.3 How Will Weight Loss Surgery Help Me Lose Weight?
 
                                     </button>
-                                </h2>
+                                </h6>
                                 <div id="collapseThree" class="accordion-collapse collapse"
                                     data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
+                                        <p>
 
-                                        Bariatric surgery is surgery that helps you lose weight by changing the way your
-                                        stomach and small intestine process food. After surgery, your abdomen will be
-                                        smaller. You will feel full with less food. The food you eat does not enter the
-                                        part of your stomach or small intestine where food is absorbed.
+                                            Bariatric surgery is surgery that helps you lose weight by changing the way
+                                            your
+                                            stomach and small intestine process food. After surgery, your abdomen will
+                                            be
+                                            smaller. You will feel full with less food. The food you eat does not enter
+                                            the
+                                            part of your stomach or small intestine where food is absorbed.
+
+                                        </p>
 
                                     </div>
                                 </div>
                             </div>
                             <div class="accordion-item">
-                                <h2 class="accordion-header">
+                                <h6 class="accordion-header">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                         data-bs-target="#collapsefour" aria-expanded="false"
                                         aria-controls="collapsefour">
@@ -603,16 +620,21 @@
 
 
                                     </button>
-                                </h2>
+                                </h6>
                                 <div id="collapsefour" class="accordion-collapse collapse"
                                     data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
+                                        <p>
+
+                                            After surgery, nonsteroidal anti-inflammatory drugs (NSAIDs) such as
+                                            aspirin,
+                                            ibuprofen (Motrin, Advil), and naproxen (Aleve) should be avoided. NSAIDs
+                                            increase the risk of peptic ulcers. Patients who have undergone gastric
+                                            bypass
+                                            surgery should refrain from taking these drugs indefinitely.
 
 
-                                        After surgery, nonsteroidal anti-inflammatory drugs (NSAIDs) such as aspirin,
-                                        ibuprofen (Motrin, Advil), and naproxen (Aleve) should be avoided. NSAIDs
-                                        increase the risk of peptic ulcers. Patients who have undergone gastric bypass
-                                        surgery should refrain from taking these drugs indefinitely.
+                                        </p>
 
 
 

@@ -112,6 +112,9 @@
                                         <input type="text" placeholder="Select Your Services">
                                     </div>
                                     <div class="col-12 mt-2">
+                                        <input type="email" placeholder="Enter Email">
+                                    </div>
+                                    <div class="col-12 mt-2">
                                         <input type="text" placeholder="Phone Number">
                                     </div>
                                     <div class="col-12 mt-2">

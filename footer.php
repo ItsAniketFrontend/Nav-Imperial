@@ -4,8 +4,10 @@
             <div class="row">
                 <div class="col-lg-4">
                     <div class="d-flex gap-1">
-                        <img src="Images/foot-logo-1.png" alt="">
-                        <img src="Images/foot-logo-2.png" alt="">
+                        <a href="index.php">
+                            <img src="Images/foot-logo-1.png" alt="">
+                            <img src="Images/foot-logo-2.png" alt="">
+                        </a>
                     </div>
                     <h3 class="pb-4">NAV Imperial Hospital and Research Centre is one of the leading orthopedic
                         hospital in Jaipur, Rajasthan</h3>
@@ -27,9 +29,9 @@
                         </div>
                         <div class="col-7">
                             <h4>Services</h4>
-                            <li><a href="knee-replacement.php">Joint Replacement</a></li>
-                            <li><a href="knee-replacement">Knee Replacement</a></li>
-                            <li><a href="bariatic.php">Bariatric Surgery</a></li>
+                            <li><a href="knee-replacement-surgery-in-Jaipur.php">Joint Replacement</a></li>
+                            <li><a href="knee-replacement-surgery-in-Jaipur.php">Knee Replacement</a></li>
+                            <li><a href="bariatric-surgery-hospital-in-jaipur.php">Bariatric Surgery</a></li>
                             <li><a href="general-surgeon-in-jaipur.php">General Surgery</a></li>
                             <li><a href="gynaecologist-obstetrician-doctor-in-jaipur.php">Obstetrics & Gynaecology</a></li>
                             <li><a href="humanoid-robotics-surgery-in-jaipur.php">Humanoid Robotics Surgery</a></li>
@@ -51,7 +53,6 @@
     </div>
     <hr>
     <div class="sub-foot">
-        <h6>Copyright © 2024 Nav Imperial Hospital | All Rights Reserved | Powered by Digital Marketing Company in
-            Jaipur.</h6>
+        <h6>Copyright © 2024 Nav Imperial Hospital | All Rights Reserved | Powered by  <a href="">The Cogent</a>.</h6>
     </div>
 </footer>

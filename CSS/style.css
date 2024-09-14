@@ -648,6 +648,28 @@ header .small-screen nav .dropdown-item {
   line-height: normal;
   padding: 15px;
 }
+.home-appointment select {
+  width: 100%;
+  margin-bottom: 15px;
+  border-radius: 5px;
+  border: 1px solid #FFF;
+  background: transparent;
+  color: #fff;
+  font-family: "Arimo", sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  padding: 15px;
+}
+.home-appointment select option {
+  color: #000;
+  font-family: "Arimo", sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
 .home-appointment textarea {
   width: 100%;
   border-radius: 5px;
@@ -1119,6 +1141,11 @@ footer .sub-foot h6 {
   line-height: 24px;
   text-align: center;
   /* 150% */
+}
+footer .sub-foot h6 a {
+  text-decoration: none;
+  color: #383838;
+  font-weight: 800;
 }
 
 .knee-replacement-banner {
@@ -3551,4 +3578,56 @@ footer .sub-foot h6 {
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+}
+
+.faq h2 {
+  font-family: "Futura Md BT";
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 40px; /* 114.286% */
+  background: linear-gradient(224deg, #0E3F72 6.81%, #09956D 95.34%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.faq h3 {
+  font-family: "Futura Md BT";
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 40px; /* 100% */
+  background: linear-gradient(202deg, #0E3F72 37.38%, #09956D 121.58%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.faq h6 {
+  color: #000;
+  font-family: "HelveticaNeueRoman";
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 25px;
+  /* 156.25% */
+}
+.faq p {
+  color: #5A5A5A;
+  font-family: "HelveticaNeueRoman";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 25px; /* 156.25% */
+}
+
+.blog-banner {
+  background: url(../Images/blog-banner.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 450px;
+}
+
+.blogs {
+  padding: 80px 0px;
 }/*# sourceMappingURL=style.css.map */

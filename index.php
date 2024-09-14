@@ -90,7 +90,7 @@
                             <img src="Images/joint-replacement.png" class="img-fluid" alt="">
                             <h3>Joint Replacement</h3>
                             <hr>
-                            <button><a href="">Know More</a></button>
+                            <button><a href="knee-replacement.php">Know More</a></button>
                         </div>
                     </div>
                     <div class="col-lg-3 col-6 my-lg-0 my-5">
@@ -98,7 +98,7 @@
                             <img src="Images/bariatic-surgery.png" class="img-fluid" alt="">
                             <h3>Bariatric Surgery</h3>
                             <hr>
-                            <button><a href="">Know More</a></button>
+                            <button><a href="bariatric-surgery-hospital-in-jaipur.php">Know More</a></button>
                         </div>
                     </div>
                     <div class="col-lg-3 col-6 my-lg-0 my-5">
@@ -106,7 +106,7 @@
                             <img src="Images/knee-replacement.png" class="img-fluid" alt="">
                             <h3>Knee Replacement</h3>
                             <hr>
-                            <button><a href="">Know More</a></button>
+                            <button><a href="knee-replacement.php">Know More</a></button>
                         </div>
                     </div>
                     <div class="col-lg-3 col-6 my-lg-0 my-5">
@@ -114,7 +114,7 @@
                             <img src="Images/humanoid-surgery.png" class="img-fluid" alt="">
                             <h3>Humanoid Robotics Surgery</h3>
                             <hr>
-                            <button><a href="">Know More</a></button>
+                            <button><a href="humanoid-robotics-surgery-in-jaipur.php">Know More</a></button>
                         </div>
                     </div>
                 </div>
@@ -124,7 +124,7 @@
                             <img src="Images/general-surgery.png" class="img-fluid" alt="">
                             <h3>General Surgery</h3>
                             <hr>
-                            <button><a href="">Know More</a></button>
+                            <button><a href="general-surgeon-in-jaipur.php">Know More</a></button>
                         </div>
                     </div>
                     <div class="col-lg-3 col-6 my-lg-0 my-5">
@@ -132,7 +132,7 @@
                             <img src="Images/gynaecology.png" class="img-fluid" alt="">
                             <h3>Gynaecology</h3>
                             <hr>
-                            <button><a href="">Know More</a></button>
+                            <button><a href="gynaecologist-obstetrician-doctor-in-jaipur.php">Know More</a></button>
                         </div>
                     </div>
                     <div class="col-lg-3 col-6 my-lg-0 my-5">
@@ -140,7 +140,7 @@
                             <img src="Images/paediatrics.png" class="img-fluid" alt="">
                             <h3>Paediatrics</h3>
                             <hr>
-                            <button><a href="">Know More</a></button>
+                            <button><a href="pediatrician-doctor-in-jaipur.php">Know More</a></button>
                         </div>
                     </div>
                     <div class="col-lg-3 col-6 my-lg-0 my-5">
@@ -148,7 +148,7 @@
                             <img src="Images/urology.png" class="img-fluid" alt="">
                             <h3>Urology</h3>
                             <hr>
-                            <button><a href="">Know More</a></button>
+                            <button><a href="urologist-doctor-in-jaipur.php">Know More</a></button>
                         </div>
                     </div>
                 </div>
@@ -308,13 +308,11 @@
                         <div class="doctor-box">
                             <div class="box">
                                 <img src="Images/doc-mahesh.png" class="img-fluid" alt="">
-                                <h3>Dr.Sachin Gupta</h3>
+                                <h3>Dr.MAHESH JANGID</h3>
                                 <h4>Director of Nav Imperial Hospital</h4>
-                                <h5>M.B.B.S., M.S.(Ortho), F.I.A.A.S (USA)F.I.A.S (Ahmedabad)</h5>
+                                <h5>MBBS, MS General Surgeon, FMAS, DIP-MAS</h5>
                                 <hr>
-                                <p>Dr. Sachin Gupta is one of the highly-qualified and most trusted joint replacement
-                                    surgeon in Jaipur, Rajasthan. He has completed his Medical Graduation and Post
-                                    Graduation [MS, Orthopedic] from RNT Medical College in 2002.</p>
+                                <p>Dr. Mahesh Jangid is an eminent and one of the best bariatric surgeon in Jaipur, Rajasthan. A leading head General Surgeon at Nav Imperial Hospital, Serving excellent treatment in ailments like a kidney stone, bariatric surgery, hernia, piles, and many more.</p>
                             </div>
                         </div>
                     </div>
@@ -322,13 +320,11 @@
                         <div class="doctor-box">
                             <div class="box">
                                 <img src="Images/doc-shalini.png" class="img-fluid" alt="">
-                                <h3>Dr.Sachin Gupta</h3>
-                                <h4>Director of Nav Imperial Hospital</h4>
-                                <h5>M.B.B.S., M.S.(Ortho), F.I.A.A.S (USA)F.I.A.S (Ahmedabad)</h5>
+                                <h3>Dr.SHALINI GUPTA</h3>
+                                <h4>MBBS, MD( Microbiology)</h4>
+                                <h5>Microbiologist</h5>
                                 <hr>
-                                <p>Dr. Sachin Gupta is one of the highly-qualified and most trusted joint replacement
-                                    surgeon in Jaipur, Rajasthan. He has completed his Medical Graduation and Post
-                                    Graduation [MS, Orthopedic] from RNT Medical College in 2002.</p>
+                                <p>Dr. Shalini Gupta, an esteemed Microbiologist Doctor practicing in Jaipur, has garnered a stellar reputation for her expertise and dedication to her patients. With years of experience and a commitment to providing high-quality care, she has become a trusted figure in the local community.</p>
                             </div>
                         </div>
                     </div>
@@ -353,10 +349,28 @@
                                     <input type="text" placeholder="Last Name">
                                 </div>
                                 <div class="col-12">
-                                    <input type="text" placeholder="Select Your Services">
+                                    <select class="form-select" aria-label="Default select example">
+                                        <option selected>Select Your Services</option>
+                                        <option value="1">Joint Replacement</option>
+                                        <option value="2">Knee Replacement</option>
+                                        <option value="3">Bariatric Surgery</option>
+                                        <option value="1">Humanoid Robotics Surgery</option>
+                                        <option value="2">General Surgery</option>
+                                        <option value="3">Gynaecologist</option>
+                                        <option value="3">Paediatrics</option>
+                                        <option value="1">Urology</option>
+                                        <option value="2">Critical Care</option>
+                                        <option value="3">GI-Bariatric</option>
+                                        <option value="1">Neurosurgery</option>
+                                        <option value="2">Dietetics Department</option>
+                                        <option value="3">ENT</option>
+                                    </select>
                                 </div>
                                 <div class="col-12">
                                     <input type="text" placeholder="Phone Number">
+                                </div>
+                                <div class="col-12">
+                                    <input type="email" placeholder="Email">
                                 </div>
                                 <div class="col-12">
                                     <textarea name="" id="" rows="6" placeholder="Message"></textarea>

@@ -30,7 +30,7 @@
     </div>
     <nav class="navbar navbar-expand-lg">
       <div class="container">
-        <a class="navbar-brand" href="#"><img src="Images/nav-logo.png" class="img-fluid" alt=""></a>
+        <a class="navbar-brand" href="index.php"><img src="Images/nav-logo.png" class="img-fluid" alt=""></a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
           aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
@@ -56,8 +56,8 @@
                 Services
               </a>
               <ul class="dropdown-menu">
-                <li><a class="dropdown-item" href="knee-replacement.php">Joint Replacement</a></li>
-                <li><a class="dropdown-item" href="knee-replacement.php">Knee Replacement</a></li>
+                <li><a class="dropdown-item" href="knee-replacement-surgery-in-Jaipur.php">Joint Replacement</a></li>
+                <li><a class="dropdown-item" href="knee-replacement-surgery-in-Jaipur.php">Knee Replacement</a></li>
                 <li><a class="dropdown-item" href="bariatric-surgery-hospital-in-jaipur.php">Bariatic Surgery</a></li>
                 <li><a class="dropdown-item" href="humanoid-robotics-surgery-in-jaipur.php">Humanoid Robotics
                     Surgery</a></li>
@@ -79,7 +79,7 @@
               <a class="nav-link" href="blog.php">Blog</a>
             </li>
             <li class="nav-item px-2">
-              <a class="nav-link" href="#">Review Us</a>
+              <a class="nav-link" href="google-review.php">Review Us</a>
             </li>
             <li class="nav-item px-2">
               <a class="nav-link" href="contact-us.php">Contact Us</a>
@@ -121,8 +121,8 @@
                 Services
               </a>
               <ul class="dropdown-menu">
-                <li><a class="dropdown-item" href="knee-replacement.php">Joint Replacement</a></li>
-                <li><a class="dropdown-item" href="knee-replacement.php">Knee Replacement</a></li>
+                <li><a class="dropdown-item" href="knee-replacement-surgery-in-Jaipur.php">Joint Replacement</a></li>
+                <li><a class="dropdown-item" href="knee-replacement-surgery-in-Jaipur.php">Knee Replacement</a></li>
                 <li><a class="dropdown-item" href="bariatric-surgery-hospital-in-jaipur.php">Bariatic Surgery</a></li>
                 <li><a class="dropdown-item" href="humanoid-robotics-surgery-in-jaipur.php">Humanoid Robotics
                     Surgery</a></li>
@@ -144,7 +144,7 @@
               <a class="nav-link" href="blog.php">Blog</a>
             </li>
             <li class="nav-item px-2">
-              <a class="nav-link" href="#">Review Us</a>
+              <a class="nav-link" href="google-review.php">Review Us</a>
             </li>
             <li class="nav-item px-2">
               <a class="nav-link" href="contact-us.php">Contact Us</a>
