@@ -95,7 +95,7 @@ header {
             border: 2px solid #005097;
             background: #FFF;
 
-            @media (max-width:1310px) {
+            @media (max-width:1400px) {
                 padding: 10px;
             }
         }
@@ -155,6 +155,20 @@ header {
 
             .navbar-toggler {
                 border: 0px;
+            }
+            li {
+                a {
+                    color: #000 !important;
+                    font-family: "Futura Md BT";
+                    font-size: 18px;
+                    font-style: normal;
+                    font-weight: 400;
+                    line-height: normal;
+                }
+            }
+
+            .dropdown-item {
+                color: #000 !important;
             }
         }
     }
@@ -3757,6 +3771,41 @@ footer {
         font-size: 14px;
         font-style: normal;
         font-weight: 400;
+        line-height: 25px;
+        /* 156.25% */
+    }
+}
+
+.ent-why-nav{
+    padding-bottom: 10px;
+    h3 {
+        font-family: "Futura Md BT";
+        font-size: 28px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 40px;
+        /* 100% */
+        background: linear-gradient(202deg, #0E3F72 37.38%, #09956D 121.58%);
+        background-clip: text;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+
+    p {
+        color: #5A5A5A;
+        font-family: "HelveticaNeueRoman";
+        font-size: 15px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 25px;
+        /* 156.25% */
+    }
+    li{
+        color: #5A5A5A;
+        font-family: "HelveticaNeueRoman";
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 600;
         line-height: 25px;
         /* 156.25% */
     }

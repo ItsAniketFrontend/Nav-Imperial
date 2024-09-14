@@ -138,6 +138,25 @@
             </div>
         </section>
 
+        <section class="ent-why-nav">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <h3>Why Nav Imperial Hospital is the best ENT Hospital in Jaipur</h3>
+                        <p>Here are the various reasons that make us the best ENT (Ear, Nose, and Throat) Hospital in Jaipur.</p>
+                        <li>24*7 care</li>
+                        <p>Nav imperial hospital delivers 24*7 healthcare services to the patients. We offer all the healthcare treatment to serve the best in society.</p>
+                        <li>Use of advanced technology</li>
+                        <p>ENT specialist at Nav Imperial hospital uses the advance and latest technology to treat the ENT disease of a patient.</p>
+                        <li>Best ENT specialist</li>
+                        <p>Nav Imperial Hospital has the best and most expert team of ENT specialists. Our ENT specialists deliver the right treatment to ENT problems at right time.</p>
+                        <li>Well equipped ENT department</li>
+                        <p>ENT department at Nav Imperial Hospital is well equipped with the latest and most advanced technology.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
 
     </main>
 

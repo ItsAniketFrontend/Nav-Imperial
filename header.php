@@ -58,13 +58,16 @@
               <ul class="dropdown-menu">
                 <li><a class="dropdown-item" href="knee-replacement.php">Joint Replacement</a></li>
                 <li><a class="dropdown-item" href="knee-replacement.php">Knee Replacement</a></li>
-                <li><a class="dropdown-item" href="bariatic.php">Bariatic Surgery</a></li>
-                <li><a class="dropdown-item" href="humanoid-robotics-surgery-in-jaipur.php">Humanoid Robotics Surgery</a></li>
+                <li><a class="dropdown-item" href="bariatric-surgery-hospital-in-jaipur.php">Bariatic Surgery</a></li>
+                <li><a class="dropdown-item" href="humanoid-robotics-surgery-in-jaipur.php">Humanoid Robotics
+                    Surgery</a></li>
                 <li><a class="dropdown-item" href="general-surgeon-in-jaipur.php">General Surgery</a></li>
-                <li><a class="dropdown-item" href="gynaecologist-obstetrician-doctor-in-jaipur.php">Gynaecologist</a></li>
+                <li><a class="dropdown-item" href="gynaecologist-obstetrician-doctor-in-jaipur.php">Gynaecologist</a>
+                </li>
                 <li><a class="dropdown-item" href="pediatrician-doctor-in-jaipur.php">Paediatrics</a></li>
                 <li><a class="dropdown-item" href="urologist-doctor-in-jaipur.php">Urology</a></li>
-                <li><a class="dropdown-item" href="icu-critical-care-emergency-hospital-in-jaipur.php">Critical Care</a></li>
+                <li><a class="dropdown-item" href="icu-critical-care-emergency-hospital-in-jaipur.php">Critical Care</a>
+                </li>
                 <li><a class="dropdown-item" href="gastroenterology-gi-hospital-in-jaipur.php">GI-Bariatic</a></li>
                 <li><a class="dropdown-item" href="about-us.php">Neurosurgery</a></li>
                 <li><a class="dropdown-item" href="dietetics-department.php">Dietetics Department</a></li>
@@ -99,34 +102,54 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-            <li class="nav-item">
-              <a class="nav-link active" aria-current="page" href="#">Home</a>
+            <li class="nav-item px-2">
+              <a class="nav-link active" aria-current="page" href="index.php">Home</a>
             </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#">Link</a>
-            </li>
-            <li class="nav-item dropdown">
+            <li class="nav-item dropdown px-2">
               <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
                 aria-expanded="false">
-                Dropdown
+                About Us
               </a>
               <ul class="dropdown-menu">
-                <li><a class="dropdown-item" href="#">Action</a></li>
-                <li><a class="dropdown-item" href="#">Another action</a></li>
-                <li>
-                  <hr class="dropdown-divider">
-                </li>
-                <li><a class="dropdown-item" href="#">Something else here</a></li>
+                <li><a class="dropdown-item" href="about-us.php">Know Us</a></li>
+                <li><a class="dropdown-item" href="our-doctor.php">Our Doctors</a></li>
               </ul>
             </li>
-            <li class="nav-item">
-              <a class="nav-link disabled" aria-disabled="true">Disabled</a>
+            <li class="nav-item dropdown px-2">
+              <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
+                aria-expanded="false">
+                Services
+              </a>
+              <ul class="dropdown-menu">
+                <li><a class="dropdown-item" href="knee-replacement.php">Joint Replacement</a></li>
+                <li><a class="dropdown-item" href="knee-replacement.php">Knee Replacement</a></li>
+                <li><a class="dropdown-item" href="bariatric-surgery-hospital-in-jaipur.php">Bariatic Surgery</a></li>
+                <li><a class="dropdown-item" href="humanoid-robotics-surgery-in-jaipur.php">Humanoid Robotics
+                    Surgery</a></li>
+                <li><a class="dropdown-item" href="general-surgeon-in-jaipur.php">General Surgery</a></li>
+                <li><a class="dropdown-item" href="gynaecologist-obstetrician-doctor-in-jaipur.php">Gynaecologist</a>
+                </li>
+                <li><a class="dropdown-item" href="pediatrician-doctor-in-jaipur.php">Paediatrics</a></li>
+                <li><a class="dropdown-item" href="urologist-doctor-in-jaipur.php">Urology</a></li>
+                <li><a class="dropdown-item" href="icu-critical-care-emergency-hospital-in-jaipur.php">Critical Care</a>
+                </li>
+                <li><a class="dropdown-item" href="gastroenterology-gi-hospital-in-jaipur.php">GI-Bariatic</a></li>
+                <li><a class="dropdown-item" href="about-us.php">Neurosurgery</a></li>
+                <li><a class="dropdown-item" href="dietetics-department.php">Dietetics Department</a></li>
+                <li><a class="dropdown-item" href="best-ent-hospital-in-jaipur.php">ENT</a></li>
+                <!-- <li><a class="dropdown-item" href="doctors.php">Orthopedics</a></li> -->
+              </ul>
+            </li>
+            <li class="nav-item px-2">
+              <a class="nav-link" href="blog.php">Blog</a>
+            </li>
+            <li class="nav-item px-2">
+              <a class="nav-link" href="#">Review Us</a>
+            </li>
+            <li class="nav-item px-2">
+              <a class="nav-link" href="contact-us.php">Contact Us</a>
             </li>
           </ul>
-          <form class="d-flex" role="search">
-            <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-            <button class="btn btn-outline-success" type="submit">Search</button>
-          </form>
         </div>
       </div>
     </nav>
