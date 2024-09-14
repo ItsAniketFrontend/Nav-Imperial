@@ -47,7 +47,7 @@
               </a>
               <ul class="dropdown-menu">
                 <li><a class="dropdown-item" href="about-us.php">Know Us</a></li>
-                <li><a class="dropdown-item" href="doctors.php">Our Doctors</a></li>
+                <li><a class="dropdown-item" href="our-doctor.php">Our Doctors</a></li>
               </ul>
             </li>
             <li class="nav-item dropdown">
@@ -69,21 +69,21 @@
                 <li><a class="dropdown-item" href="about-us.php">Neurosurgery</a></li>
                 <li><a class="dropdown-item" href="dietetics-department.php">Dietetics Department</a></li>
                 <li><a class="dropdown-item" href="best-ent-hospital-in-jaipur.php">ENT</a></li>
-                <li><a class="dropdown-item" href="doctors.php">Orthopedics</a></li>
+                <!-- <li><a class="dropdown-item" href="doctors.php">Orthopedics</a></li> -->
               </ul>
             </li>
             <li class="nav-item px-2">
-              <a class="nav-link">Blog</a>
+              <a class="nav-link" href="blog.php">Blog</a>
             </li>
             <li class="nav-item px-2">
               <a class="nav-link" href="#">Review Us</a>
             </li>
             <li class="nav-item px-2">
-              <a class="nav-link" href="contact.php">Contact Us</a>
+              <a class="nav-link" href="contact-us.php">Contact Us</a>
             </li>
           </ul>
         </div>
-        <button><a href="">Book Appointment</a></button>
+        <button><a href="contact-us.php">Book Appointment</a></button>
       </div>
     </nav>
   </div>

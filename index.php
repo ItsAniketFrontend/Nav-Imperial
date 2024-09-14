@@ -44,19 +44,9 @@
                     </div>
                     <div class="col-lg-6 col-12">
                         <h2>India's Most Trusted Orthopedic Hospital in Jaipur</h2>
-                        <p>NAV Imperial Hospital and Research Centre are one of the best orthopedic hospital in Jaipur,
-                            Rajasthan headed by "Dr Sachin Gupta"(Orthopedic and Joint replacement Surgeon) & "Dr Mahesh
-                            Jangir" (Bariatric and Laparoscopic Surgeon). Our state-of-the-art hospital focuses on
-                            providing World Class Services with modern amenities and infrastructure, We have 24/7
-                            availability of anaesthesia, ambulances, hygienic ICU, clean private wards, doctors, and
-                            nurses who provide timely personalized services. We render our best health care services for
-                            all types of ailments including orthopaedic trauma, arthritis, spinal cord injury, sports
-                            injury, back pain, breast cancer, gallstone, bowel diseases, piles, hernia, etc. Nav
-                            Imperial Hospital, a leading private hospital in Jaipur believes in the popular saying
-                            prevention is better than cure, therefore we provide our patients with the best technologies
-                            including advanced laparoscopic surgery that helps in painless surgeries.</p>
+                        <p>NAV Imperial Hospital and Research Centre are one of the best orthopedic hospital in Jaipur, Rajasthan headed by "Dr Sachin Gupta"(Orthopedic and Joint replacement Surgeon) & "Dr Mahesh Jangir" (Bariatric and Laparoscopic Surgeon). Our state-of-the-art hospital focuses on providing World Class Services with modern amenities and infrastructure, We have 24/7 availability of anaesthesia, ambulances, hygienic ICU, clean private wards, doctors, and nurses who provide timely personalized services. We render our best health care services for all types of ailments including orthopaedic trauma, arthritis, spinal cord injury, sports injury, back pain, breast cancer, gallstone, bowel diseases, piles, hernia, etc. Nav Imperial Hospital, a leading private hospital in Jaipur believes in the popular saying prevention is better than cure, therefore we provide our patients with the best technologies including advanced laparoscopic surgery that helps in painless surgeries.</p>
                         <div class="d-flex align-items-center justify-content-center">
-                            <button><a href="">Know More</a></button>
+                            <button><a href="about-us.php">Know More</a></button>
                         </div>
                     </div>
                 </div>
@@ -162,9 +152,9 @@
                         </div>
                     </div>
                 </div>
-                <div class="d-flex align-items-center justify-content-center mt-5">
+                <!-- <div class="d-flex align-items-center justify-content-center mt-5">
                     <button><a href="">View all</a></button>
-                </div>
+                </div> -->
             </div>
         </section>
 
@@ -173,15 +163,8 @@
                 <div class="row">
                     <div class="col-lg-7 d-flex justify-content-center flex-column">
                         <h2>Well Known Orthopedic Hospital in Jaipur</h2>
-                        <p>Orthopedics is a medical field that focuses on the Musculoskeletal System, crucial for body
-                            movement, stability, and support. This system includes ligaments, joints, muscles, bones,
-                            cartilage, tendons, and connective tissues that hold our body together. If you have any
-                            musculoskeletal issues, the orthopedic department at Nav Imperial Hospital in Jaipur is the
-                            place to go. We known as the best orthopedic hospital in Jaipur, providing top-notch care
-                            and successful surgeries for joint injuries. Our team of specialized orthopedic doctors, led
-                            by Dr. Sachin Gupta, who is india’s most known knee repalcement surgeon in Jaipur, is highly
-                            qualified and experienced, dedicated to your well-being.</p>
-                        <button><a href="">Book Appointment</a></button>
+                        <p>Orthopedics is a medical field that focuses on the Musculoskeletal System, crucial for body movement, stability, and support. This system includes ligaments, joints, muscles, bones, cartilage, tendons, and connective tissues that hold our body together. If you have any musculoskeletal issues, the orthopedic department at Nav Imperial Hospital in Jaipur is the place to go. We known as the best orthopedic hospital in Jaipur, providing top-notch care and successful surgeries for joint injuries. Our team of specialized orthopedic doctors, led by Dr. Sachin Gupta, who is india’s most known knee repalcement surgeon in Jaipur, is highly qualified and experienced, dedicated to your well-being.</p>
+                        <button><a href="contact-us.php">Book Appointment</a></button>
                     </div>
                     <div class="col-lg-5">
                         <img src="Images/home-orthopedic.png" class="img-fluid" alt="">
@@ -254,7 +237,7 @@
                     </div>
                 </div>
                 <div class="d-flex justify-content-center align-items-center mt-5">
-                    <button><a href="">Book Appointment</a></button>
+                    <button><a href="contact-us.php">Book Appointment</a></button>
                 </div>
             </div>
         </section>
@@ -351,7 +334,7 @@
                     </div>
                 </div>
                 <div class="d-flex mt-5 justify-content-center align-items-center">
-                    <button><a href="">Our Doctors</a></button>
+                    <button><a href="our-doctor.php">Our Doctors</a></button>
                 </div>
             </div>
         </section>
