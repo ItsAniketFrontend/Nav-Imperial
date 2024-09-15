@@ -3534,7 +3534,8 @@ footer .sub-foot h6 a {
   font-size: 35px;
   font-style: normal;
   font-weight: 700;
-  line-height: 40px; /* 114.286% */
+  line-height: 40px;
+  /* 114.286% */
   background: linear-gradient(224deg, #0E3F72 6.81%, #09956D 95.34%);
   background-clip: text;
   -webkit-background-clip: text;
@@ -3546,14 +3547,16 @@ footer .sub-foot h6 a {
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
-  line-height: 25px; /* 156.25% */
+  line-height: 25px;
+  /* 156.25% */
 }
 .obstetrics h3 {
   font-family: "Futura Md BT";
   font-size: 24px;
   font-style: normal;
   font-weight: 700;
-  line-height: 40px; /* 100% */
+  line-height: 40px;
+  /* 100% */
   background: linear-gradient(202deg, #0E3F72 37.38%, #09956D 121.58%);
   background-clip: text;
   -webkit-background-clip: text;
@@ -3566,14 +3569,16 @@ footer .sub-foot h6 a {
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
-  line-height: 25px; /* 156.25% */
+  line-height: 25px;
+  /* 156.25% */
 }
 .gynac h3 {
   font-family: "Futura Md BT";
   font-size: 24px;
   font-style: normal;
   font-weight: 700;
-  line-height: 40px; /* 100% */
+  line-height: 40px;
+  /* 100% */
   background: linear-gradient(202deg, #0E3F72 37.38%, #09956D 121.58%);
   background-clip: text;
   -webkit-background-clip: text;
@@ -3585,7 +3590,8 @@ footer .sub-foot h6 a {
   font-size: 35px;
   font-style: normal;
   font-weight: 700;
-  line-height: 40px; /* 114.286% */
+  line-height: 40px;
+  /* 114.286% */
   background: linear-gradient(224deg, #0E3F72 6.81%, #09956D 95.34%);
   background-clip: text;
   -webkit-background-clip: text;
@@ -3596,7 +3602,8 @@ footer .sub-foot h6 a {
   font-size: 24px;
   font-style: normal;
   font-weight: 700;
-  line-height: 40px; /* 100% */
+  line-height: 40px;
+  /* 100% */
   background: linear-gradient(202deg, #0E3F72 37.38%, #09956D 121.58%);
   background-clip: text;
   -webkit-background-clip: text;
@@ -3604,7 +3611,7 @@ footer .sub-foot h6 a {
 }
 .faq h6 {
   color: #000;
-  font-family: "HelveticaNeueRoman";
+  font-family: "HelveticaNeueRoman" !important;
   font-size: 21px;
   font-style: normal;
   font-weight: 400;
@@ -3613,11 +3620,12 @@ footer .sub-foot h6 a {
 }
 .faq p {
   color: #5A5A5A;
-  font-family: "HelveticaNeueRoman";
+  font-family: "HelveticaNeueRoman" !important;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
-  line-height: 25px; /* 156.25% */
+  line-height: 25px;
+  /* 156.25% */
 }
 
 .blog-banner {
@@ -3630,4 +3638,259 @@ footer .sub-foot h6 a {
 
 .blogs {
   padding: 80px 0px;
+}
+.blogs .box h3 {
+  font-family: "Futura Md BT";
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  background: linear-gradient(202deg, #0E3F72 37.38%, #09956D 121.58%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.blogs .box p {
+  color: #5A5A5A;
+  font-family: "HelveticaNeueRoman" !important;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+}
+.blogs .box button {
+  border-radius: 5px;
+  padding: 10px 60px;
+  border: none;
+  background: linear-gradient(224deg, #174779 6.81%, #09956D 95.34%), #D9D9D9;
+}
+.blogs .box button a {
+  color: #FFF;
+  font-family: "Futura Hv BT";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 18.166px;
+  /* 82.572% */
+  text-decoration: none;
+}
+.blogs .box .blog-img-one {
+  background: url(../Images/Blogs/blog-1.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 250px;
+}
+.blogs .box .blog-img-two {
+  background: url(../Images/Blogs/blog-2.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 250px;
+}
+.blogs .box .blog-img-three {
+  background: url(../Images/Blogs/blog-3.jpeg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 250px;
+}
+.blogs .box .blog-img-four {
+  background: url(../Images/Blogs/blog-4.jpeg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 250px;
+}
+.blogs .box .blog-img-five {
+  background: url(../Images/Blogs/blog-5.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 250px;
+}
+.blogs .box .blog-img-six {
+  background: url(../Images/Blogs/blog-6.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 250px;
+}
+.blogs .box .blog-img-seven {
+  background: url(../Images/Blogs/blog-7.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 250px;
+}
+.blogs .box .blog-img-eight {
+  background: url(../Images/Blogs/blog-8.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 250px;
+}
+.blogs .box .blog-img-nine {
+  background: url(../Images/Blogs/blog-9.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 250px;
+}
+.blogs .box .blog-img-ten {
+  background: url(../Images/Blogs/blog-10.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 250px;
+}
+.blogs .box .blog-img-eleven {
+  background: url(../Images/Blogs/blog-11.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 250px;
+}
+.blogs .box .blog-img-twelve {
+  background: url(../Images/Blogs/blog-12.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 250px;
+}
+.blogs .box .blog-img-thirteen {
+  background: url(../Images/Blogs/blog-13.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 250px;
+}
+.blogs .box .blog-img-fourteen {
+  background: url(../Images/Blogs/blog-14.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 250px;
+}
+.blogs .box .blog-img-fiften {
+  background: url(../Images/Blogs/blog-15.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 250px;
+}
+.blogs .box .blog-img-sixteen {
+  background: url(../Images/Blogs/blog-16.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 250px;
+}
+.blogs .box .blog-img-seventeen {
+  background: url(../Images/Blogs/blog-17.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 250px;
+}
+.blogs .box .blog-img-eighteen {
+  background: url(../Images/Blogs/blog-18.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 250px;
+}
+.blogs .box .blog-img-nineteen {
+  background: url(../Images/Blogs/blog-19.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 250px;
+}
+.blogs .box .blog-img-tweenty {
+  background: url(../Images/Blogs/blog-20.webp);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 250px;
+}
+
+.blog-content {
+  padding-top: 10rem;
+  padding-bottom: 30px;
+}
+.blog-content h1 {
+  font-family: "Futura Md BT";
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 500;
+  color: #000;
+}
+.blog-content h2 {
+  font-family: "Futura Md BT";
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  background: linear-gradient(202deg, #0E3F72 37.38%, #09956D 121.58%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.blog-content h3 {
+  font-family: "Futura Md BT";
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  color: #000;
+}
+.blog-content h4 {
+  font-family: "Futura Md BT";
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 800;
+  color: #000;
+}
+.blog-content p {
+  color: #5A5A5A;
+  font-family: "HelveticaNeueRoman" !important;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 25px;
+  /* 156.25% */
+}
+.blog-content p a {
+  text-decoration: none;
+  background: linear-gradient(202deg, #0E3F72 37.38%, #09956D 121.58%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.blog-content li {
+  color: #5A5A5A;
+  font-family: "HelveticaNeueRoman" !important;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 25px;
+  /* 156.25% */
+}
+.blog-content li a {
+  text-decoration: none;
+  background: linear-gradient(202deg, #0E3F72 37.38%, #09956D 121.58%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.blog-content .blog-content-1 {
+  background: url(../Images/Blogs/blog-1.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 150px;
+}
+.blog-content .blog-content-2 {
+  background: url(../Images/Blogs/blog-2.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 150px;
 }/*# sourceMappingURL=style.css.map */

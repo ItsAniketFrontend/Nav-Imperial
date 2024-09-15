@@ -32,7 +32,7 @@
         <section class="blogs">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-3 col-6">
+                    <div class="col-lg-3 col-6 my-2">
                         <div class="box">
                             <!-- <img src="" alt=""> -->
                                 <div class="blog-img-one">
@@ -40,26 +40,26 @@
                             <div class="content-box">
                                 <h3>What is Arthritis | Causes, Symptoms, Diagnosis, Treatment</h3>
                                 <p>In today’s fastest-growing era joint pain is a new normal irrespective of age and gender. Facts say that around one out of five people have chronic pain caused due to arthritis and as a matter of fact more than half are unaware of the reason behind their pain.</p>
-                                <button><a href="">Read More</a></button>
+                                <button><a href="what-is-arthritis-causes-symptoms-treatment.php">Read More</a></button>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-3 col-6">
+                    <div class="col-lg-3 col-6 my-2">
                         <div class="box">
                             <!-- <img src="" alt=""> -->
-                                <div class="img-box">
+                                <div class="blog-img-two">
                                 </div>
                             <div class="content-box">
                                 <h3>Everything you need to know about Joint replacement</h3>
                                 <p>Joint replacement surgery, is a procedure of orthopaedic surgery in which an arthritic or dysfunctional joint surface is replaced with an orthopaedic prosthesis (artificial device that replaces a missing body part).</p>
-                                <button><a href="">Read More</a></button>
+                                <button><a href="everything-you-need-to-know-about-joint-replacement.php">Read More</a></button>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-3 col-6">
+                    <div class="col-lg-3 col-6 my-2">
                         <div class="box">
                             <!-- <img src="" alt=""> -->
-                                <div class="img-box">
+                                <div class="blog-img-three">
                                 </div>
                             <div class="content-box">
                                 <h3>Tips to Avoid Knee Pain & Injuries</h3>
@@ -68,10 +68,10 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-3 col-6">
+                    <div class="col-lg-3 col-6 my-2">
                         <div class="box">
                             <!-- <img src="" alt=""> -->
-                                <div class="img-box">
+                                <div class="blog-img-four">
                                 </div>
                             <div class="content-box">
                                 <h3>Most Common Joint Replacement Surgery Myths and Facts</h3>
@@ -80,10 +80,10 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-3 col-6">
+                    <div class="col-lg-3 col-6 my-2">
                         <div class="box">
                             <!-- <img src="" alt=""> -->
-                                <div class="img-box">
+                                <div class="blog-img-five">
                                 </div>
                             <div class="content-box">
                                 <h3>Sports Injury: Types, Treatment, Exercises, and Prevention</h3>
@@ -92,10 +92,10 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-3 col-6">
+                    <div class="col-lg-3 col-6 my-2">
                         <div class="box">
                             <!-- <img src="" alt=""> -->
-                                <div class="img-box">
+                                <div class="blog-img-six">
                                 </div>
                             <div class="content-box">
                                 <h3>Why NAV Imperial Hospital is the best Orthopedic and Joint replacement hospital in Jaipur</h3>
@@ -104,10 +104,10 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-3 col-6">
+                    <div class="col-lg-3 col-6 my-2">
                         <div class="box">
                             <!-- <img src="" alt=""> -->
-                                <div class="img-box">
+                                <div class="blog-img-seven">
                                 </div>
                             <div class="content-box">
                                 <h3>What is robotics knee replacement? And Why you should Choose Nav Imperial for robotic Knee Replacement surgery?</h3>
@@ -116,10 +116,10 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-3 col-6">
+                    <div class="col-lg-3 col-6 my-2">
                         <div class="box">
                             <!-- <img src="" alt=""> -->
-                                <div class="img-box">
+                                <div class="blog-img-eight">
                                 </div>
                             <div class="content-box">
                                 <h3>Everything you need to know about obesity and the risk factor associated with it.</h3>
@@ -128,10 +128,10 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-3 col-6">
+                    <div class="col-lg-3 col-6 my-2">
                         <div class="box">
                             <!-- <img src="" alt=""> -->
-                                <div class="img-box">
+                                <div class="blog-img-nine">
                                 </div>
                             <div class="content-box">
                                 <h3>What is bariatric surgery</h3>
@@ -140,10 +140,10 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-3 col-6">
+                    <div class="col-lg-3 col-6 my-2">
                         <div class="box">
                             <!-- <img src="" alt=""> -->
-                                <div class="img-box">
+                                <div class="blog-img-ten">
                                 </div>
                             <div class="content-box">
                                 <h3>Tailbone Pain: Overview, symptoms, causes & treatment</h3>
@@ -152,10 +152,10 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-3 col-6">
+                    <div class="col-lg-3 col-6 my-2">
                         <div class="box">
                             <!-- <img src="" alt=""> -->
-                                <div class="img-box">
+                                <div class="blog-img-eleven">
                                 </div>
                             <div class="content-box">
                                 <h3>Vitamin D: Benefits, deficiency, sources, treatment, and dosage</h3>
@@ -164,14 +164,110 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-3 col-6">
+                    <div class="col-lg-3 col-6 my-2">
                         <div class="box">
                             <!-- <img src="" alt=""> -->
-                                <div class="img-box">
+                                <div class="blog-img-twelve">
                                 </div>
                             <div class="content-box">
                                 <h3>Multiple Myeloma - Symptoms, Causes, Stages, Basics, and Treatment in Jaipur, India</h3>
                                 <p>Multiple myeloma is a type of blood cancer and it is also known as Kahler's disease. Cancerous cells in the white blood cells called plasma cells cause multiple myeloma.</p>
+                                <button><a href="">Read More</a></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-6 my-2">
+                        <div class="box">
+                            <!-- <img src="" alt=""> -->
+                                <div class="blog-img-thirteen">
+                                </div>
+                            <div class="content-box">
+                                <h3>Paralysis: Symptoms, causes, diagnosis, and Treatment</h3>
+                                <p>When a portion of your body does not have muscle movement, it is considered paralyzed. Paralysis can affect any part of your body at any time in your life. A person who is paralyzed lacks the ability to control a muscle or to command the muscles gathered together in one piece of their body</p>
+                                <button><a href="">Read More</a></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-6 my-2">
+                        <div class="box">
+                            <!-- <img src="" alt=""> -->
+                                <div class="blog-img-fourteen">
+                                </div>
+                            <div class="content-box">
+                                <h3>The A-Z Guide to keep your knees healthy</h3>
+                                <p>Knee pain The knee joint is the largest joint in the human body. Nowadays knee pain is such a normal problem, around us every 6 out of 10 people are suffering from this problem. Women are more likely than males to have significant knee problems.</p>
+                                <button><a href="">Read More</a></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-6 my-2">
+                        <div class="box">
+                            <!-- <img src="" alt=""> -->
+                                <div class="blog-img-fiften">
+                                </div>
+                            <div class="content-box">
+                                <h3>The Best RGHS Joint Replacement Surgery Hospital in Jaipur</h3>
+                                <p>Are you aware of the Central Government Health Scheme (CGHS) and Rajasthan Government Health Scheme (RGHS) schemes provided by the govt to its employees; if not then you are in a right place, go through the article and get all the information about the Central Government Health Scheme (CGHS) and Rajasthan Government Health Scheme (RGHS) scheme and the best hospital under RGHS and CGHS scheme for joint replacement in Jaipur.</p>
+                                <button><a href="">Read More</a></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-6 my-2">
+                        <div class="box">
+                            <!-- <img src="" alt=""> -->
+                                <div class="blog-img-sixteen">
+                                </div>
+                            <div class="content-box">
+                                <h3>Life after bariatric surgery</h3>
+                                <p>Obesity is a complicated disease that is associated with many other health issues. Obesity treatment goes beyond a diet to lose weight or bariatric surgery. Patients should plan to adopt a new lifestyle that includes healthy eating, exercise, and regular doctor visits. This strategy will have the highest chance of preventing weight gain and the recurrence of medical problems.</p>
+                                <button><a href="">Read More</a></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-6 my-2">
+                        <div class="box">
+                            <!-- <img src="" alt=""> -->
+                                <div class="blog-img-seventeen">
+                                </div>
+                            <div class="content-box">
+                                <h3>Knee joint problems? - Why choose Nav imperial Hospital, Jaipur</h3>
+                                <p>In a world impacted by COVID-19, new health challenges have come up. Since its beginning roughly 2 years back people are mostly confined to their homes with little or no exercise.That is one of the reasons people are suffering from increasing health concerns. Knee joint problems have surged rapidly during Covid 19. In this post, Nav Imperial tells about the causes, risks involved in knee replacement surgery.</p>
+                                <button><a href="">Read More</a></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-6 my-2">
+                        <div class="box">
+                            <!-- <img src="" alt=""> -->
+                                <div class="blog-img-eighteen">
+                                </div>
+                            <div class="content-box">
+                                <h3>Top Must Try 13 Supplements for Joint Pain | Nav Imperial</h3>
+                                <p>Here are the 13 best supplements to reduce joint pain. These supplements include vitamins that help to get relief from Joint pain.</p>
+                                <button><a href="">Read More</a></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-6 my-2">
+                        <div class="box">
+                            <!-- <img src="" alt=""> -->
+                                <div class="blog-img-nineteen">
+                                </div>
+                            <div class="content-box">
+                                <h3>Learn about Types of Synovial Joints and their functions | Nav Imperial</h3>
+                                <p>The adult human body has 206 bones and approximately 300 joints that connect two bones in a body. Among them some joints allow movement and such joints are known as synovial joint.</p>
+                                <button><a href="">Read More</a></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-6 my-2">
+                        <div class="box">
+                            <!-- <img src="" alt=""> -->
+                                <div class="blog-img-tweenty">
+                                </div>
+                            <div class="content-box">
+                                <h3>Top 10 Exercises to Reduce Belly Fat- Nav Imperial</h3>
+                                <p>Many people suffer from the issue of belly fat and want to get rid of this. Here we mentioned the top 10 exercises to reduce belly fat it might help you to reduce belly fat.</p>
                                 <button><a href="">Read More</a></button>
                             </div>
                         </div>
