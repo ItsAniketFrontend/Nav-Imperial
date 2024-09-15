@@ -3812,6 +3812,62 @@ footer .sub-foot h6 a {
   background-size: cover;
   min-height: 250px;
 }
+.blogs .box .blog-img-tweentyone {
+  background: url(../Images/Blogs/blog-21.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 250px;
+}
+.blogs .box .blog-img-tweentytwo {
+  background: url(../Images/Blogs/blog-22.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 250px;
+}
+.blogs .box .blog-img-tweentythree {
+  background: url(../Images/Blogs/blog-23.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 250px;
+}
+.blogs .box .blog-img-tweentyfour {
+  background: url(../Images/Blogs/blog-24.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 250px;
+}
+.blogs .box .blog-img-tweentyfive {
+  background: url(../Images/Blogs/blog-25.webp);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 250px;
+}
+.blogs .box .blog-img-tweentysix {
+  background: url(../Images/Blogs/blog-26.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 250px;
+}
+.blogs .box .blog-img-tweentyseven {
+  background: url(../Images/Blogs/blog-27.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 250px;
+}
+.blogs .box .blog-img-tweentyeight {
+  background: url(../Images/Blogs/blog-28.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 250px;
+}
 
 .blog-content {
   padding-top: 10rem;
@@ -3889,6 +3945,13 @@ footer .sub-foot h6 a {
 }
 .blog-content .blog-content-2 {
   background: url(../Images/Blogs/blog-2.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 150px;
+}
+.blog-content .blog-content-3 {
+  background: url(../Images/Blogs/blog-3.jpeg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;

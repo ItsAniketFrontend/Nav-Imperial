@@ -64,7 +64,7 @@
                             <div class="content-box">
                                 <h3>Tips to Avoid Knee Pain & Injuries</h3>
                                 <p>Knee pain is a common issue, especially for people of old age. Pain in the knee can be moderate to severe. Over time, our knees endure a lot of wear & tear as we fight against gravity to move and walk.</p>
-                                <button><a href="">Read More</a></button>
+                                <button><a href="tips-to-avoid-knee-pain-and-injuries.php">Read More</a></button>
                             </div>
                         </div>
                     </div>
@@ -268,6 +268,104 @@
                             <div class="content-box">
                                 <h3>Top 10 Exercises to Reduce Belly Fat- Nav Imperial</h3>
                                 <p>Many people suffer from the issue of belly fat and want to get rid of this. Here we mentioned the top 10 exercises to reduce belly fat it might help you to reduce belly fat.</p>
+                                <button><a href="">Read More</a></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-6 my-2">
+                        <div class="box">
+                            <!-- <img src="" alt=""> -->
+                                <div class="blog-img-tweentyone">
+                                </div>
+                            <div class="content-box">
+                                <h3>What Does an Orthopedic Doctor Do- Nav Imperial</h3>
+                                <p>Orthopedic is a broad field that involves the study, diagnosis, and treatment related to the bones of the human body. Here you will know about what orthopedic doctors do, education and training, and more.</p>
+                                <button><a href="">Read More</a></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-6 my-2">
+                        <div class="box">
+                            <!-- <img src="" alt=""> -->
+                                <div class="blog-img-tweentytwo">
+                                </div>
+                            <div class="content-box">
+                                <h3>Learn Everything about Total Knee Replacement</h3>
+                                <p>People injure their knees Many times while working out too much, carrying heavy objects and not taking enough rest. They experience unbearable pain and soreness. People require surgery When the condition of their knee worsens.</p>
+                                <button><a href="">Read More</a></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-6 my-2">
+                        <div class="box">
+                            <!-- <img src="" alt=""> -->
+                                <div class="blog-img-tweentythree">
+                                </div>
+                            <div class="content-box">
+                                <h3>Know What to Eat After Bariatric Surgery</h3>
+                                <p>According to the bariatric surgeon you need to keep the emphasis on your diet after bariatric surgery, So read this blog and know about healthy diet plan.</p>
+                                <button><a href="">Read More</a></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-6 my-2">
+                        <div class="box">
+                            <!-- <img src="" alt=""> -->
+                                <div class="blog-img-tweentyfour">
+                                </div>
+                            <div class="content-box">
+                                <h3>
+                                Best Low-Cost Knee Replacement Surgery in Jaipur</h3>
+                                <p>Get the Finest treatment by the top knee replacement surgeon in Jaipur at Nav Imperial.</p>
+                                <button><a href="">Read More</a></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-6 my-2">
+                        <div class="box">
+                            <!-- <img src="" alt=""> -->
+                                <div class="blog-img-tweentyfive">
+                                </div>
+                            <div class="content-box">
+                                <h3>10 Foods to Relieve Knee Pain</h3>
+                                <p>Here you can find the top 10 foods that help to get relieve knee pain like Green vegetables, dry fruits, root vegetables and more.</p>
+                                <button><a href="">Read More</a></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-6 my-2">
+                        <div class="box">
+                            <!-- <img src="" alt=""> -->
+                                <div class="blog-img-tweentysix">
+                                </div>
+                            <div class="content-box">
+                                <h3>
+                                Tips to Keep Knees Healthy and Strong</h3>
+                                <p>The knee is one of the body's biggest and most complicated joints.</p>
+                                <button><a href="">Read More</a></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-6 my-2">
+                        <div class="box">
+                            <!-- <img src="" alt=""> -->
+                                <div class="blog-img-tweentyseven">
+                                </div>
+                            <div class="content-box">
+                                <h3>Top 10 Myths & Facts About Knee Replacement Surgery</h3>
+                                <p>Although 90% of the people suffer from knee injuries and knee pain issues. Some of them get the basic treatment through medications and exercises & some of them might need knee replacement surgery to get rid of knee pain.</p>
+                                <button><a href="">Read More</a></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-6 my-2">
+                        <div class="box">
+                            <!-- <img src="" alt=""> -->
+                                <div class="blog-img-tweentyeight">
+                                </div>
+                            <div class="content-box">
+                                <h3>Foods for Healthy Joints and Cartilage</h3>
+                                <p>Know about the Foods for Healthy Joints and Cartilage and make your joints strong.</p>
                                 <button><a href="">Read More</a></button>
                             </div>
                         </div>
