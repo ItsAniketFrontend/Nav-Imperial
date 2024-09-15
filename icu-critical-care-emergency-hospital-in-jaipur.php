@@ -43,7 +43,7 @@
         </section>
 
 
-        <section class="intensive-form">
+        <!-- <section class="intensive-form">
             <div class="container">
                 <div class="form-box">
                     <h1>APPOINTMENT FORM</h1>
@@ -71,7 +71,7 @@
                     </form>
                 </div>
             </div>
-        </section>
+        </section> -->
 
         
 

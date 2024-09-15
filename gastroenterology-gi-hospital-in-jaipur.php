@@ -70,7 +70,7 @@
         </section>
 
 
-        <section class="gastro-form">
+        <!-- <section class="gastro-form">
             <div class="container">
                 <div class="form-box">
                     <h1>APPOINTMENT FORM</h1>
@@ -98,7 +98,7 @@
                     </form>
                 </div>
             </div>
-        </section>
+        </section> -->
 
         
 

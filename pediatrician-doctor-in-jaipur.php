@@ -72,7 +72,7 @@
             </div>
         </section>
 
-        <section class="paed-form">
+        <!-- <section class="paed-form">
             <div class="container">
                 <div class="form-box">
                     <h1>APPOINTMENT FORM</h1>
@@ -100,7 +100,7 @@
                     </form>
                 </div>
             </div>
-        </section>
+        </section> -->
 
         
 
