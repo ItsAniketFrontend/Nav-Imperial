@@ -90,7 +90,7 @@
                             <img src="Images/joint-replacement.png" class="img-fluid" alt="">
                             <h3>Joint Replacement</h3>
                             <hr>
-                            <button><a href="knee-replacement.php">Know More</a></button>
+                            <button><a href="knee-replacement-surgery-in-Jaipur.php">Know More</a></button>
                         </div>
                     </div>
                     <div class="col-lg-3 col-6 my-lg-0 my-5">
@@ -702,7 +702,6 @@
     include ('footer.php');
     ?>
 
-
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
         crossorigin="anonymous"></script>
@@ -712,5 +711,4 @@
     <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
     <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
 </body>
-
 </html>
