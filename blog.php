@@ -76,7 +76,7 @@
                             <div class="content-box">
                                 <h3>Most Common Joint Replacement Surgery Myths and Facts</h3>
                                 <p>Our joints play a vital role in balancing our body weight. Many people suffer from arthritis and bone ailment issues today because of living an unhealthy lifestyle. People suffer from severe joint pain because of joint injury or severe joint pain.</p>
-                                <button><a href="">Read More</a></button>
+                                <button><a href="joint-replacement-surgery-myths-and-facts.php">Read More</a></button>
                             </div>
                         </div>
                     </div>
@@ -88,7 +88,7 @@
                             <div class="content-box">
                                 <h3>Sports Injury: Types, Treatment, Exercises, and Prevention</h3>
                                 <p>Sports injuries meaning- as the name suggests, injury occurs during sports or exercise. While doing any sports actisports-injuryvity or exercise, there might be a chance of injuries like sprains, tears, bruises and many other injuries.</p>
-                                <button><a href="">Read More</a></button>
+                                <button><a href="sports-injury.php">Read More</a></button>
                             </div>
                         </div>
                     </div>
@@ -100,7 +100,7 @@
                             <div class="content-box">
                                 <h3>Why NAV Imperial Hospital is the best Orthopedic and Joint replacement hospital in Jaipur</h3>
                                 <p>NAV Imperial Hospital is the best orthopedic hospital in Jaipur. It is the best orthopedic Hospital in Jaipur & State of Art infrastructure specialty center for Joint Replacements and orthopedics.</p>
-                                <button><a href="">Read More</a></button>
+                                <button><a href="why-nav-imperial-hospital-is-the-best-orthopedic-hospital-in-jaipur.php">Read More</a></button>
                             </div>
                         </div>
                     </div>
@@ -112,7 +112,7 @@
                             <div class="content-box">
                                 <h3>What is robotics knee replacement? And Why you should Choose Nav Imperial for robotic Knee Replacement surgery?</h3>
                                 <p>Robotic Knee Replacement is the latest and advanced technology introduced to improve the accuracy of the traditional surgery procedure. In addition, robotic knee replacement has the potential to speed up the recovery process compared to standard procedures.</p>
-                                <button><a href="">Read More</a></button>
+                                <button><a href="Best-robotics-knee-replacement-in-Jaipur.php">Read More</a></button>
                             </div>
                         </div>
                     </div>
@@ -124,7 +124,7 @@
                             <div class="content-box">
                                 <h3>Everything you need to know about obesity and the risk factor associated with it.</h3>
                                 <p>Obesity is a complex disease involving excessive body fat. Obesity is more than it looks, it can disturb your life.</p>
-                                <button><a href="">Read More</a></button>
+                                <button><a href="obesity-and-risk-factor-associated-with-it.php">Read More</a></button>
                             </div>
                         </div>
                     </div>

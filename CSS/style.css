@@ -3929,6 +3929,9 @@ footer .sub-foot h6 a {
   line-height: 25px;
   /* 156.25% */
 }
+.blog-content li h3 {
+  display: inline-block;
+}
 .blog-content li a {
   text-decoration: none;
   background: linear-gradient(202deg, #0E3F72 37.38%, #09956D 121.58%);
@@ -3952,6 +3955,41 @@ footer .sub-foot h6 a {
 }
 .blog-content .blog-content-3 {
   background: url(../Images/Blogs/blog-3.jpeg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 150px;
+}
+.blog-content .blog-content-4 {
+  background: url(../Images/Blogs/blog-4.jpeg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 150px;
+}
+.blog-content .blog-content-5 {
+  background: url(../Images/Blogs/blog-5.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 150px;
+}
+.blog-content .blog-content-6 {
+  background: url(../Images/Blogs/blog-6.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 150px;
+}
+.blog-content .blog-content-7 {
+  background: url(../Images/Blogs/blog-7.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 150px;
+}
+.blog-content .blog-content-8 {
+  background: url(../Images/Blogs/blog-8.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;

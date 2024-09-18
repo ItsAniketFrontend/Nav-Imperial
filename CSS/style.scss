@@ -4292,7 +4292,9 @@ footer {
         font-style: normal;
         font-weight: 400;
         line-height: 25px;
-
+        h3{
+            display: inline-block;
+        }
         /* 156.25% */
         a {
             text-decoration: none;
@@ -4323,4 +4325,40 @@ footer {
         background-size: cover;
         min-height: 150px;
     }
+    .blog-content-4{
+        background: url(../Images/Blogs/blog-4.jpeg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        min-height: 150px;
+    }
+    .blog-content-5{
+        background: url(../Images/Blogs/blog-5.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        min-height: 150px;
+    }
+    .blog-content-6{
+        background: url(../Images/Blogs/blog-6.png);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        min-height: 150px;
+    }
+    .blog-content-7{
+        background: url(../Images/Blogs/blog-7.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        min-height: 150px;
+    }
+    .blog-content-8{
+        background: url(../Images/Blogs/blog-8.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        min-height: 150px;
+    }
+    
 }
