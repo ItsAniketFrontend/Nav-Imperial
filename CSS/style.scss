@@ -3914,7 +3914,7 @@ footer {
     }
 }
 
-.faq {
+.blog-faq {
     h2 {
         font-family: "Futura Md BT";
         font-size: 35px;
@@ -3930,7 +3930,7 @@ footer {
 
     h3 {
         font-family: "Futura Md BT";
-        font-size: 24px;
+        font-size: 20px;
         font-style: normal;
         font-weight: 700;
         line-height: 40px;
@@ -4355,6 +4355,13 @@ footer {
     }
     .blog-content-8{
         background: url(../Images/Blogs/blog-8.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        min-height: 150px;
+    }
+    .blog-content-9{
+        background: url(../Images/Blogs/blog-9.jpg);
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;

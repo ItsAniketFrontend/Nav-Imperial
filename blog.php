@@ -136,7 +136,7 @@
                             <div class="content-box">
                                 <h3>What is bariatric surgery</h3>
                                 <p>The surgical treatment of weight loss, also known as bariatric surgery, has proven effective for diabetes, high blood pressure, sleep apnea, asthma, arthritis, acid reflux, infertility, and high cholesterol.</p>
-                                <button><a href="">Read More</a></button>
+                                <button><a href="low-cost-and-best-bariatric-surgery-in-jaipur.php">Read More</a></button>
                             </div>
                         </div>
                     </div>
