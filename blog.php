@@ -148,7 +148,7 @@
                             <div class="content-box">
                                 <h3>Tailbone Pain: Overview, symptoms, causes & treatment</h3>
                                 <p>Tailbone pain (coccydynia) occurs at the base of your spine, right above your buttocks, where this multisegmented bone is located. The tailbone is small, but it has a few important functions.</p>
-                                <button><a href="">Read More</a></button>
+                                <button><a href="what-is-tailbone-pain-and-its-symptoms-causes-treatments.php">Read More</a></button>
                             </div>
                         </div>
                     </div>
@@ -160,7 +160,7 @@
                             <div class="content-box">
                                 <h3>Vitamin D: Benefits, deficiency, sources, treatment, and dosage</h3>
                                 <p>As an essential vitamin, vitamin D plays an important role in immune function, calcium absorption, bone, muscle, and heart health.</p>
-                                <button><a href="">Read More</a></button>
+                                <button><a href="symptoms-of-vitamin-D-deficiency.php">Read More</a></button>
                             </div>
                         </div>
                     </div>
@@ -172,7 +172,7 @@
                             <div class="content-box">
                                 <h3>Multiple Myeloma - Symptoms, Causes, Stages, Basics, and Treatment in Jaipur, India</h3>
                                 <p>Multiple myeloma is a type of blood cancer and it is also known as Kahler's disease. Cancerous cells in the white blood cells called plasma cells cause multiple myeloma.</p>
-                                <button><a href="">Read More</a></button>
+                                <button><a href="multiple-myeloma-symptoms-causes-treatment.php">Read More</a></button>
                             </div>
                         </div>
                     </div>
@@ -184,7 +184,7 @@
                             <div class="content-box">
                                 <h3>Paralysis: Symptoms, causes, diagnosis, and Treatment</h3>
                                 <p>When a portion of your body does not have muscle movement, it is considered paralyzed. Paralysis can affect any part of your body at any time in your life. A person who is paralyzed lacks the ability to control a muscle or to command the muscles gathered together in one piece of their body</p>
-                                <button><a href="">Read More</a></button>
+                                <button><a href="What-is-paralysis-attack-and-what-are-its-treatment-methods.php">Read More</a></button>
                             </div>
                         </div>
                     </div>
