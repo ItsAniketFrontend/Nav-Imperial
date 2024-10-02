@@ -208,7 +208,7 @@
                             <div class="content-box">
                                 <h3>The Best RGHS Joint Replacement Surgery Hospital in Jaipur</h3>
                                 <p>Are you aware of the Central Government Health Scheme (CGHS) and Rajasthan Government Health Scheme (RGHS) schemes provided by the govt to its employees; if not then you are in a right place, go through the article and get all the information about the Central Government Health Scheme (CGHS) and Rajasthan Government Health Scheme (RGHS) scheme and the best hospital under RGHS and CGHS scheme for joint replacement in Jaipur.</p>
-                                <button><a href="">Read More</a></button>
+                                <button><a href="https://navimperialhospital.com/blog/best-rghs-joint-replacement-hospital.php">Read More</a></button>
                             </div>
                         </div>
                     </div>
@@ -220,7 +220,7 @@
                             <div class="content-box">
                                 <h3>Life after bariatric surgery</h3>
                                 <p>Obesity is a complicated disease that is associated with many other health issues. Obesity treatment goes beyond a diet to lose weight or bariatric surgery. Patients should plan to adopt a new lifestyle that includes healthy eating, exercise, and regular doctor visits. This strategy will have the highest chance of preventing weight gain and the recurrence of medical problems.</p>
-                                <button><a href="">Read More</a></button>
+                                <button><a href="https://navimperialhospital.com/blog/life-after-bariatric-surgery.php">Read More</a></button>
                             </div>
                         </div>
                     </div>
@@ -232,7 +232,7 @@
                             <div class="content-box">
                                 <h3>Knee joint problems? - Why choose Nav imperial Hospital, Jaipur</h3>
                                 <p>In a world impacted by COVID-19, new health challenges have come up. Since its beginning roughly 2 years back people are mostly confined to their homes with little or no exercise.That is one of the reasons people are suffering from increasing health concerns. Knee joint problems have surged rapidly during Covid 19. In this post, Nav Imperial tells about the causes, risks involved in knee replacement surgery.</p>
-                                <button><a href="">Read More</a></button>
+                                <button><a href="https://navimperialhospital.com/blog/knee-joint-problems-why-choose-nav-imperial-hospital-jaipur.php">Read More</a></button>
                             </div>
                         </div>
                     </div>
