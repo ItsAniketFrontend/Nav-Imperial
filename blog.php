@@ -304,7 +304,7 @@
                             <div class="content-box">
                                 <h3>Know What to Eat After Bariatric Surgery</h3>
                                 <p>According to the bariatric surgeon you need to keep the emphasis on your diet after bariatric surgery, So read this blog and know about healthy diet plan.</p>
-                                <button><a href="">Read More</a></button>
+                                <button><a href="https://navimperialhospital.com/blog/diet-after-bariatric-surgery.php">Read More</a></button>
                             </div>
                         </div>
                     </div>
@@ -317,7 +317,7 @@
                                 <h3>
                                 Best Low-Cost Knee Replacement Surgery in Jaipur</h3>
                                 <p>Get the Finest treatment by the top knee replacement surgeon in Jaipur at Nav Imperial.</p>
-                                <button><a href="">Read More</a></button>
+                                <button><a href="https://navimperialhospital.com/blog/best-low-cost-knee-replacement-surgery.php">Read More</a></button>
                             </div>
                         </div>
                     </div>
@@ -329,7 +329,7 @@
                             <div class="content-box">
                                 <h3>10 Foods to Relieve Knee Pain</h3>
                                 <p>Here you can find the top 10 foods that help to get relieve knee pain like Green vegetables, dry fruits, root vegetables and more.</p>
-                                <button><a href="">Read More</a></button>
+                                <button><a href="https://navimperialhospital.com/blog/foods-to-relieve-knee-pain.php">Read More</a></button>
                             </div>
                         </div>
                     </div>
@@ -342,7 +342,7 @@
                                 <h3>
                                 Tips to Keep Knees Healthy and Strong</h3>
                                 <p>The knee is one of the body's biggest and most complicated joints.</p>
-                                <button><a href="">Read More</a></button>
+                                <button><a href="https://navimperialhospital.com/blog/tips-to-keep-knee-healthy-and-strong.php">Read More</a></button>
                             </div>
                         </div>
                     </div>
