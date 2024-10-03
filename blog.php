@@ -244,7 +244,7 @@
                             <div class="content-box">
                                 <h3>Top Must Try 13 Supplements for Joint Pain | Nav Imperial</h3>
                                 <p>Here are the 13 best supplements to reduce joint pain. These supplements include vitamins that help to get relief from Joint pain.</p>
-                                <button><a href="">Read More</a></button>
+                                <button><a href="https://navimperialhospital.com/blog/13-supplements-for-joint-pain.php">Read More</a></button>
                             </div>
                         </div>
                     </div>
@@ -256,7 +256,7 @@
                             <div class="content-box">
                                 <h3>Learn about Types of Synovial Joints and their functions | Nav Imperial</h3>
                                 <p>The adult human body has 206 bones and approximately 300 joints that connect two bones in a body. Among them some joints allow movement and such joints are known as synovial joint.</p>
-                                <button><a href="">Read More</a></button>
+                                <button><a href="https://navimperialhospital.com/blog/learn-about-types-of-synovial-joints-and-their-functions.php">Read More</a></button>
                             </div>
                         </div>
                     </div>
@@ -268,7 +268,7 @@
                             <div class="content-box">
                                 <h3>Top 10 Exercises to Reduce Belly Fat- Nav Imperial</h3>
                                 <p>Many people suffer from the issue of belly fat and want to get rid of this. Here we mentioned the top 10 exercises to reduce belly fat it might help you to reduce belly fat.</p>
-                                <button><a href="">Read More</a></button>
+                                <button><a href="https://navimperialhospital.com/blog/top-10-exercises-to-reduce-belly-fat.php">Read More</a></button>
                             </div>
                         </div>
                     </div>
@@ -280,7 +280,7 @@
                             <div class="content-box">
                                 <h3>What Does an Orthopedic Doctor Do- Nav Imperial</h3>
                                 <p>Orthopedic is a broad field that involves the study, diagnosis, and treatment related to the bones of the human body. Here you will know about what orthopedic doctors do, education and training, and more.</p>
-                                <button><a href="">Read More</a></button>
+                                <button><a href="https://navimperialhospital.com/blog/what-does-an-orthopedic-doctor-do.php">Read More</a></button>
                             </div>
                         </div>
                     </div>
@@ -292,7 +292,7 @@
                             <div class="content-box">
                                 <h3>Learn Everything about Total Knee Replacement</h3>
                                 <p>People injure their knees Many times while working out too much, carrying heavy objects and not taking enough rest. They experience unbearable pain and soreness. People require surgery When the condition of their knee worsens.</p>
-                                <button><a href="">Read More</a></button>
+                                <button><a href="https://navimperialhospital.com/blog/learn-everything-about-total-knee-replacement.php">Read More</a></button>
                             </div>
                         </div>
                     </div>
