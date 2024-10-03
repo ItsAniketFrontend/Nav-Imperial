@@ -120,17 +120,15 @@
                                 Imperial hospital</a> Dr Sachin Gupta can deliver the perfect treatment for your knee
                             problems. Dr Sachin, the expert knee doctor in Jaipur. If you have a worry or a question on
                             how to keep your knees healthy and strong, you may always contact us and obtain answers.</p>
-                        <p>Drop Your Query <a
-                                href="https://api.whatsapp.com/send/?phone=%2B919414064560&text&type=phone_number&app_absent=0">here</a>
-                        </p>
+                        <p>Drop Your Query <a href="https://api.whatsapp.com/send/?phone=%2B919414064560&text&type=phone_number&app_absent=0">here</a></p>
                     </div>
                 </div>
             </div>
         </section>
 
-
-
     </main>
+
+    
     <?php
     include('footer.php');
     ?>
