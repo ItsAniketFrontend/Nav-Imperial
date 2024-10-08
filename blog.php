@@ -354,7 +354,7 @@
                             <div class="content-box">
                                 <h3>Top 10 Myths & Facts About Knee Replacement Surgery</h3>
                                 <p>Although 90% of the people suffer from knee injuries and knee pain issues. Some of them get the basic treatment through medications and exercises & some of them might need knee replacement surgery to get rid of knee pain.</p>
-                                <button><a href="">Read More</a></button>
+                                <button><a href="https://navimperialhospital.com/blog/top-10-myths-and-facts-about-knee-replacement.php">Read More</a></button>
                             </div>
                         </div>
                     </div>
@@ -366,7 +366,7 @@
                             <div class="content-box">
                                 <h3>Foods for Healthy Joints and Cartilage</h3>
                                 <p>Know about the Foods for Healthy Joints and Cartilage and make your joints strong.</p>
-                                <button><a href="">Read More</a></button>
+                                <button><a href="https://navimperialhospital.com/blog/food-for-healthy-joints-and-cartilage.php">Read More</a></button>
                             </div>
                         </div>
                     </div>
